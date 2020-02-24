@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "About me"
+title: "About me - Ziyi (Francis) Yin"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-# Ziyi (Francis) Yin
 
 <img src="http://ziyiyin97.github.io/files/photo.JPG" width="300">
 
