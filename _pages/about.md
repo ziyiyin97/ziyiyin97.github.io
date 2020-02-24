@@ -10,7 +10,6 @@ redirect_from:
 
 # Ziyi (Francis) Yin
 
-
 <img src="http://ziyiyin97.github.io/files/photo.JPG" width="300">
 
 尹梓屹
