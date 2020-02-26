@@ -41,9 +41,9 @@ In my spare time, I enjoy playing golf and basketball.
   * Advisor: [Dr. James G. Nagy](http://www.mathcs.emory.edu/~nagy/)  
   * Thesis: [Edge Detection and Enriched Subspaces](https://etd.library.emory.edu/concern/etds/7w62f916x?locale=en)
 
-##### [LinkedIn](https://www.linkedin.com/in/ziyi-francis-yin/) [CV](http://ziyiyin97.github.io/Ziyi_Yin_CV.pdf)
+##### [LinkedIn](https://www.linkedin.com/in/ziyi-francis-yin/) [CV](http://ziyiyin97.github.io/files/Ziyi_Yin_CV.pdf)
 
-##### [Facebook](https://www.facebook.com/ziyi.yin.568) [Instagram](http://instagram.com/francis_yin97)
+##### [Facebook](https://www.facebook.com/ziyi.yin.97) [Instagram](http://instagram.com/francis_yin97)
 
 ### Recent News
 
