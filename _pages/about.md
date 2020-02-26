@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-尹梓屹
+Ziyi (Francis) Yin - 尹梓屹  
 
 Ph.D. student  
 
