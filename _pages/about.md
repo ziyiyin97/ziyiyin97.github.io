@@ -37,7 +37,7 @@ In my spare time, I enjoy playing golf and basketball.
 
 * Ph.D. Computational Science and Engineering, Georgia Institute of Technology (*in progress*)  
   * Advisor: [Dr. Felix J. Herrmann](https://www.ece.gatech.edu/faculty-staff-directory/felix-herrmann)  
-* B.S. Applied Mathematics and Statistics (Summa Cum Laude) &#124; Computer Science, Emory University  
+* B.S. Applied Mathematics and Statistics (summa cum laude) &#124; Computer Science, Emory University  
   * Advisor: [Dr. James G. Nagy](http://www.mathcs.emory.edu/~nagy/)  
   * Thesis: [Edge Detection and Enriched Subspaces](https://etd.library.emory.edu/concern/etds/7w62f916x?locale=en)
 
