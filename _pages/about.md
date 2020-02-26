@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+<img src="http://ziyiyin97.github.io/images/photo.JPG" width="300">
 
 Ziyi (Francis) Yin - 尹梓屹  
 
