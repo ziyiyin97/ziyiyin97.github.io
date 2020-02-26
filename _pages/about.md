@@ -35,10 +35,6 @@ In my spare time, I enjoy playing golf and basketball.
   * Advisor: [Dr. James G. Nagy](http://www.mathcs.emory.edu/~nagy/)  
   * Thesis: [Edge Detection and Enriched Subspaces](https://etd.library.emory.edu/concern/etds/7w62f916x?locale=en)
 
-##### [LinkedIn](https://www.linkedin.com/in/ziyi-francis-yin/) [CV](http://ziyiyin97.github.io/files/Ziyi_Yin_CV.pdf)
-
-##### [Facebook](https://www.facebook.com/ziyi.yin.97) [Instagram](http://instagram.com/francis_yin97)
-
 ### Recent News
 
 * Nov, 2019: I became the secretary for Georgia Tech Student Chapter of [Society of Exploration Geophysicists](https://seg.org/Education/Student-Early-Career/Student-Chapters/Student-Chapter-Details/student-chapter-listing-details/scID/000000200393) (SEG). Check our facebook page [here](https://www.facebook.com/SEGatGT/?__tn__=kC-R&eid=ARDlPiNX4l2eLF7ONkCI0Lr-LK4ZnblnVfhGlbdgeM5pS8ZZv99zGC4gu7YZ9RFcNrFF5_9JucyoO0mS&hc_ref=ARTyXEhOl66mNgq_SwaPiGGaV4swzPmEa-fJQwAT572Tm7oHO6qMvGnDSRl_tCxtM9o&fref=nf).
