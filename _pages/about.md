@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<img src="http://ziyiyin97.github.io/files/photo.JPG" width="300">
-
 尹梓屹
 
 Ph.D. student  
