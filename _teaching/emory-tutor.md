@@ -4,7 +4,7 @@ collection: teaching
 type: "MATH 250/361/362"
 permalink: /teaching/emory-tutor
 venue: "Emory University"
-location: "City, Country"
+location: "Atlanta, GA"
 ---
 
 MATH 250: Foundation of Mathematics.  
