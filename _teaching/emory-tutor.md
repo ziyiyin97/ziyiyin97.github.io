@@ -3,7 +3,7 @@ title: "EPASS Tutor"
 collection: teaching
 type: "MATH 250/361/362"
 permalink: /teaching/emory-tutor
-date: 2018
+date: 2018-01-01
 venue: "Emory University"
 location: "Atlanta, GA"
 ---
