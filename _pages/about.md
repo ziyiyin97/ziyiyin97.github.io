@@ -20,11 +20,11 @@ Georgia Institute of Technology
 
 ### Research Interest
 
-Machine learning, scientific computing, PDE-constrained optimization, inverse problems in seismic and medical imaging
+Machine learning, scientific computing, PDE-constrained optimization, inverse problems
 
 ### About me
 
-I am a first year Ph.D. student in [School of Computational Science and Engineering](https://cse.gatech.edu) at [Georgia Tech](https://www.gatech.edu), advised by [Dr. Felix Herrmann](https://www.ece.gatech.edu/faculty-staff-directory/felix-herrmann). I work in the SLIM ([Seismic Laboratory for Imaging and Modeling](https://slim.gatech.edu)) group on the deep learning applications to solve large-scale inverse problems in seismic imaging.
+I am a first year Ph.D. student in [School of Computational Science and Engineering](https://cse.gatech.edu) at [Georgia Tech](https://www.gatech.edu), advised by [Dr. Felix Herrmann](https://www.ece.gatech.edu/faculty-staff-directory/felix-herrmann). I work in the SLIM ([Seismic Laboratory for Imaging and Modeling](https://slim.gatech.edu)) group on the deep learning applications to solve large-scale inverse problems in seismic and medical imaging.
 
 In my spare time, I enjoy playing golf and basketball.
 
