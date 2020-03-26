@@ -24,17 +24,11 @@ Machine learning, scientific computing, PDE-constrained optimization, inverse pr
 
 ### About me
 
-I am a first year Ph.D. student in [School of Computational Science and Engineering](https://cse.gatech.edu) at [Georgia Tech](https://www.gatech.edu), advised by [Dr. Felix Herrmann](https://www.ece.gatech.edu/faculty-staff-directory/felix-herrmann). I work in the SLIM ([Seismic Laboratory for Imaging and Modeling](https://slim.gatech.edu)) group on the deep learning applications to solve large-scale inverse problems in seismic and medical imaging.
+I am a first year Ph.D. student in [School of Computational Science and Engineering](https://cse.gatech.edu) at [Georgia Tech](https://www.gatech.edu), advised by [Dr. Felix Herrmann](https://www.ece.gatech.edu/faculty-staff-directory/felix-herrmann). I work in SLIM ([Seismic Laboratory for Imaging and Modeling](https://slim.gatech.edu)) group on the deep learning applications to solve large-scale inverse problems in seismic and medical imaging.
+
+Before coming to Georgia Tech, I received Bachelor of Science (summa cum laude) in Mathematics and Computer Science at [Emory University](http://www.emory.edu/home/index.html), where I conducted research on X-ray tomography imaging advised by [Dr. James Nagy](http://www.mathcs.emory.edu/~nagy/) and wrote my honors thesis on [Edge Detection and Enriched Subspaces](https://etd.library.emory.edu/concern/etds/7w62f916x?locale=en).
 
 In my spare time, I enjoy playing golf and basketball.
-
-### Education
-
-* Ph.D. Computational Science and Engineering, Georgia Institute of Technology (*in progress*)  
-  * Advisor: [Dr. Felix J. Herrmann](https://www.ece.gatech.edu/faculty-staff-directory/felix-herrmann)  
-* B.S. Applied Mathematics and Statistics (summa cum laude) &#124; Computer Science, Emory University  
-  * Advisor: [Dr. James G. Nagy](http://www.mathcs.emory.edu/~nagy/)  
-  * Thesis: [Edge Detection and Enriched Subspaces](https://etd.library.emory.edu/concern/etds/7w62f916x?locale=en)
 
 ### Recent News
 
