@@ -16,4 +16,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-Ziyi Yin, Rafael Orozco, Philipp Witte, Mathias Louboutin, Gabrio Rizzuti, Felix J. Herrmann. **Extended source imaging -- a unifying framework for seismic & medical imaging**. Submitted to the Society of Exploration Geophysicists Annual Meeting 2020.
+## 2020
+* **Extended source imaging -- a unifying framework for seismic & medical imaging**        
+Ziyi Yin, Rafael Orozco, Philipp Witte, Mathias Louboutin, Gabrio Rizzuti, Felix J. Herrmann       
+Submitted to the Society of Exploration Geophysicists Annual Meeting 2020.
