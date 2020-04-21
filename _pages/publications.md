@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on <u><a href="https://scholar.google.com/citations?user=ji9kwj8AAAAJ&hl=en">my Google Scholar profile</a>.</u>
+You can also find my publications on [my Google Scholar profile](https://scholar.google.com/citations?user=ji9kwj8AAAAJ&hl=en).
 
 ## 2020
 * **Extended source imaging -- a unifying framework for seismic & medical imaging**        
