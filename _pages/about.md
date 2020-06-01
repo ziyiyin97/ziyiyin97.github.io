@@ -26,7 +26,7 @@ In my spare time, I enjoy playing golf and basketball.
 
 ### Recent News
 
-* Jun, 2020: I received the [SEG/Chevron Student Leadership Symposium (SLS) travel grant](https://seg.org/Education/Student/Student-Programs/Student-Leadership-Symposium) to attend the 2020 SEG Annual Meeting in Houston, Texas, USA, October 9-15. Thanks SEG and Chevron!
+* Jun, 2020: I received the [*SEG/Chevron Student Leadership Symposium (SLS) travel grant*](https://seg.org/Education/Student/Student-Programs/Student-Leadership-Symposium) to attend the 2020 SEG Annual Meeting in Houston, Texas, USA, October 9-15. Thanks SEG and Chevron!
 
 * Apr, 2020: I submitted an expanded abstract, [*Extended source imaging – a unifying framework for seismic & medical imaging*](https://arxiv.org/abs/2004.07389), to the Society of Exploration Geophysicists Annual Meeting 2020. 
 
