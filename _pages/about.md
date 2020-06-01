@@ -26,6 +26,8 @@ In my spare time, I enjoy playing golf and basketball.
 
 ### Recent News
 
+* Jun, 2020: I received the [SEG/Chevron Student Leadership Symposium (SLS) travel grant](https://seg.org/Education/Student/Student-Programs/Student-Leadership-Symposium) to attend the 2020 SEG Annual Meeting in Houston, Texas, USA, October 9-15. Thanks SEG and Chevron!
+
 * Apr, 2020: I submitted an expanded abstract, [*Extended source imaging – a unifying framework for seismic & medical imaging*](https://arxiv.org/abs/2004.07389), to the Society of Exploration Geophysicists Annual Meeting 2020. 
 
 * Nov, 2019: I became the secretary for [Society of Exploration Geophysicists](https://seg.org/Education/Student-Early-Career/Student-Chapters/Student-Chapter-Details/student-chapter-listing-details/scID/000000200393) (SEG) Student Chapter at Georgia Tech. Check our facebook page [here](https://www.facebook.com/SEGatGT/?__tn__=kC-R&eid=ARDlPiNX4l2eLF7ONkCI0Lr-LK4ZnblnVfhGlbdgeM5pS8ZZv99zGC4gu7YZ9RFcNrFF5_9JucyoO0mS&hc_ref=ARTyXEhOl66mNgq_SwaPiGGaV4swzPmEa-fJQwAT572Tm7oHO6qMvGnDSRl_tCxtM9o&fref=nf).
