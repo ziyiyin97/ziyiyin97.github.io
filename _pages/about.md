@@ -20,9 +20,9 @@ Machine learning, scientific computing, PDE-constrained optimization, inverse pr
 
 I am a first year Ph.D. student in [School of Computational Science and Engineering](https://cse.gatech.edu) at [Georgia Tech](https://www.gatech.edu), advised by [Dr. Felix J. Herrmann](https://www.ece.gatech.edu/faculty-staff-directory/felix-herrmann). I work in SLIM ([Seismic Laboratory for Imaging and Modeling](https://slim.gatech.edu)) group on deep learning applications to solve large-scale inverse problems in wave-equation based imaging, such as seismic and photoacoustic imaging.
 
-Before coming to Georgia Tech, I received B.S. with Highest Honors (summa cum laude) in Mathematics and Computer Science at [Emory University](http://www.emory.edu/home/index.html) in 2019, where I conducted research on X-ray tomography imaging advised by [Dr. James G. Nagy](http://www.mathcs.emory.edu/~nagy/) and wrote my honors thesis on [Edge Detection and Enriched Subspaces](https://etd.library.emory.edu/concern/etds/7w62f916x?locale=en).
+Before coming to Georgia Tech, I received B.S. with Highest Honors (summa cum laude) in Mathematics and Computer Science at [Emory University](http://www.emory.edu/home/index.html) in 2019, where I conducted research on regularization methods for X-ray tomography imaging advised by [Dr. James G. Nagy](http://www.mathcs.emory.edu/~nagy/) and wrote my honors thesis on [Edge Detection and Enriched Subspaces](https://etd.library.emory.edu/concern/etds/7w62f916x?locale=en).
 
-In my spare time, I enjoy playing golf and basketball.
+In my spare time, I enjoy playing golf, basketball and hiking.
 
 ### Recent News
 
