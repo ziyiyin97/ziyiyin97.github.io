@@ -18,7 +18,7 @@ Machine learning, scientific computing, PDE-constrained optimization, inverse pr
 
 ### About me
 
-I am a 2nd year PhD student in [School of Computational Science and Engineering](https://cse.gatech.edu) at [Georgia Tech](https://www.gatech.edu), advised by [Dr. Felix J. Herrmann](https://www.ece.gatech.edu/faculty-staff-directory/felix-herrmann). I work in SLIM ([Seismic Laboratory for Imaging and Modeling](https://slim.gatech.edu)) group on wave-equation based imaging and inversion, such as seismic exploration and photoacoustic imaging.
+I am a 2nd year PhD student in [School of Computational Science and Engineering](https://cse.gatech.edu) at [Georgia Tech](https://www.gatech.edu), advised by [Dr. Felix J. Herrmann](https://www.ece.gatech.edu/faculty-staff-directory/felix-herrmann). I work in SLIM ([Seismic Laboratory for Imaging and Modeling](https://slim.gatech.edu)) group on wave-equation based imaging and inversion, such as seismic imaging and photoacoustic imaging, where we estimate acoustic parameters to explore the Earth substructure and to detect anomaly in human skull.
 
 Before coming to Georgia Tech, I received B.S. with Highest Honors (summa cum laude) in Mathematics and Computer Science at [Emory University](http://www.emory.edu/home/index.html) in 2019, where I conducted research on regularization methods for X-ray tomography imaging advised by [Dr. James G. Nagy](http://www.mathcs.emory.edu/~nagy/) and wrote my honors thesis on [Edge Detection and Enriched Subspaces](https://etd.library.emory.edu/concern/etds/7w62f916x?locale=en).
 
