@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: " "
+title: "Ziyi (Francis) Yin - 尹梓屹"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,8 +9,6 @@ redirect_from:
 ---
 
 <img src="http://ziyiyin97.github.io/images/photo.JPG" width="300">
-
-Ziyi (Francis) Yin - 尹梓屹  
 
 ### Research Interest
 
