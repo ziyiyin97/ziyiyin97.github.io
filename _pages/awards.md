@@ -6,10 +6,10 @@ title: "Honors and Awards"
 author_profile: true
 ---
 
-* SEG/Chevron Student Leadership Symposium travel grant, *Jun 2020*
+* [SEG/Chevron Student Leadership Symposium travel grant](https://seg.org/Education/Student/Student-Programs/Student-Leadership-Symposium), *Jun 2020*
 
-* Graduate with Highest Honors (summa cum laude), Emory University, *May 2019*
+* Graduate with [Highest Honors](http://catalog.college.emory.edu/academic/honors-program/) (summa cum laude), Emory University, *May 2019*
 
-* Phi Beta Kappa Honor Society Membership, *Apr 2019*
+* [Phi Beta Kappa](https://www.pbk.org) Honor Society Membership, *Apr 2019*
 
-* Dean's List, Emory University, *Aug 2017 - May 2019*
+* [Dean's List](http://catalog.college.emory.edu/academic/awards-honors/index.php), Emory University, *Aug 2017 - May 2019*
