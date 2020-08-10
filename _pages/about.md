@@ -24,7 +24,9 @@ In my spare time, I enjoy playing golf, basketball and hiking.
 
 ### Recent News
 
-* June, 2020: [*Extended source imaging – a unifying framework for seismic & medical imaging*](https://arxiv.org/abs/2004.07389), was accepted in the *SEG Technical Program Expanded Abstracts 2020* and will be presented as a 50-min talk in the 2020 SEG Annual Meeting. 
+* Aug, 2020: I will be the head TA for [CSE/MATH 6644 Iterative Methods for Systems of Equations](https://math.gatech.edu/courses/math/6644) taught by [Prof. Tobin Isaac](https://cse.gatech.edu/people/tobin-isaac).
+
+* Jun, 2020: [*Extended source imaging – a unifying framework for seismic & medical imaging*](https://arxiv.org/abs/2004.07389), was accepted in the *SEG Technical Program Expanded Abstracts 2020* and will be presented as a 50-min talk in the 2020 SEG Annual Meeting. 
 
 * Jun, 2020: I received [*SEG/Chevron Student Leadership Symposium (SLS) travel grant*](https://seg.org/Education/Student/Student-Programs/Student-Leadership-Symposium) to attend the 2020 SEG Annual Meeting. Thanks SEG and Chevron!
 
