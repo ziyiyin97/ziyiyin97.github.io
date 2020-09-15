@@ -24,7 +24,9 @@ In my spare time, I enjoy playing golf, basketball and hiking.
 
 ### Recent News
 
-* Aug, 2020: I will be the head TA for [CSE/MATH 6644 Iterative Methods for Systems of Equations](https://math.gatech.edu/courses/math/6644) taught by [Prof. Tobin G. Isaac](https://cse.gatech.edu/people/tobin-isaac).
+* Sep, 2020: SEG student chapter @ Georgia Tech will hold our student officer 2020 election soon. We accept application or nomination through [this link](https://forms.gle/YwWZgzcgbQGxviyq9) by the end of Sep 25, 2020. Fill our the form if you are interested in leading our student chapter!
+
+* Aug, 2020: I was assigned as head TA for [CSE/MATH 6644 Iterative Methods for Systems of Equations](https://math.gatech.edu/courses/math/6644) taught by [Prof. Tobin G. Isaac](https://cse.gatech.edu/people/tobin-isaac).
 
 * Jun, 2020: [*Extended source imaging – a unifying framework for seismic & medical imaging*](https://arxiv.org/abs/2004.07389), was accepted in the *SEG Technical Program Expanded Abstracts 2020* and will be presented as a 50-min talk in the 2020 SEG Annual Meeting. 
 
