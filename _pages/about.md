@@ -24,12 +24,10 @@ In my spare time, I enjoy playing golf, basketball and hiking.
 
 ### Recent News
 
-* Aug, 2020: I was assigned as head TA for [CSE/MATH 6644 Iterative Methods for Systems of Equations](https://math.gatech.edu/courses/math/6644) taught by [Prof. Tobin G. Isaac](https://cse.gatech.edu/people/tobin-isaac).
+* Oct, 2020: Our expanded abstract, [*Extended source imaging – a unifying framework for seismic & medical imaging*](https://doi.org/10.1190/segam2020-3426999.1), is presented by my advisor as a 50-min talk in SS 6 Geophysics in Medicine session in SEG 2020 Annual Meeting.
 
-* Jun, 2020: [*Extended source imaging – a unifying framework for seismic & medical imaging*](https://arxiv.org/abs/2004.07389), was accepted in the *SEG Technical Program Expanded Abstracts 2020* and will be presented as a 50-min talk in the 2020 SEG Annual Meeting. 
+* Aug, 2020: I was assigned as head TA for [CSE/MATH 6644 Iterative Methods for Systems of Equations](https://math.gatech.edu/courses/math/6644) taught by [Prof. Tobin G. Isaac](https://cse.gatech.edu/people/tobin-isaac).
 
 * Jun, 2020: I received [*SEG/Chevron Student Leadership Symposium (SLS) travel grant*](https://seg.org/Education/Student/Student-Programs/Student-Leadership-Symposium) to attend the 2020 SEG Annual Meeting. Thanks SEG and Chevron!
 
 * Nov, 2019: I became the secretary for [Society of Exploration Geophysicists](https://seg.org/Education/Student-Early-Career/Student-Chapters/Student-Chapter-Details/student-chapter-listing-details/scID/000000200393) (SEG) Student Chapter at Georgia Tech. Check our facebook page [here](https://www.facebook.com/SEGatGT).
-
-* Aug, 2019: I started my doctoral studies at Georgia Tech and started to work in SLIM group.
