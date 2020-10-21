@@ -26,7 +26,7 @@ In my spare time, I enjoy playing golf, basketball and hiking.
 
 * Oct, 2020: I am promoted to be the President of [Society of Exploration Geophysicists](https://seg.org) (SEG) Student Chapter at Georgia Tech. Check our facebook page [here](https://www.facebook.com/SEGatGT).
 
-* Oct, 2020: Our expanded abstract, [*Extended source imaging – a unifying framework for seismic & medical imaging*](https://doi.org/10.1190/segam2020-3426999.1), is presented by my advisor as a 50-min talk in SS 6 Geophysics in Medicine session in SEG 2020 Annual Meeting.
+* Oct, 2020: The expanded abstract, [*Extended source imaging – a unifying framework for seismic & medical imaging*](https://doi.org/10.1190/segam2020-3426999.1), was presented by my advisor as a 50-min talk in Geophysics in Medicine session in SEG 2020 Annual Meeting. [*Sparsity promoting least-squares migration for long offset sparse OBN*](https://slim.gatech.edu/content/sparsity-promoting-least-squares-migration-long-offset-sparse-obn) was also presented by my advisor as a workshop talk in Promises and Challenges with Sparse Node Ultra-long Offset OBN Acquisition in Imaging and Earth Model Building session.
 
 * Aug, 2020: I was assigned as head TA for [CSE/MATH 6644 Iterative Methods for Systems of Equations](https://math.gatech.edu/courses/math/6644) taught by [Prof. Tobin G. Isaac](https://cse.gatech.edu/people/tobin-isaac).
 
