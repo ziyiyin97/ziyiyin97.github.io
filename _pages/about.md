@@ -16,7 +16,7 @@ Machine learning, scientific computing, PDE-constrained optimization, inverse pr
 
 ### About me
 
-I am a 2nd year PhD student in [Computational Science and Engineering](https://cse.gatech.edu) (with a minor in [Electrical and Computer Engineering](https://www.ece.gatech.edu)) at [Georgia Tech](https://www.gatech.edu), advised by [Prof. Felix J. Herrmann](https://www.ece.gatech.edu/faculty-staff-directory/felix-herrmann). I work in SLIM ([Seismic Laboratory for Imaging and Modeling](https://slim.gatech.edu)) group on multiphysics-driven machine learning, especially in the field of time-lapse carbon capture and storage, where we aim to keep track of CO2 injection and flow in the Earth subsurface -- constrained by a set of partial difference equations, and equipped with smart automatic differentiation techniques.
+I am a 2nd year PhD student in [Computational Science and Engineering](https://cse.gatech.edu) (with a minor in [Electrical and Computer Engineering](https://www.ece.gatech.edu)) at [Georgia Tech](https://www.gatech.edu), advised by [Prof. Felix J. Herrmann](https://www.ece.gatech.edu/faculty-staff-directory/felix-herrmann). I work in SLIM ([Seismic Laboratory for Imaging and Modeling](https://slim.gatech.edu)) group on multiphysics-driven machine learning, especially in the field of time-lapse carbon capture and storage, where we aim to keep track of CO2 injection and flow in the Earth subsurface -- constrained by a set of PDEs, and equipped with smart automatic differentiation techniques.
 
 In general, I am also interested in medical and seismic imaging and inversion methods, high performance numerical solvers, and image processing related inverse problems.
 
