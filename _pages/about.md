@@ -10,7 +10,7 @@ redirect_from:
 
 ### Research Interest
 
-Machine learning, scientific computing, PDE-constrained optimization, inverse problems
+Machine learning, scientific computing, PDE-constrained optimization, inverse problems, computational imaging
 
 ### About me
 
