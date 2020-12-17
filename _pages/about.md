@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<img src="http://ziyiyin97.github.io/images/photo.JPG" width="300">
-
 ### Research Interest
 
 Machine learning, scientific computing, PDE-constrained optimization, inverse problems
