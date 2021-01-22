@@ -26,8 +26,6 @@ In my spare time, I enjoy playing golf, basketball and hiking.
 
 * Oct, 2020: I am promoted to be the President of [Society of Exploration Geophysicists](https://seg.org/Education/Student/Student-Chapters/Student-Chapter-Listing/Student-Chapter-Listing-Detail/scID/000000200393) (SEG) Student Chapter at Georgia Tech. Check our facebook page [here](https://www.facebook.com/SEGatGT).
 
-* Oct, 2020: Two publications were presented by my advisor in SEG 2020 virtual annual meeting.
-
-* Aug, 2020: I was assigned as head TA for [CSE/MATH 6644 Iterative Methods for Systems of Equations](https://math.gatech.edu/courses/math/6644) taught by [Prof. Tobin G. Isaac](https://cse.gatech.edu/people/tobin-isaac).
+* Oct, 2020: Two pieces of work were presented by my advisor in SEG 2020 virtual annual meeting.
 
 * Jun, 2020: I received [*SEG/Chevron Student Leadership Symposium (SLS) travel grant*](https://seg.org/Education/Student/Student-Programs/Student-Leadership-Symposium) to attend the 2020 SEG Annual Meeting. Thanks SEG and Chevron!
