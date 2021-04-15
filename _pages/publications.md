@@ -7,6 +7,13 @@ author_profile: true
 
 You can also find my publications on [my Google Scholar profile](https://scholar.google.com/citations?user=ji9kwj8AAAAJ&hl=en).
 
+## 2021
+
+* **Compressive time-lapse seismic monitoring of carbon storage and sequestration with the joint recovery model**        
+Ziyi Yin, Mathias Louboutin, Felix J. Herrmann       
+Submitted to *Society of Exploration Geophysicists 2021*, Apr 2021          
+[[html]](https://slim.gatech.edu/Publications/Public/Submitted/2021/yin2021SEGcts/yin2021SEGcts.html) [[pdf]](https://slim.gatech.edu/Publications/Public/Submitted/2021/yin2021SEGcts/yin2021SEGcts.pdf) [[software]](https://github.com/slimgroup/Software.SEG2021) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7163)
+
 ## 2020
 
 * **Sparsity promoting least-squares migration for long offset sparse OBN**        
@@ -19,7 +26,7 @@ In: *SEG Workshop on Promises and Challenges with Sparse Node Ultra-long Offset 
 Ziyi Yin, Rafael Orozco, Philipp A. Witte, Mathias Louboutin, Gabrio Rizzuti, Felix J. Herrmann       
 In: *SEG Technical Program Expanded Abstracts 2020*, Sep 2020, page 3502-3506    
 doi: *10.1190/segam2020-3426999.1*          
-[[html]](https://slim.gatech.edu/Publications/Public/Conferences/SEG/2020/yin2020SEGesi/yin2020SEGesi.html) [[pdf]](https://slim.gatech.edu/Publications/Public/Conferences/SEG/2020/yin2020SEGesi/yin2020SEGesi.pdf) [[link]](https://doi.org/10.1190/segam2020-3426999.1) [[software]](https://github.com/slimgroup/Software.SEG2020/tree/master/yin2020SEGesi) [[slides]](https://slim.gatech.edu/Publications/Public/Conferences/SEG/2020/yin2020SEGesi/yin2020SEGesi_pres.pdf)  [[video]](https://slim.gatech.edu/Publications/Public/Conferences/SEG/2020/yin2020SEGesi/yin2020SEGesi_pres.mp4) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7139)
+[[html]](https://slim.gatech.edu/Publications/Public/Conferences/SEG/2020/yin2020SEGesi/yin2020SEGesi.html) [[pdf]](https://slim.gatech.edu/Publications/Public/Conferences/SEG/2020/yin2020SEGesi/yin2020SEGesi.pdf) [[link]](https://doi.org/10.1190/segam2020-3426999.1) [[software]](https://github.com/slimgroup/Software.SEG2020) [[slides]](https://slim.gatech.edu/Publications/Public/Conferences/SEG/2020/yin2020SEGesi/yin2020SEGesi_pres.pdf)  [[video]](https://slim.gatech.edu/Publications/Public/Conferences/SEG/2020/yin2020SEGesi/yin2020SEGesi_pres.mp4) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7139)
 
 ## 2019
 
