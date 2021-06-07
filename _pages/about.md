@@ -24,7 +24,7 @@ In my spare time, I enjoy playing golf, basketball and hiking.
 
 ### Recent News
 
-* Jun, 2021: [*Compressive time-lapse seismic monitoring of carbon storage and sequestration with the joint recovery model*](https://slim.gatech.edu/Publications/Public/Submitted/2021/yin2021SEGcts/yin2021SEGcts.html) was accepted by SEG 2021 Annual Meeting as a 20-min talk.
+* Jun, 2021: [*Compressive time-lapse seismic monitoring of carbon storage and sequestration with the joint recovery model*](https://slim.gatech.edu/Publications/Public/Conferences/SEG/2021/yin2021SEGcts/yin2021SEGcts.html) was accepted by SEG 2021 Annual Meeting as a 20-min talk.
 
 * Oct, 2020: I was promoted to be the President of [Society of Exploration Geophysicists](https://seg.org/Education/Student/Student-Chapters/Student-Chapter-Listing/Student-Chapter-Listing-Detail/scID/000000200393) (SEG) Student Chapter at Georgia Tech. Check our facebook page [here](https://www.facebook.com/SEGatGT).
 
