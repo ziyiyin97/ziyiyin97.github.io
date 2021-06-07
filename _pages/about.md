@@ -14,7 +14,7 @@ Machine learning, scientific computing, PDE-constrained optimization, inverse pr
 
 ### About me
 
-I am a 2nd year PhD student in [Computational Science and Engineering](https://cse.gatech.edu) at [Georgia Institute of Technology](https://www.gatech.edu), advised by [Prof. Felix J. Herrmann](https://cse.gatech.edu/people/felix-herrmann). I work in SLIM ([Seismic Laboratory for Imaging and Modeling](https://slim.gatech.edu)) group on multiphysics-driven machine learning, especially in the field of time-lapse seismic monitoring of carbon capture and storage (CCS). We aim to understand the behavior of CO2 dynamics, develop low-cost and robust seismic imaging methods, and mitigate the risk of CO2 leakage.
+I am a 2nd year PhD student in [Computational Science and Engineering](https://cse.gatech.edu) at [Georgia Institute of Technology](https://www.gatech.edu), advised by [Prof. Felix J. Herrmann](https://cse.gatech.edu/people/felix-herrmann). I work in SLIM ([Seismic Laboratory for Imaging and Modeling](https://slim.gatech.edu)) group on multiphysics-driven machine learning, especially in the field of time-lapse seismic monitoring of carbon capture and storage (CCS). We aim to understand the behavior of CO2 dynamics and develop low-cost and robust seismic imaging methods to detect the growth of the CO2 plume, and further to mitigate the risk of CO2 leakage in the monitoring process.
 
 In general, I am also interested in medical and seismic imaging and inversion methods, high performance numerical solvers, uncertainty quantification, and large-scale inverse problems.
 
@@ -24,7 +24,7 @@ In my spare time, I enjoy playing golf, basketball and hiking.
 
 ### Recent News
 
-* Apr, 2021: [*Compressive time-lapse seismic monitoring of carbon storage and sequestration with the joint recovery model*](https://slim.gatech.edu/Publications/Public/Submitted/2021/yin2021SEGcts/yin2021SEGcts.html) was submitted to SEG 2021 Annual Meeting.
+* Jun, 2021: [*Compressive time-lapse seismic monitoring of carbon storage and sequestration with the joint recovery model*](https://slim.gatech.edu/Publications/Public/Submitted/2021/yin2021SEGcts/yin2021SEGcts.html) was accepted by SEG 2021 Annual Meeting as a 20-min talk.
 
 * Oct, 2020: I was promoted to be the President of [Society of Exploration Geophysicists](https://seg.org/Education/Student/Student-Chapters/Student-Chapter-Listing/Student-Chapter-Listing-Detail/scID/000000200393) (SEG) Student Chapter at Georgia Tech. Check our facebook page [here](https://www.facebook.com/SEGatGT).
 
