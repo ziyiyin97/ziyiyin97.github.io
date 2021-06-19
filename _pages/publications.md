@@ -11,14 +11,14 @@ You can also find my publications on [my Google Scholar profile](https://scholar
 
 * **Compressive time-lapse seismic monitoring of carbon storage and sequestration with the joint recovery model**        
 Ziyi Yin, Mathias Louboutin, Felix J. Herrmann       
-Accepted by *Society of Exploration Geophysicists Annual Meeting 2021*, Jun 2021          
+Accepted by *International Meeting for Applied Geoscience & Energy (IMAGE) 2021*, Jun 2021          
 [[html]](https://slim.gatech.edu/Publications/Public/Conferences/SEG/2021/yin2021SEGcts/yin2021SEGcts.html) [[pdf]](https://slim.gatech.edu/Publications/Public/Conferences/SEG/2021/yin2021SEGcts/yin2021SEGcts.pdf) [[software]](https://github.com/slimgroup/Software.SEG2021) [[arXiv]](https://arxiv.org/abs/2104.07173) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7163)
 
 ## 2020
 
 * **Sparsity promoting least-squares migration for long offset sparse OBN**        
 Mathias Louboutin, Ziyi Yin, Yijun Zhang, Felix J. Herrmann       
-In: *SEG Workshop on Promises and Challenges with Sparse Node Ultra-long Offset OBN Acquisition in Imaging and Earth Model Building*, Oct 2020          
+In: *2020 SEG Workshop on Promises and Challenges with Sparse Node Ultra-long Offset OBN Acquisition in Imaging and Earth Model Building*, Oct 2020          
 [[link]](https://slim.gatech.edu/content/sparsity-promoting-least-squares-migration-long-offset-sparse-obn)  [[slides]](https://slim.gatech.edu/Publications/Public/Conferences/SEG/2020/louboutin2020SEGWSspl/louboutin2020SEGWSspl_pres.pdf) 
 [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7153)
 
