@@ -14,7 +14,7 @@ Machine learning, scientific computing, PDE-constrained optimization, inverse pr
 
 ### About me
 
-I am a 2nd year PhD student in [Computational Science and Engineering](https://cse.gatech.edu) at [Georgia Institute of Technology](https://www.gatech.edu), advised by [Prof. Felix J. Herrmann](https://cse.gatech.edu/people/felix-herrmann). I work in SLIM ([Seismic Laboratory for Imaging and Modeling](https://slim.gatech.edu)) group on multiphysics-driven machine learning, especially in the field of time-lapse seismic monitoring of carbon capture and storage (CCS). We aim to understand the behavior of CO2 dynamics and develop low-cost and robust seismic imaging methods to detect the growth of the CO2 plume and mitigate the risk of CO2 leakage.
+I am a 3rd year PhD student in [Computational Science and Engineering](https://cse.gatech.edu) at [Georgia Institute of Technology](https://www.gatech.edu), advised by [Prof. Felix J. Herrmann](https://cse.gatech.edu/people/felix-herrmann). I work in SLIM ([Seismic Laboratory for Imaging and Modeling](https://slim.gatech.edu)) group on multiphysics-driven machine learning, especially in the field of time-lapse seismic monitoring of carbon capture and storage (CCS). We aim to understand the behavior of CO2 dynamics and develop low-cost and robust seismic imaging methods to detect the growth of the CO2 plume and mitigate the risk of CO2 leakage.
 
 In general, I am also interested in medical and seismic imaging and inversion methods, high performance numerical solvers, uncertainty quantification, and large-scale inverse problems.
 
@@ -23,6 +23,8 @@ Before coming to Georgia Tech, I graduated from [Emory University](http://www.em
 In my spare time, I enjoy playing golf, basketball and hiking.
 
 ### Recent News
+
+* Aug, 2021: I received [SEG Technical Program Registration travel grant](https://seg.org/travelgrants) to attend the IMAGE 2021 conference. Thanks SEG!
 
 * Jun, 2021: [*Compressive time-lapse seismic monitoring of carbon storage and sequestration with the joint recovery model*](https://slim.gatech.edu/Publications/Public/Conferences/SEG/2021/yin2021SEGcts/yin2021SEGcts.html) was accepted by International Meeting for Applied Geoscience & Energy (IMAGE) 2021 as a 20-min talk.
 
