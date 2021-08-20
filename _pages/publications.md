@@ -12,7 +12,7 @@ You can also find my publications on [my Google Scholar profile](https://scholar
 * **Compressive time-lapse seismic monitoring of carbon storage and sequestration with the joint recovery model**        
 Ziyi Yin, Mathias Louboutin, Felix J. Herrmann       
 Accepted by *International Meeting for Applied Geoscience & Energy (IMAGE) 2021*, Jun 2021          
-[[html]](https://slim.gatech.edu/Publications/Public/Conferences/SEG/2021/yin2021SEGcts/yin2021SEGcts.html) [[pdf]](https://slim.gatech.edu/Publications/Public/Conferences/SEG/2021/yin2021SEGcts/yin2021SEGcts.pdf) [[software]](https://github.com/slimgroup/Software.SEG2021) [[arXiv]](https://arxiv.org/abs/2104.07173) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7163)
+[[html]](https://slim.gatech.edu/Publications/Public/Conferences/SEG/2021/yin2021SEGcts/yin2021SEGcts.html) [[pdf]](https://slim.gatech.edu/Publications/Public/Conferences/SEG/2021/yin2021SEGcts/yin2021SEGcts.pdf) [[link]](https://slim.gatech.edu/content/compressive-time-lapse-seismic-monitoring-carbon-storage-and-sequestration-joint-recovery) [[software]](https://github.com/slimgroup/Software.SEG2021) [[slides]](https://slim.gatech.edu/Publications/Public/Conferences/SEG/2021/yin2021SEGcts/yin2021SEGcts_pres.pdf) [[video]](https://slim.gatech.edu/Publications/Public/Conferences/SEG/2021/yin2021SEGcts/yin2021SEGcts.mp4) [[arXiv]](https://arxiv.org/abs/2104.07173) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7163)
 
 ## 2020
 
