@@ -24,7 +24,9 @@ In my spare time, I enjoy playing golf, basketball and hiking.
 
 ### Recent News
 
-* Aug, 2021: I received [SEG Technical Program Registration travel grant](https://seg.org/travelgrants) to attend the IMAGE 2021 conference. Thanks SEG!
+* Aug, 2021: I started to be a graduate teaching assistant for CSE 6740 Computational Data Analysis taught by Prof. Aditya Prakash in Fall 2021 semester.
+
+* Aug, 2021: I received [SEG Technical Program Registration grant](https://seg.org/travelgrants) to register the IMAGE 2021 conference. Thanks SEG!
 
 * Jun, 2021: [*Compressive time-lapse seismic monitoring of carbon storage and sequestration with the joint recovery model*](https://slim.gatech.edu/Publications/Public/Conferences/SEG/2021/yin2021SEGcts/yin2021SEGcts.html) was accepted by International Meeting for Applied Geoscience & Energy (IMAGE) 2021 as a 20-min talk.
 

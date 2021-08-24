@@ -6,7 +6,7 @@ title: "Honors and Awards"
 author_profile: true
 ---
 
-* [SEG Technical Program Registration travel grant](https://seg.org/travelgrants), *Aug 2021*
+* [SEG Technical Program Registration grant](https://seg.org/travelgrants), *Aug 2021*
 
 * [SEG/Chevron Student Leadership Symposium travel grant](https://seg.org/Education/Student/Student-Programs/Student-Leadership-Symposium), *Jun 2020*
 

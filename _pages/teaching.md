@@ -8,6 +8,8 @@ author_profile: true
 
 ### Georgia Institute of Technology
 
+* Graduate Teaching Assistant for CSE 6740 Computational Data Analysis, Fall 2021
+
 * Graduate Teaching Assistant for EAS 4520/8803 Exploration Seismology, Spring 2021
 
 * Graduate Teaching Assistant for CSE/MATH 6644 Iterative Methods for Systems of Equations, Fall 2020
