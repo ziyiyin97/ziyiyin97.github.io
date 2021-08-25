@@ -14,17 +14,28 @@ Machine learning, scientific computing, PDE-constrained optimization, inverse pr
 
 ### About me
 
-I am a 3rd year PhD student in [Computational Science and Engineering](https://cse.gatech.edu) at [Georgia Institute of Technology](https://www.gatech.edu), advised by [Prof. Felix J. Herrmann](https://cse.gatech.edu/people/felix-herrmann). I work in SLIM ([Seismic Laboratory for Imaging and Modeling](https://slim.gatech.edu)) group on multiphysics-driven machine learning, especially in the field of time-lapse seismic monitoring of carbon capture and storage (CCS). We aim to understand the behavior of CO2 dynamics and develop low-cost and robust seismic imaging methods to detect the growth of the CO2 plume and mitigate the risk of CO2 leakage.
+I am a 3rd year PhD student in [Computational Science and Engineering](https://cse.gatech.edu) at [Georgia Institute of Technology](https://www.gatech.edu), advised by [Prof. Felix J. Herrmann](https://cse.gatech.edu/people/felix-herrmann). I work in SLIM ([Seismic Laboratory for Imaging and Modeling](https://slim.gatech.edu)) group on multiphysics-driven machine learning, especially in the field of time-lapse seismic monitoring of carbon capture and storage (CCS). We aim to develop low-cost & robust seismic imaging methods and build open-source software framework to
 
-In general, I am also interested in medical and seismic imaging and inversion methods, high performance numerical solvers, uncertainty quantification, and large-scale inverse problems.
+* monitor the CO2 movement in the Earth subsurface
+* mitigate the risk of CO2 leakage by early detection
+* evaluate sensitivity of seismic monitoring for CCS
 
-Before coming to Georgia Tech, I graduated from [Emory University](http://www.emory.edu/home/index.html) in 2019, with a *summa cum laude* Bachelor of Science degree in [Mathematics and Computer Science](https://www.math.emory.edu). I conducted research on regularization methods for image reconstruction from CT scans, advised by [Prof. James G. Nagy](http://www.mathcs.emory.edu/~nagy/) and wrote my honors thesis in [Edge Detection and Enriched Subspaces](https://etd.library.emory.edu/concern/etds/7w62f916x?locale=en).
+In general, my research interests include (but not limited to)
+
+* machine learning
+* large-scale inverse problems
+* scientific computing
+* PDE-constrained optimization
+* computational imaging
+* uncertainty quantification
+
+Before coming to Georgia Tech, I graduated from [Emory University](http://www.emory.edu/home/index.html) in 2019, with a *summa cum laude* Bachelor of Science degree in [Mathematics and Computer Science](https://www.math.emory.edu). I conducted research on regularization methods for image reconstruction from CT scans, advised by [Prof. James G. Nagy](http://www.mathcs.emory.edu/~nagy/) and wrote my honors thesis, [Edge Detection and Enriched Subspaces](https://etd.library.emory.edu/concern/etds/7w62f916x?locale=en).
 
 In my spare time, I enjoy playing golf, basketball and hiking.
 
 ### Recent News
 
-* Aug, 2021: I started to be a graduate teaching assistant for CSE/ISYE 6740 Computational Data Analysis taught by Prof. Aditya Prakash in Fall 2021 semester.
+* Aug, 2021: I started to work as a head TA for CSE/ISYE 6740 Computational Data Analysis taught by Prof. Aditya B. Prakash in Fall 2021 semester.
 
 * Aug, 2021: I received [SEG Technical Program Registration grant](https://seg.org/travelgrants) to register the IMAGE 2021 conference. Thanks SEG!
 
