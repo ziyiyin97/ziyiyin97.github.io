@@ -8,10 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-### Research Interest
-
-Machine learning, scientific computing, PDE-constrained optimization, inverse problems, computational imaging
-
 ### About me
 
 I am a 3rd year PhD student in [Computational Science and Engineering](https://cse.gatech.edu) at [Georgia Institute of Technology](https://www.gatech.edu), advised by [Prof. Felix J. Herrmann](https://cse.gatech.edu/people/felix-herrmann). I work in SLIM ([Seismic Laboratory for Imaging and Modeling](https://slim.gatech.edu)) group on multiphysics-driven machine learning, especially in the field of time-lapse seismic monitoring of carbon capture and storage (CCS). We aim to develop low-cost & robust seismic imaging methods and build open-source software framework to
@@ -42,7 +38,5 @@ In my spare time, I enjoy playing golf, basketball and hiking.
 * Jun, 2021: [*Compressive time-lapse seismic monitoring of carbon storage and sequestration with the joint recovery model*](https://slim.gatech.edu/Publications/Public/Conferences/SEG/2021/yin2021SEGcts/yin2021SEGcts.html) was accepted by International Meeting for Applied Geoscience & Energy (IMAGE) 2021 as a 20-min talk.
 
 * Oct, 2020: I was promoted to be the President of [Society of Exploration Geophysicists](https://seg.org/Education/Student/Student-Chapters/Student-Chapter-Listing/Student-Chapter-Listing-Detail/scID/000000200393) (SEG) Student Chapter at Georgia Tech. Check our facebook page [here](https://www.facebook.com/SEGatGT).
-
-* Oct, 2020: Two pieces of work were presented by my advisor in SEG 2020 Annual Meeting.
 
 * Jun, 2020: I received [*SEG/Chevron Student Leadership Symposium (SLS) travel grant*](https://seg.org/Education/Student/Student-Programs/Student-Leadership-Symposium) to attend the 2020 SEG Annual Meeting. Thanks SEG and Chevron!
