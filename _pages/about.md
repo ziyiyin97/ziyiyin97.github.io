@@ -31,7 +31,7 @@ In my spare time, I enjoy playing golf, basketball and hiking.
 
 ### Recent News
 
-* Aug, 2021: I started to work as a head TA for CSE/ISYE 6740 Computational Data Analysis taught by Prof. Aditya B. Prakash in Fall 2021 semester.
+* Aug, 2021: I started to work as a head TA for CSE/ISYE 6740 Computational Data Analysis taught by Prof. B. Aditya Prakash in Fall 2021 semester.
 
 * Aug, 2021: I received [SEG Technical Program Registration grant](https://seg.org/travelgrants) to register the IMAGE 2021 conference. Thanks SEG!
 
