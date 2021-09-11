@@ -31,7 +31,7 @@ In my spare time, I enjoy playing golf, basketball and hiking.
 
 ### Recent News
 
-* Sep, 2021: I will be giving a talk at Georgia Tech EAS geophysics seminar at 3PM Sep 10 with the link [https://bluejeans.com/128731294/3777](https://bluejeans.com/128731294/3777). Stay tuned!
+* Sep, 2021: I gave a talk at Georgia Tech Geophysics Seminar on "low-cost and robust seismic monitoring of carbon storage and sequestration with the joint recovery model".
 
 * Aug, 2021: I started to work as the head TA for CSE/ISYE 6740 Computational Data Analysis taught by Prof. B. Aditya Prakash in Fall 2021 semester.
 
