@@ -7,9 +7,13 @@ author_profile: true
 
 ## 2021
 
+* **Compressive time-lapse seismic monitoring of carbon storage and sequestration with the joint recovery model**          
+In: *International Meeting for Applied Geoscience & Energy Session TL 1: "Advances and Case Studies"*, Sep 2021      
+[[link]](https://slim.gatech.edu/Publications/Public/Conferences/SEG/2021/yin2021SEGcts/yin2021SEGcts.html)    
+
 * **Low-cost & robust seismic monitoring of carbon storage and sequestration with the joint recovery model**          
 In: *Georgia Tech Geophysics Seminar*, Sep 2021      
-[[html]](https://slim.gatech.edu/Publications/Public/Conferences/SEG/2021/yin2021SEGcts/yin2021SEGcts.html)     
+[[link]](https://slim.gatech.edu/Publications/Public/Conferences/SEG/2021/yin2021SEGcts/yin2021SEGcts.html)     
 
 ## 2019
 

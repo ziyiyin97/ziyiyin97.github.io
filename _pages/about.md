@@ -31,13 +31,13 @@ In my spare time, I enjoy playing golf, basketball and hiking.
 
 ### Recent News
 
+* Sep, 2021: I will present our work on [*Compressive time-lapse seismic monitoring of carbon storage and sequestration with the joint recovery model*](https://slim.gatech.edu/Publications/Public/Conferences/SEG/2021/yin2021SEGcts/yin2021SEGcts.html) in Oral Session TL 1: "Advances and Case Studies", [International Meeting for Applied Geoscience & Energy](https://imageevent.org/2021).
+
 * Sep, 2021: I gave a talk at Georgia Tech Geophysics Seminar on "low-cost and robust seismic monitoring of carbon storage and sequestration with the joint recovery model".
 
 * Aug, 2021: I started to work as the head TA for CSE/ISYE 6740 Computational Data Analysis taught by Prof. B. Aditya Prakash in Fall 2021 semester.
 
 * Aug, 2021: I received [SEG Technical Program Registration grant](https://seg.org/travelgrants) to register the IMAGE 2021 conference. Thanks SEG!
-
-* Jun, 2021: [*Compressive time-lapse seismic monitoring of carbon storage and sequestration with the joint recovery model*](https://slim.gatech.edu/Publications/Public/Conferences/SEG/2021/yin2021SEGcts/yin2021SEGcts.html) was accepted by International Meeting for Applied Geoscience & Energy (IMAGE) 2021 as a 20-min talk.
 
 * Oct, 2020: I was promoted to be the President of [Society of Exploration Geophysicists](https://seg.org/Education/Student/Student-Chapters/Student-Chapter-Listing/Student-Chapter-Listing-Detail/scID/000000200393) (SEG) Student Chapter at Georgia Tech. Check our facebook page [here](https://www.facebook.com/SEGatGT).
 
