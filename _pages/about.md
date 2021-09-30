@@ -31,7 +31,7 @@ In my spare time, I enjoy playing golf, basketball and hiking.
 
 ### Recent News
 
-* Sep, 2021: I will present our work on [*Compressive time-lapse seismic monitoring of carbon storage and sequestration with the joint recovery model*](https://slim.gatech.edu/Publications/Public/Conferences/SEG/2021/yin2021SEGcts/yin2021SEGcts.html) in Oral Session TL 1: "Advances and Case Studies", [International Meeting for Applied Geoscience & Energy](https://imageevent.org/2021).
+* Sep, 2021: I presented our work on [*Compressive time-lapse seismic monitoring of carbon storage and sequestration with the joint recovery model*](https://slim.gatech.edu/Publications/Public/Conferences/SEG/2021/yin2021SEGcts/yin2021SEGcts.html) in Oral Session TL 1: "Advances and Case Studies", [International Meeting for Applied Geoscience & Energy](https://imageevent.org/2021).
 
 * Sep, 2021: I gave a talk at Georgia Tech Geophysics Seminar on "low-cost and robust seismic monitoring of carbon storage and sequestration with the joint recovery model".
 
