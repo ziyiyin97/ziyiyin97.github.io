@@ -12,7 +12,7 @@ You can also find my publications on [my Google Scholar profile](https://scholar
 * **Low-cost time-lapse seismic imaging of CCS with the joint recovery model**        
 Felix J. Herrmann, Mathias Louboutin, Ziyi Yin, Philipp A. Witte       
 In: *2021 IMAGE Workshop on Geophysical Challenges in Presalt Carbonates*, Oct 2021               
-[[link]](https://slim.gatech.edu/content/low-cost-time-lapse-seismic-imaging-ccs-joint-recovery-model) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7171)
+[[link]](https://slim.gatech.edu/content/low-cost-time-lapse-seismic-imaging-ccs-joint-recovery-model) [[slides]](https://slim.gatech.edu/Publications/Public/Conferences/SEG/2021/herrmann2021SEGWSlts/herrmann2021SEGWSlts_pres.pdf) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7171)
 
 * **Compressive time-lapse seismic monitoring of carbon storage and sequestration with the joint recovery model**        
 Ziyi Yin, Mathias Louboutin, Felix J. Herrmann       
