@@ -10,7 +10,7 @@ redirect_from:
 
 ### About me
 
-I am a 3rd year PhD student in [Computational Science and Engineering](https://cse.gatech.edu) at [Georgia Institute of Technology](https://www.gatech.edu), advised by [Prof. Felix J. Herrmann](https://cse.gatech.edu/people/felix-herrmann). I work in SLIM ([Seismic Laboratory for Imaging and Modeling](https://slim.gatech.edu)) group on time-lapse seismic monitoring of carbon capture and storage (CCS). We aim to develop low-cost & robust seismic imaging methods and build open-source software framework to
+I am PhD candidate in [Computational Science and Engineering](https://cse.gatech.edu) at [Georgia Institute of Technology](https://www.gatech.edu), advised by [Prof. Felix J. Herrmann](https://cse.gatech.edu/people/felix-herrmann). I work in SLIM ([Seismic Laboratory for Imaging and Modeling](https://slim.gatech.edu)) group on time-lapse seismic monitoring of carbon capture and storage (CCS). We aim to develop low-cost & robust seismic imaging methods and build open-source software framework to
 
 * monitor the CO2 movement in the Earth subsurface
 * mitigate the risk of CO2 leakage by early detection
@@ -30,6 +30,8 @@ Before coming to Georgia Tech, I graduated from [Emory University](http://www.em
 In my spare time, I enjoy playing golf, basketball and hiking.
 
 ### Recent News
+
+* Oct, 2021: I passed my PhD qualify exam today and turned to a PhD candidate!
 
 * Sep, 2021: I presented our work on [*Compressive time-lapse seismic monitoring of carbon storage and sequestration with the joint recovery model*](https://slim.gatech.edu/Publications/Public/Conferences/SEG/2021/yin2021SEGcts/yin2021SEGcts.html) in Oral Session TL 1: "Advances and Case Studies", [International Meeting for Applied Geoscience & Energy](https://imageevent.org/2021).
 
