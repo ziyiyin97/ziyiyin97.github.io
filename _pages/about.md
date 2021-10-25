@@ -10,7 +10,7 @@ redirect_from:
 
 ### About me
 
-I am PhD candidate in [Computational Science and Engineering](https://cse.gatech.edu) at [Georgia Institute of Technology](https://www.gatech.edu), advised by [Prof. Felix J. Herrmann](https://cse.gatech.edu/people/felix-herrmann). I work in SLIM ([Seismic Laboratory for Imaging and Modeling](https://slim.gatech.edu)) group on time-lapse seismic monitoring of carbon capture and storage (CCS). We aim to develop low-cost & robust seismic imaging methods and build open-source software framework to
+I am a PhD candidate in [Computational Science and Engineering](https://cse.gatech.edu) at [Georgia Institute of Technology](https://www.gatech.edu), advised by [Prof. Felix J. Herrmann](https://cse.gatech.edu/people/felix-herrmann). I work in SLIM ([Seismic Laboratory for Imaging and Modeling](https://slim.gatech.edu)) group on time-lapse seismic monitoring of carbon capture and storage (CCS). We aim to develop low-cost & robust seismic imaging methods and build open-source software framework to
 
 * monitor the CO2 movement in the Earth subsurface
 * mitigate the risk of CO2 leakage by early detection
