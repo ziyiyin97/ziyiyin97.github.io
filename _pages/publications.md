@@ -9,6 +9,11 @@ You can also find my publications on [my Google Scholar profile](https://scholar
 
 ## 2021
 
+* **Seismic velocity inversion and uncertainty quantification using conditional normalizing flows**        
+Yuxiao Ren, Philipp A. Witte, Ali Siahkoohi, Mathias Louboutin, Ziyi Yin, Felix J. Herrmann        
+In: *American Geophysical Union Annual Meeting 2021*, Dec 2021, session U12A-03       
+[[link]](https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/815883) [[pdf]](https://slim.gatech.edu/Publications/Public/Conferences/AGU/2021/ren2021AGUsvi/ren2021AGUsvi.pdf) [[software]](https://github.com/slimgroup/INN_Velocity-Migration) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7170)
+
 * **Low-cost time-lapse seismic imaging of CCS with the joint recovery model**        
 Felix J. Herrmann, Mathias Louboutin, Ziyi Yin, Philipp A. Witte       
 In: *2021 IMAGE Workshop on Geophysical Challenges in Presalt Carbonates*, Oct 2021               
@@ -19,11 +24,6 @@ Ziyi Yin, Mathias Louboutin, Felix J. Herrmann
 In: *First International Meeting for Applied Geoscience & Energy Expanded Abstracts*, Sep 2021, page 3434-3438     
 doi: [10.1190/segam2021-3569087.1](https://doi.org/10.1190/segam2021-3569087.1)      
 [[html]](https://slim.gatech.edu/Publications/Public/Conferences/SEG/2021/yin2021SEGcts/yin2021SEGcts.html) [[pdf]](https://slim.gatech.edu/Publications/Public/Conferences/SEG/2021/yin2021SEGcts/yin2021SEGcts.pdf) [[software]](https://github.com/slimgroup/Software.SEG2021) [[slides]](https://slim.gatech.edu/Publications/Public/Conferences/SEG/2021/yin2021SEGcts/yin2021SEGcts_pres.pdf) [[video]](https://slim.gatech.edu/Publications/Public/Conferences/SEG/2021/yin2021SEGcts/yin2021SEGcts.mp4) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7163)
-
-* **Seismic velocity inversion and uncertainty quantification using conditional normalizing flows**        
-Yuxiao Ren, Philipp A. Witte, Ali Siahkoohi, Mathias Louboutin, Ziyi Yin, Felix J. Herrmann        
-Submitted to *American Geophysical Union Annual Meeting 2021*, Aug 2021       
-[[link]](https://slim.gatech.edu/content/seismic-velocity-inversion-and-uncertainty-quantification-using-conditional-normalizing) [[pdf]](https://slim.gatech.edu/Publications/Public/Submitted/2021/ren2021AGUsvi/ren2021AGUsvi.pdf) [[software]](https://github.com/slimgroup/INN_Velocity-Migration) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7170)
 
 ## 2020
 
