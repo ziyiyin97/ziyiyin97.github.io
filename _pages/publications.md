@@ -42,5 +42,5 @@ doi: [10.1190/segam2020-3426999.1](https://doi.org/10.1190/segam2020-3426999.1)
 
 * **Edge Detection and Enriched Subspaces**    
 Ziyi Yin    
-*Undergraduate honors thesis for Bachelor of Sciences with Highest Honors*, May 2019    
+In: *Undergraduate honors thesis for Bachelor of Sciences with Highest Honors, Emory University*, May 2019        
 [[link]](https://etd.library.emory.edu/concern/etds/7w62f916x?locale=en)
