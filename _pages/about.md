@@ -27,7 +27,7 @@ In my spare time, I enjoy playing golf, basketball and hiking.
 
 ### Recent News
 
-* Oct, 2021: I passed my PhD qualify exam today!
+* Oct, 2021: I passed my PhD qualify exam!
 
 * Sep, 2021: I presented our work on [*Compressive time-lapse seismic monitoring of carbon storage and sequestration with the joint recovery model*](https://slim.gatech.edu/Publications/Public/Conferences/SEG/2021/yin2021SEGcts/yin2021SEGcts.html) in Oral Session TL 1: "Advances and Case Studies", [International Meeting for Applied Geoscience & Energy](https://imageevent.org/2021).
 

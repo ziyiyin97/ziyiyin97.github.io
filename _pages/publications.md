@@ -23,7 +23,7 @@ In: *2021 IMAGE Workshop on Geophysical Challenges in Presalt Carbonates*, Oct 2
 Ziyi Yin, Mathias Louboutin, Felix J. Herrmann       
 In: *First International Meeting for Applied Geoscience & Energy Expanded Abstracts*, Sep 2021, page 3434-3438     
 doi: [10.1190/segam2021-3569087.1](https://doi.org/10.1190/segam2021-3569087.1)      
-[[html]](https://slim.gatech.edu/Publications/Public/Conferences/SEG/2021/yin2021SEGcts/yin2021SEGcts.html) [[pdf]](https://slim.gatech.edu/Publications/Public/Conferences/SEG/2021/yin2021SEGcts/yin2021SEGcts.pdf) [[software]](https://github.com/slimgroup/Software.SEG2021) [[slides]](https://slim.gatech.edu/Publications/Public/Conferences/SEG/2021/yin2021SEGcts/yin2021SEGcts_pres.pdf) [[video]](https://slim.gatech.edu/Publications/Public/Conferences/SEG/2021/yin2021SEGcts/yin2021SEGcts.mp4) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7163)
+[[html]](https://slim.gatech.edu/Publications/Public/Conferences/SEG/2021/yin2021SEGcts/yin2021SEGcts.html) [[pdf]](https://slim.gatech.edu/Publications/Public/Conferences/SEG/2021/yin2021SEGcts/yin2021SEGcts.pdf) [[software]](https://github.com/slimgroup/Software.SEG2021) [[slides]](https://slim.gatech.edu/Publications/Public/Conferences/SEG/2021/yin2021SEGcts/Tue-9-28-Yin.html) [[video]](https://slim.gatech.edu/Publications/Public/Conferences/SEG/2021/yin2021SEGcts/yin2021SEGcts.mp4) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7163)
 
 ## 2020
 
