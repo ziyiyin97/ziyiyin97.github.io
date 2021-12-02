@@ -7,7 +7,7 @@ author_profile: true
 
 ## 2021
 
-* **Improved seismic monitoring of CO2 sequestration with the weighted joint recovery model**
+* **Improved seismic monitoring of CO2 sequestration with the weighted joint recovery model**       
 In: *ML4Seismic Partners Meeting 2021*, Nov 2021
 
 * **Compressive time-lapse seismic monitoring of carbon storage and sequestration with the joint recovery model**          
