@@ -8,7 +8,8 @@ author_profile: true
 ## 2021
 
 * **Improved seismic monitoring of CO2 sequestration with the weighted joint recovery model**       
-In: *ML4Seismic Partners Meeting 2021*, Nov 2021
+In: *ML4Seismic Partners Meeting 2021*, Nov 2021    
+[[link]](https://slim.gatech.edu/Publications/Public/Conferences/ML4SEISMIC/2021/yin2021ML4SEISMICism/Tue-11-20-Yin.html)    
 
 * **Compressive time-lapse seismic monitoring of carbon storage and sequestration with the joint recovery model**          
 In: *International Meeting for Applied Geoscience & Energy Session TL 1: "Advances and Case Studies"*, Sep 2021      
