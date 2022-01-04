@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ziyi (Francis) Yin - 尹梓屹"
+title: "Ziyi (Francis) Yin - 尹梓屹 "
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,7 +10,7 @@ redirect_from:
 
 ### About me
 
-I am a 3rd-year PhD student in [Computational Science and Engineering](https://cse.gatech.edu) at [Georgia Institute of Technology](https://www.gatech.edu), advised by [Prof. Felix J. Herrmann](https://cse.gatech.edu/people/felix-herrmann). I work in SLIM ([Seismic Laboratory for Imaging and Modeling](https://slim.gatech.edu)) group on robust & low-cost methods for time-lapse seismic monitoring of carbon storage and sequestration.
+I am a 3rd-year PhD student in [Computational Science and Engineering](https://cse.gatech.edu) at [Georgia Institute of Technology](https://www.gatech.edu), advised by [Prof. Felix J. Herrmann](https://cse.gatech.edu/people/felix-herrmann). I work in SLIM ([Seismic Laboratory for Imaging and Modeling](https://slim.gatech.edu)) group mainly on robust & low-cost methods for time-lapse seismic monitoring of carbon storage and sequestration.
 
 In general, my research interests include (but not limited to)
 
@@ -26,6 +26,8 @@ Before coming to Georgia Tech, I graduated from [Emory University](http://www.em
 In my spare time, I enjoy playing golf, basketball and hiking.
 
 ### Recent News
+
+* Aug, 2021: I started to work as a TA for EAS 4803/8803 Seismic monitoring CO2 storage taught by Prof. Felix J. Herrmann in Spring 2022 semester.
 
 * Nov, 2021: I present my latest work in ML4Seismic Partners Meeting.
 
