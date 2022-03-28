@@ -27,9 +27,9 @@ In my spare time, I enjoy playing golf, basketball and hiking.
 
 ### Recent News
 
-* Aug, 2021: I started to work as a TA for EAS 4803/8803 Seismic monitoring CO2 storage taught by Prof. Felix J. Herrmann in Spring 2022 semester.
+* Sep, 2021: Check my latest work [here](https://ziyiyin97.github.io/publications/).
 
-* Nov, 2021: I present my latest work in ML4Seismic Partners Meeting.
+* Aug, 2021: I started to work as a TA for EAS 4803/8803 Seismic monitoring CO2 storage taught by Prof. Felix J. Herrmann in Spring 2022 semester.
 
 * Oct, 2021: I passed my PhD qualify exam!
 
