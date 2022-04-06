@@ -27,7 +27,9 @@ In my spare time, I enjoy playing golf, basketball and hiking.
 
 ### Recent News
 
-* Sep, 2021: Check my latest work [here](https://ziyiyin97.github.io/publications/).
+* Apr, 2022: On behalf of SLIM group, I will give a 2-hour live tutorial on Julia for geoscience at 2PM UTC on April 27 in [TRANSFORM 2022 conference](https://docs.google.com/spreadsheets/d/e/2PACX-1vTnJ_cTd3Y5nQPoxM-BNTHq96SobJxTliofmqLxBMFnASpKTE9JxmPoqxEnFYPLUw2ZrIiQS8o_wunC/pubhtml)!
+
+* Mar, 2022: Check my latest work [here](https://ziyiyin97.github.io/publications/).
 
 * Aug, 2021: I started to work as a TA for EAS 4803/8803 Seismic monitoring CO2 storage taught by Prof. Felix J. Herrmann in Spring 2022 semester.
 
