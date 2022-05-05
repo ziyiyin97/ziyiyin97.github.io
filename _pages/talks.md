@@ -8,7 +8,7 @@ author_profile: true
 ## 2022
 
 * **Julia for Geoscience**       
-In: *Transform 2022*, Nov 2022    
+In: *Transform 2022*, Apr 2022    
 [[link]](https://transform.softwareunderground.org/2022-julia-for-geoscience) [[recording]](https://www.youtube.com/watch?v=HyWfp3NzIbg) [[software]](https://github.com/slimgroup/SLIMTutorials)    
 
 ## 2021
