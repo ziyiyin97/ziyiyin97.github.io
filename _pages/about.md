@@ -31,7 +31,7 @@ In my spare time, I enjoy playing golf, basketball and hiking.
 
 * Apr, 2022: On behalf of SLIM group, I gave a 2-hour live tutorial on [Julia for Geoscience](https://transform.softwareunderground.org/2022-julia-for-geoscience) in [TRANSFORM 2022 conference](https://transform.softwareunderground.org/overview). Check the recording on youtube [here](https://www.youtube.com/watch?v=HyWfp3NzIbg).
 
-* Apr, 2022: [Towards large-scale learned solvers for parametric PDEs with model-parallel Fourier neural operators](https://arxiv.org/pdf/2204.01205.pdf) was mentioned in [Nvidia's technical blog post](https://developer.nvidia.com/blog/accelerating-climate-change-mitigation-with-machine-learning-the-case-of-carbon-storage/?ncid=so-twit-573482&=&linkId=100000119404270#cid=dl13_so-twit_en-us).
+* Apr, 2022: [Model-Parallel Fourier Neural Operators as Learned Surrogates for Large-Scale Parametric PDEs](https://arxiv.org/pdf/2204.01205.pdf) was mentioned in [Nvidia's technical blog post](https://developer.nvidia.com/blog/accelerating-climate-change-mitigation-with-machine-learning-the-case-of-carbon-storage/?ncid=so-twit-573482&=&linkId=100000119404270#cid=dl13_so-twit_en-us).
 
 * Aug, 2021: I started to work as a TA for EAS 4803/8803 Seismic monitoring CO2 storage taught by Prof. Felix J. Herrmann in Spring 2022 semester.
 

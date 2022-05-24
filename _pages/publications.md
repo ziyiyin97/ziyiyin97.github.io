@@ -24,7 +24,7 @@ Yijun Zhang, Mathias Louboutin, Ali Siahkoohi, Ziyi Yin, Rajiv Kumar and Felix J
 *Accepted by International Meeting for Applied Geoscience & Energy Expanded Abstracts 2022*      
 [[html]](https://slim.gatech.edu/Publications/Public/Conferences/SEG/2022/zhang2022SEGass/Yijun2022SEGass.html) [[pdf]](https://arxiv.org/pdf/2204.02801.pdf) [[software]](https://github.com/slimgroup/opt_spectral_gap) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7199)
 
-* **Towards large-scale learned solvers for parametric PDEs with model-parallel Fourier neural operators**        
+* **Model-Parallel Fourier Neural Operators as Learned Surrogates for Large-Scale Parametric PDEs**        
 Thomas J. Grady II, Rishi Khan, Mathias Louboutin, Ziyi Yin, Philipp A. Witte, Ranveer Chandra, Russell J. Hewett, and Felix J. Herrmann        
 *Submitted*      
 [[pdf]](https://arxiv.org/pdf/2204.01205.pdf) [[software]](https://github.com/slimgroup/dfno) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7204)
