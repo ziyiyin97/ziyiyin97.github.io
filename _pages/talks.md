@@ -5,11 +5,15 @@ permalink: /talks/
 author_profile: true
 ---
 
-## 2022
+## 2022 
 
 * **Julia for Geoscience**       
 In: *Transform 2022*, Apr 2022    
 [[link]](https://transform.softwareunderground.org/2022-julia-for-geoscience) [[recording]](https://www.youtube.com/watch?v=HyWfp3NzIbg) [[software]](https://github.com/slimgroup/SLIMTutorials)    
+
+* **Abstractions for at-scale seismic inversion** *(contributed)*       
+In: *Rice Oil and Gas High Performance Computing Conference 2022*, Mar 2022    
+[[link]](https://slim.gatech.edu/Publications/Public/Conferences/RHPC/2022/louboutin2022RHPCafa/RiceHPC22.pdf) [[recording]](https://www.youtube.com/watch?v=scRTbP8w6Wk&t=4542s)    
 
 ## 2021
 
