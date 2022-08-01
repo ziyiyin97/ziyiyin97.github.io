@@ -21,11 +21,13 @@ In general, my research interests include (but not limited to)
 * computational imaging
 * uncertainty quantification
 
-Before coming to Georgia Tech, I graduated from [Emory University](http://www.emory.edu/home/index.html) in 2019, with a *summa cum laude* Bachelor of Science degree in [Mathematics and Computer Science](https://www.math.emory.edu). I conducted research on regularization methods for image reconstruction from CT scans, advised by [Prof. James G. Nagy](http://www.mathcs.emory.edu/~nagy/) and wrote my honors thesis, [Edge Detection and Enriched Subspaces](https://etd.library.emory.edu/concern/etds/7w62f916x?locale=en).
+Before coming to Georgia Tech, I graduated from [Emory University](http://www.emory.edu/home/index.html) in 2019, with a *summa cum laude* Bachelor of Science degree in [Mathematics and Computer Science](https://www.math.emory.edu). I conducted research on regularization methods for image reconstruction from CT scans, advised by [Prof. James G. Nagy](http://www.math.emory.edu/~nagy/) and wrote my honors thesis, [Edge Detection and Enriched Subspaces](https://etd.library.emory.edu/concern/etds/7w62f916x?locale=en).
 
 In my spare time, I enjoy playing golf, basketball and hiking.
 
 ### Recent News
+
+* July, 2022: Check out [this recent work](https://slim.gatech.edu/Publications/Public/Submitted/2022/erdinc2022AAAIdcc/erdinc2022AAAIdcc.pdf) to detect CO2 leakage in geological carbon storage with explainable ML models.
 
 * May, 2022: Several abstracts are accepted and going to be presented at the 2022 International Meeting for Applied Geoscience & Energy Meeting.
 

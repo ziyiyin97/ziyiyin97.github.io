@@ -9,6 +9,11 @@ You can also find my publications on [my Google Scholar profile](https://scholar
 
 ## 2022
 
+* **De-risking Carbon Capture and Sequestration with Explainable CO2 Leakage Detection in Time-lapse Seismic Monitoring Images**        
+Huseyin Tuna Erdinc, Abhinav P. Gahlot, Ziyi Yin, Mathias Louboutin, and Felix J. Herrmann     
+*Submitted to AAAI 2022 Fall Symposium: The Role of AI in Responding to Climate Challenges*      
+[[pdf]](https://slim.gatech.edu/Publications/Public/Submitted/2022/erdinc2022AAAIdcc/erdinc2022AAAIdcc.pdf) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7216)
+
 * **Learned coupled inversion for carbon sequestration monitoring and forecasting with Fourier neural operators**        
 Ziyi Yin, Ali Siahkoohi, Mathias Louboutin, and Felix J. Herrmann       
 *Accepted by International Meeting for Applied Geoscience & Energy Expanded Abstracts 2022*      
@@ -26,7 +31,7 @@ Yijun Zhang, Mathias Louboutin, Ali Siahkoohi, Ziyi Yin, Rajiv Kumar and Felix J
 
 * **Model-Parallel Fourier Neural Operators as Learned Surrogates for Large-Scale Parametric PDEs**        
 Thomas J. Grady II, Rishi Khan, Mathias Louboutin, Ziyi Yin, Philipp A. Witte, Ranveer Chandra, Russell J. Hewett, and Felix J. Herrmann        
-*Submitted*      
+*Technical Report TR-CSE-2022-1*      
 [[pdf]](https://arxiv.org/pdf/2204.01205.pdf) [[software]](https://github.com/slimgroup/dfno) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7204)
 
 ## 2021
