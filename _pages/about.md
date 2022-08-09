@@ -27,7 +27,9 @@ In my spare time, I enjoy playing golf, basketball and hiking.
 
 ### Recent News
 
-* July, 2022: Check out [this recent work](https://slim.gatech.edu/Publications/Public/Submitted/2022/erdinc2022AAAIdcc/erdinc2022AAAIdcc.pdf) to detect CO2 leakage in geological carbon storage with explainable ML models.
+* Aug, 2022: The time-lapse seismic monitoring of geological carbon storage work in SLIM group is featured in [College of Computing at Georgia Tech news](https://www.cc.gatech.edu/news/group-brings-seismic-imaging-climate-change-conversations-and-beyond).
+
+* Jul, 2022: Check out [this recent work](https://slim.gatech.edu/Publications/Public/Submitted/2022/erdinc2022AAAIdcc/erdinc2022AAAIdcc.pdf) to detect CO2 leakage in geological carbon storage with explainable ML models.
 
 * May, 2022: Several abstracts are accepted and going to be presented at the 2022 International Meeting for Applied Geoscience & Energy Meeting.
 
