@@ -4,12 +4,9 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Publications"
+  - title: "Publications & Presentations"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/
-    
   - title: "Honors and Awards"
     url: /awards/
 

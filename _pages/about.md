@@ -10,7 +10,7 @@ redirect_from:
 
 ### About me
 
-I am a 3rd-year PhD student in [Computational Science and Engineering](https://cse.gatech.edu) at [Georgia Institute of Technology](https://www.gatech.edu), advised by [Prof. Felix J. Herrmann](https://cse.gatech.edu/people/felix-herrmann). I work in SLIM ([Seismic Laboratory for Imaging and Modeling](https://slim.gatech.edu)) group mainly on robust & low-cost methods for time-lapse seismic monitoring of carbon storage and sequestration.
+I am a PhD student in [Computational Science and Engineering](https://cse.gatech.edu) at [Georgia Institute of Technology](https://www.gatech.edu), advised by [Prof. Felix J. Herrmann](https://cse.gatech.edu/people/felix-herrmann). I work in SLIM ([Seismic Laboratory for Imaging and Modeling](https://slim.gatech.edu)) group mainly on robust & low-cost methods for time-lapse seismic monitoring of carbon storage and sequestration.
 
 In general, my research interests include (but not limited to)
 
