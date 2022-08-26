@@ -18,7 +18,7 @@ Huseyin Tuna Erdinc, Abhinav P. Gahlot, Ziyi Yin, Mathias Louboutin, and Felix J
 Ziyi Yin, Ali Siahkoohi, Mathias Louboutin, and Felix J. Herrmann       
 In: *Second International Meeting for Applied Geoscience & Energy Expanded Abstracts*, Aug 2022, page 467-472     
 doi: [10.1190/image2022-3722848.1](https://doi.org/10.1190/image2022-3722848.1)      
-[[html]](https://slim.gatech.edu/Publications/Public/Conferences/SEG/2022/yin2022SEGlci/paper.html) [[pdf]](https://arxiv.org/pdf/2203.14396.pdf) [[software]](https://github.com/slimgroup/FNO4CO2) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7200)
+[[html]](https://slim.gatech.edu/Publications/Public/Conferences/SEG/2022/yin2022SEGlci/paper.html) [[pdf]](https://arxiv.org/pdf/2203.14396.pdf) [[slides]](https://slim.gatech.edu/Publications/Public/Conferences/SEG/2022/yin2022SEGlci/index.html) [[software]](https://github.com/slimgroup/FNO4CO2) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7200)
 
 * **Accelerating innovation with software abstractions for scalable computational geophysics**        
 Mathias Louboutin, Philipp A. Witte, Ali Siahkoohi, Gabrio Rizzuti, Ziyi Yin, Rafael Orozco, and Felix J. Herrmann       
