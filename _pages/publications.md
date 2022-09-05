@@ -24,13 +24,13 @@ doi: [10.1190/image2022-3722848.1](https://doi.org/10.1190/image2022-3722848.1)
 Mathias Louboutin, Philipp A. Witte, Ali Siahkoohi, Gabrio Rizzuti, Ziyi Yin, Rafael Orozco, and Felix J. Herrmann       
 In: *Second International Meeting for Applied Geoscience & Energy Expanded Abstracts*, Aug 2022, page 1482-1486       
 doi: [10.1190/image2022-3750561.1](https://doi.org/10.1190/image2022-3750561.1)      
-[[html]](https://slim.gatech.edu/Publications/Public/Conferences/SEG/2022/louboutin2022SEGais/louboutin_seg22.html) [[pdf]](https://arxiv.org/pdf/2203.15038.pdf) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7201)
+[[html]](https://slim.gatech.edu/Publications/Public/Conferences/SEG/2022/louboutin2022SEGais/louboutin_seg22.html) [[pdf]](https://arxiv.org/pdf/2203.15038.pdf) [[slides]](https://slim.gatech.edu/Publications/Public/Conferences/SEG/2022/louboutin2022SEGais/Wed-3-10-Louboutin.pdf) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7201)
 
 * **A simulation-free seismic survey design by maximizing the spectral gap**        
 Yijun Zhang, Mathias Louboutin, Ali Siahkoohi, Ziyi Yin, Rajiv Kumar and Felix J. Herrmann       
 In: *Second International Meeting for Applied Geoscience & Energy Expanded Abstracts*, Aug 2022, page 15-20     
 doi: [10.1190/image2022-3751690.1](https://doi.org/10.1190/image2022-3751690.1)      
-[[html]](https://slim.gatech.edu/Publications/Public/Conferences/SEG/2022/zhang2022SEGass/Yijun2022SEGass.html) [[pdf]](https://arxiv.org/pdf/2204.02801.pdf) [[software]](https://github.com/slimgroup/opt_spectral_gap) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7199)
+[[html]](https://slim.gatech.edu/Publications/Public/Conferences/SEG/2022/zhang2022SEGass/Yijun2022SEGass.html) [[pdf]](https://arxiv.org/pdf/2204.02801.pdf) [[slides]](https://slim.gatech.edu/Publications/Public/Conferences/SEG/2022/zhang2022SEGass/index.html) [[software]](https://github.com/slimgroup/opt_spectral_gap) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7199)
 
 * **Model-Parallel Fourier Neural Operators as Learned Surrogates for Large-Scale Parametric PDEs**        
 Thomas J. Grady II, Rishi Khan, Mathias Louboutin, Ziyi Yin, Philipp A. Witte, Ranveer Chandra, Russell J. Hewett, and Felix J. Herrmann         
