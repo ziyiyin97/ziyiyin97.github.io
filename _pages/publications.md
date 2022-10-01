@@ -9,8 +9,12 @@ You can also find my publications on [my Google Scholar profile](https://scholar
 
 ## 2022
 
+* **De-risking geological carbon storage from high resolution time-lapse seismic to explainable leakage detection**        
+<ins>Ziyi Yin</ins>, Huseyin Tuna Erdinc, Abhinav Prakash Gahlot, Mathias Louboutin, and Felix J. Herrmann        
+[[html]](https://slim.gatech.edu/Publications/Public/Submitted/2022/yin2022TLEdgc/paper.html) [[pdf]](https://slim.gatech.edu/Publications/Public/Submitted/2022/yin2022TLEdgc/paper.pdf) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7249)
+
 * **De-risking Carbon Capture and Sequestration with Explainable CO2 Leakage Detection in Time-lapse Seismic Monitoring Images**        
-Huseyin Tuna Erdinc, Abhinav P. Gahlot, <ins>Ziyi Yin</ins>, Mathias Louboutin, and Felix J. Herrmann     
+Huseyin Tuna Erdinc, Abhinav Prakash Gahlot, <ins>Ziyi Yin</ins>, Mathias Louboutin, and Felix J. Herrmann     
 Accepted in *AAAI 2022 Fall Symposium: The Role of AI in Responding to Climate Challenges*      
 [[pdf]](https://slim.gatech.edu/Publications/Public/Conferences/AAAI/2022/erdinc2022AAAIdcc/erdinc2022AAAIdcc.pdf) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7216)
 
