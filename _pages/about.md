@@ -27,13 +27,13 @@ In my spare time, I enjoy playing golf, basketball and hiking.
 
 ### Recent News
 
-* Sep, 2022: Check our preprint on [*De-risking geological carbon storage from high resolution time-lapse seismic to explainable leakage detection*](https://slim.gatech.edu/Publications/Public/Submitted/2022/yin2022TLEdgc/paper.html).
+* Sep, 2022: [*De-risking geological carbon storage from high resolution time-lapse seismic to explainable leakage detection*](https://slim.gatech.edu/Publications/Public/Journals/TheLeadingEdge/2022/yin2022TLEdgc/paper.html) was accepted in the January 2023 special section in seismic resolution in The Leading Edge.
 
-* Aug, 2022: [*De-risking Carbon Capture and Sequestration with Explainable CO2 Leakage Detection in Time-lapse Seismic Monitoring Images*](https://slim.gatech.edu/Publications/Public/Conferences/AAAI/2022/erdinc2022AAAIdcc/erdinc2022AAAIdcc.pdf) is accepted in [AAAI 2022 Fall Symposium: The Role of AI in Responding to Climate Challenges](https://www.climatechange.ai/events/aaaifss2022).
+* Aug, 2022: [*De-risking Carbon Capture and Sequestration with Explainable CO2 Leakage Detection in Time-lapse Seismic Monitoring Images*](https://slim.gatech.edu/Publications/Public/Conferences/AAAI/2022/erdinc2022AAAIdcc/erdinc2022AAAIdcc.pdf) was accepted in [AAAI 2022 Fall Symposium: The Role of AI in Responding to Climate Challenges](https://www.climatechange.ai/events/aaaifss2022).
 
-* Aug, 2022: The time-lapse seismic monitoring of geological carbon storage work in SLIM group is featured in [College of Computing at Georgia Tech news](https://www.cc.gatech.edu/news/group-brings-seismic-imaging-climate-change-conversations-and-beyond).
+* Aug, 2022: The time-lapse seismic monitoring of geological carbon storage work in SLIM group was featured in [College of Computing at Georgia Tech news](https://www.cc.gatech.edu/news/group-brings-seismic-imaging-climate-change-conversations-and-beyond).
 
-* May, 2022: Several abstracts are accepted and going to be presented at the 2022 International Meeting for Applied Geoscience & Energy Meeting.
+* May, 2022: Several abstracts were accepted and going to be presented at the 2022 International Meeting for Applied Geoscience and Energy Meeting.
 
 * Apr, 2022: On behalf of SLIM group, I gave a 2-hour live tutorial on [Julia for Geoscience](https://transform.softwareunderground.org/2022-julia-for-geoscience) in [TRANSFORM 2022 conference](https://transform.softwareunderground.org/overview). Check the recording on youtube [here](https://www.youtube.com/watch?v=HyWfp3NzIbg).
 
