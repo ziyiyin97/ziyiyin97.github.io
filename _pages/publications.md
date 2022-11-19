@@ -9,12 +9,54 @@ You can also find my publications on [my Google Scholar profile](https://scholar
 
 \* denotes equal contribution.
 
-## 2022
+## 2023
 
 * **De-risking geological carbon storage from high resolution time-lapse seismic to explainable leakage detection**        
 <ins>Ziyi Yin</ins>, Huseyin Tuna Erdinc, Abhinav Prakash Gahlot, Mathias Louboutin, and Felix J. Herrmann        
-Just accepted in: *the January 2023 special section in seismic resolution in The Leading Edge*, Oct 2022           
+Just accepted in: *the January 2023 special section in seismic resolution in The Leading Edge*               
 [[html]](https://slim.gatech.edu/Publications/Public/Journals/TheLeadingEdge/2022/yin2022TLEdgc/paper.html) [[pdf]](https://arxiv.org/pdf/2211.03527.pdf) [[software]](https://github.com/slimgroup/GCS-CAM) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7249)
+
+## 2022
+
+* **Uncertainty-aware time-lapse CO2 monitoring with learned end-to-end inversion**       
+<ins>Ziyi Yin</ins>, Rafael Orozco, Ali Siahkoohi, Mathias Louboutin, and Felix J. Herrmann       
+In: *ML4Seismic Partners Meeting 2022*, Nov 2022    
+[[link]](https://slim.gatech.edu/Publications/Public/Conferences/ML4SEISMIC/2022/yin2022ML4SEISMICutc/index.html)     
+
+* **Simulation-based framework for geological carbon storage monitoring**       
+<ins>Ziyi Yin</ins>, Huseyin Tuna Erdinc, Abhinav Prakash Gahlot, Mathias Louboutin and Felix J. Herrmann       
+In: *ML4Seismic Partners Meeting 2022*, Nov 2022    
+[[link]](https://slim.gatech.edu/Publications/Public/Conferences/ML4SEISMIC/2022/yin2022ML4SEISMICsfg/index.html)     
+
+* **Amortized velocity continuation with Fourier neural operators**       
+Ali Siahkoohi, <ins>Ziyi Yin</ins>, Mathias Louboutin and Felix J. Herrmann       
+In: *ML4Seismic Partners Meeting 2022*, Nov 2022    
+[[link]](https://slim.gatech.edu/Publications/Public/Conferences/ML4SEISMIC/2022/yin2022ML4SEISMICavc/index.html)     
+
+* **Time-lapse seismic survey design by maximizing the spectral gap**       
+Yijun Zhang, Mathias Louboutin, Ali Siahkoohi, <ins>Ziyi Yin</ins>, Rajiv Kumar, Oscar Lopez, and Felix J. Herrmann       
+In: *ML4Seismic Partners Meeting 2022*, Nov 2022    
+[[link]](https://slim.gatech.edu/Publications/Public/Conferences/ML4SEISMIC/2022/zhang2022ML4SEISMICtss/index.html)     
+
+* **Effective scaling of numerical surrogates via domain-decomposed Fourier neural operators**       
+Thomas J. Grady II, Rishi Khan, Mathias Louboutin, <ins>Ziyi Yin</ins>, Philipp A. Witte, Ranveer Chandra, Russell J. Hewett, and Felix J. Herrmann       
+In: *ML4Seismic Partners Meeting 2022*, Nov 2022    
+[[link]](https://slim.gatech.edu/Publications/Public/Conferences/ML4SEISMIC/2022/grady2022ML4SEISMICesn/index.html)     
+
+* **ML4Seismic open-source software: updates and developments**       
+Mathias Louboutin, <ins>Ziyi Yin</ins>, Rafael Orozco, Thomas J. Grady II, and Felix J. Herrmann       
+In: *ML4Seismic Partners Meeting 2022*, Nov 2022    
+[[link]](https://slim.gatech.edu/Publications/Public/Conferences/ML4SEISMIC/2022/louboutin2022ML4SEISMICmos/index.html)     
+
+* **De-risking GCS projects with explainable CO2 leakage detection in time-lapse seismic images**       
+Huseyin Tuna Erdinc, Abhinav Prakash Gahlot, <ins>Ziyi Yin</ins>, Mathias Louboutin, and Felix J. Herrmann       
+In: *ML4Seismic Partners Meeting 2022*, Nov 2022    
+[[link]](https://slim.gatech.edu/Publications/Public/Conferences/ML4SEISMIC/2022/erdinc2022ML4SEISMICdgp/index.html)     
+
+* **Monitoring with sequential Bayesian inference**       
+Ting-ying Yu, Rafael Orozco, <ins>Ziyi Yin</ins>, and Felix J. Herrmann       
+In: *ML4Seismic Partners Meeting 2022*, Nov 2022    
+[[link]](https://slim.gatech.edu/Publications/Public/Conferences/ML4SEISMIC/2022/yu2022ML4SEISMICmsb/index.html)     
 
 * **De-risking Carbon Capture and Sequestration with Explainable CO2 Leakage Detection in Time-lapse Seismic Monitoring Images**        
 Huseyin Tuna Erdinc\*, Abhinav Prakash Gahlot\*, <ins>Ziyi Yin</ins>, Mathias Louboutin, and Felix J. Herrmann     
