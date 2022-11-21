@@ -27,6 +27,8 @@ In my spare time, I enjoy playing golf, basketball and hiking.
 
 ### Recent News
 
+* Nov, 2022: Feel free to check my recent research progress in [my ML4SEISMIC presentations](https://ziyiyin97.github.io/publications/).
+
 * Sep, 2022: [*De-risking geological carbon storage from high resolution time-lapse seismic to explainable leakage detection*](https://arxiv.org/pdf/2211.03527.pdf) was accepted in the January 2023 special section in seismic resolution in The Leading Edge.
 
 * Aug, 2022: [*De-risking Carbon Capture and Sequestration with Explainable CO2 Leakage Detection in Time-lapse Seismic Monitoring Images*](https://slim.gatech.edu/Publications/Public/Conferences/AAAI/2022/erdinc2022AAAIdcc/erdinc2022AAAIdcc.pdf) was accepted in [AAAI 2022 Fall Symposium: The Role of AI in Responding to Climate Challenges](https://www.climatechange.ai/events/aaaifss2022).
