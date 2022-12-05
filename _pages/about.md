@@ -10,7 +10,7 @@ redirect_from:
 
 ### About me
 
-I am a PhD student in [Computational Science and Engineering](https://cse.gatech.edu) at [Georgia Institute of Technology](https://www.gatech.edu), advised by [Prof. Felix J. Herrmann](https://cse.gatech.edu/people/felix-herrmann). I work in SLIM ([Seismic Laboratory for Imaging and Modeling](https://slim.gatech.edu)) group mainly on robust & low-cost methods for time-lapse seismic monitoring of carbon storage and sequestration.
+I am a PhD student in [Computational Science and Engineering](https://cse.gatech.edu) at [Georgia Institute of Technology](https://www.gatech.edu), advised by [Prof. Felix J. Herrmann](https://cse.gatech.edu/people/felix-herrmann). I work in SLIM ([Seismic Laboratory for Imaging and Modeling](https://slim.gatech.edu)) group mainly on robust and low-cost methods for time-lapse seismic monitoring of geological carbon storage.
 
 In general, my research interests include (but not limited to)
 
@@ -28,6 +28,8 @@ In my spare time, I enjoy playing golf, basketball and hiking.
 ### Recent News
 
 * Nov, 2022: Feel free to check my recent research progress in [my ML4SEISMIC presentations](https://ziyiyin97.github.io/publications/).
+
+* Oct, 2022: I accepted an internship offer from Chevron. I will be working as a Geophysics intern in Houston, TX in summer 2023.
 
 * Sep, 2022: [*De-risking geological carbon storage from high resolution time-lapse seismic to explainable leakage detection*](https://arxiv.org/pdf/2211.03527.pdf) was accepted in the January 2023 special section in seismic resolution in The Leading Edge.
 
