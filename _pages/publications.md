@@ -63,7 +63,7 @@ In: *ML4Seismic Partners Meeting 2022*, Nov 2022
 Huseyin Tuna Erdinc\*, Abhinav Prakash Gahlot\*, <ins>Ziyi Yin</ins>, Mathias Louboutin, and Felix J. Herrmann     
 In: *AAAI 2022 Fall Symposium: The Role of AI in Responding to Climate Challenges*, Nov 2022      
 doi: [10.48550/arXiv.2212.08596](https://doi.org/10.48550/arXiv.2212.08596)         
-[[pdf]](https://slim.gatech.edu/Publications/Public/Conferences/AAAI/2022/erdinc2022AAAIdcc/erdinc2022AAAIdcc.pdf) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7216)
+[[pdf]](https://slim.gatech.edu/Publications/Public/Conferences/AAAI/2022/erdinc2022AAAIdcc/erdinc2022AAAIdcc.pdf) [[slides]](https://slim.gatech.edu/Publications/Public/Conferences/AAAI/2022/erdinc2022AAAIdcc/index.html) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7216)
 
 * **Learned coupled inversion for carbon sequestration monitoring and forecasting with Fourier neural operators**        
 <ins>Ziyi Yin</ins>, Ali Siahkoohi, Mathias Louboutin, and Felix J. Herrmann       
