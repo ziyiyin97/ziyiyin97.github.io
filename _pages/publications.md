@@ -19,6 +19,12 @@ doi: [10.1190/tle42010306.1](https://doi.org/10.1190/tle42010306.1)
 
 ## 2022
 
+* **De-risking Carbon Capture and Sequestration with Explainable CO2 Leakage Detection in Time-lapse Seismic Monitoring Images**        
+Huseyin Tuna Erdinc\*, Abhinav Prakash Gahlot\*, <ins>Ziyi Yin</ins>, Mathias Louboutin, and Felix J. Herrmann     
+In: *AAAI 2022 Fall Symposium: The Role of AI in Responding to Climate Challenges*, Nov 2022      
+doi: [10.48550/arXiv.2212.08596](https://doi.org/10.48550/arXiv.2212.08596)         
+[[pdf]](https://slim.gatech.edu/Publications/Public/Conferences/AAAI/2022/erdinc2022AAAIdcc/erdinc2022AAAIdcc.pdf) [[slides]](https://slim.gatech.edu/Publications/Public/Conferences/AAAI/2022/erdinc2022AAAIdcc/index.html) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7216)
+
 * **Uncertainty-aware time-lapse CO2 monitoring with learned end-to-end inversion**       
 <ins>Ziyi Yin</ins>, Rafael Orozco, Ali Siahkoohi, Mathias Louboutin, and Felix J. Herrmann       
 In: *ML4Seismic Partners Meeting 2022*, Nov 2022    
@@ -59,12 +65,6 @@ Ting-ying Yu, Rafael Orozco, <ins>Ziyi Yin</ins>, and Felix J. Herrmann
 In: *ML4Seismic Partners Meeting 2022*, Nov 2022    
 [[link]](https://slim.gatech.edu/Publications/Public/Conferences/ML4SEISMIC/2022/yu2022ML4SEISMICmsb/index.html)     
 
-* **De-risking Carbon Capture and Sequestration with Explainable CO2 Leakage Detection in Time-lapse Seismic Monitoring Images**        
-Huseyin Tuna Erdinc\*, Abhinav Prakash Gahlot\*, <ins>Ziyi Yin</ins>, Mathias Louboutin, and Felix J. Herrmann     
-In: *AAAI 2022 Fall Symposium: The Role of AI in Responding to Climate Challenges*, Nov 2022      
-doi: [10.48550/arXiv.2212.08596](https://doi.org/10.48550/arXiv.2212.08596)         
-[[pdf]](https://slim.gatech.edu/Publications/Public/Conferences/AAAI/2022/erdinc2022AAAIdcc/erdinc2022AAAIdcc.pdf) [[slides]](https://slim.gatech.edu/Publications/Public/Conferences/AAAI/2022/erdinc2022AAAIdcc/index.html) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7216)
-
 * **Learned coupled inversion for carbon sequestration monitoring and forecasting with Fourier neural operators**        
 <ins>Ziyi Yin</ins>, Ali Siahkoohi, Mathias Louboutin, and Felix J. Herrmann       
 In: *Second International Meeting for Applied Geoscience & Energy Expanded Abstracts*, Aug 2022, page 467-472     
@@ -85,7 +85,7 @@ doi: [10.1190/image2022-3751690.1](https://doi.org/10.1190/image2022-3751690.1)
 
 * **Model-Parallel Fourier Neural Operators as Learned Surrogates for Large-Scale Parametric PDEs**        
 Thomas J. Grady II, Rishi Khan, Mathias Louboutin, <ins>Ziyi Yin</ins>, Philipp A. Witte, Ranveer Chandra, Russell J. Hewett, and Felix J. Herrmann         
-doi: [arXiv.2204.01205](https://doi.org/10.48550/arXiv.2204.01205), Apr 2022          
+doi: [arXiv.2204.01205](https://doi.org/10.48550/arXiv.2204.01205)          
 [[pdf]](https://arxiv.org/pdf/2204.01205.pdf) [[software]](https://github.com/slimgroup/dfno) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7204)
 
 * **Julia for Geoscience**       
@@ -96,7 +96,7 @@ In: *Transform 2022*, Apr 2022
 * **Abstractions for at-scale seismic inversion**          
 Mathias Louboutin, Ali Siahkoohi, <ins>Ziyi Yin</ins>, Rafael Orozco, Thomas J. Grady II, Yijun Zhang, Philipp A. Witte, Gabrio Rizzuti, and Felix J. Herrmann            
 In: *Rice Oil and Gas High Performance Computing Conference 2022*, Mar 2022    
-[[link]](https://slim.gatech.edu/Publications/Public/Conferences/RHPC/2022/louboutin2022RHPCafa/RiceHPC22.pdf) [[recording]](https://www.youtube.com/watch?v=scRTbP8w6Wk&t=4542s)    
+[[slides]](https://slim.gatech.edu/Publications/Public/Conferences/RHPC/2022/louboutin2022RHPCafa/RiceHPC22.pdf) [[recording]](https://www.youtube.com/watch?v=scRTbP8w6Wk&t=4542s)    
 
 ## 2021
 
