@@ -37,8 +37,9 @@ In my spare time, I enjoy playing golf, basketball and hiking.
 
 * Aug, 2022: The time-lapse seismic monitoring of geological carbon storage work in SLIM group was featured in [College of Computing at Georgia Tech news](https://www.cc.gatech.edu/news/group-brings-seismic-imaging-climate-change-conversations-and-beyond).
 
-<details>
-  <summary><ins>Click to view earlier ones</ins></summary>
+<details>            
+
+<summary><ins>Click to view earlier ones</ins></summary>          
 
 * May, 2022: Several abstracts were accepted and going to be presented at the 2022 International Meeting for Applied Geoscience and Energy Meeting.
 

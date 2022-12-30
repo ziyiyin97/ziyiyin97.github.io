@@ -100,8 +100,9 @@ In: *Rice Oil and Gas High Performance Computing Conference 2022*, Mar 2022
 
 ## 2021
 
-<details>
-  <summary><ins>Click to view 2021</ins></summary>
+<details>        
+
+<summary><ins>Click to view 2021</ins></summary>         
 
 * **Seismic velocity inversion and uncertainty quantification using conditional normalizing flows**        
 Yuxiao Ren, Philipp A. Witte, Ali Siahkoohi, Mathias Louboutin, <ins>Ziyi Yin</ins>, and Felix J. Herrmann        
@@ -133,8 +134,9 @@ In: *Georgia Tech Geophysics Seminar*, Sep 2021
 
 ## 2020
 
-<details>
-  <summary><ins>Click to view 2020</ins></summary>
+<details>         
+
+<summary><ins>Click to view 2020</ins></summary>      
 
 * **Sparsity promoting least-squares migration for long offset sparse OBN**        
 Mathias Louboutin, <ins>Ziyi Yin</ins>, Yijun Zhang, and Felix J. Herrmann       
@@ -151,8 +153,9 @@ doi: [10.1190/segam2020-3426999.1](https://doi.org/10.1190/segam2020-3426999.1)
 
 ## 2019
 
-<details>
-  <summary><ins>Click to view 2019</ins></summary>
+<details>         
+
+<summary><ins>Click to view 2019</ins></summary>       
 
 * **Edge Detection and Enriched Subspaces**    
 <ins>Ziyi Yin</ins>    
