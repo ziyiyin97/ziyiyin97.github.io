@@ -100,10 +100,6 @@ In: *Rice Oil and Gas High Performance Computing Conference 2022*, Mar 2022
 
 ## 2021
 
-<details>        
-
-<summary><ins>Click to view 2021</ins></summary>         
-
 * **Seismic velocity inversion and uncertainty quantification using conditional normalizing flows**        
 Yuxiao Ren, Philipp A. Witte, Ali Siahkoohi, Mathias Louboutin, <ins>Ziyi Yin</ins>, and Felix J. Herrmann        
 In: *American Geophysical Union Annual Meeting 2021*, Dec 2021, session U12A-03       
@@ -130,13 +126,7 @@ doi: [10.1190/segam2021-3569087.1](https://doi.org/10.1190/segam2021-3569087.1)
 In: *Georgia Tech Geophysics Seminar*, Sep 2021      
 [[link]](https://slim.gatech.edu/Publications/Public/Conferences/SEG/2021/yin2021SEGcts/yin2021SEGcts.html)  
 
-</details>
-
 ## 2020
-
-<details>         
-
-<summary><ins>Click to view 2020</ins></summary>      
 
 * **Sparsity promoting least-squares migration for long offset sparse OBN**        
 Mathias Louboutin, <ins>Ziyi Yin</ins>, Yijun Zhang, and Felix J. Herrmann       
@@ -149,17 +139,9 @@ In: *SEG Technical Program Expanded Abstracts 2020*, Sep 2020, page 3502-3506
 doi: [10.1190/segam2020-3426999.1](https://doi.org/10.1190/segam2020-3426999.1)              
 [[html]](https://slim.gatech.edu/Publications/Public/Conferences/SEG/2020/yin2020SEGesi/yin2020SEGesi.html) [[pdf]](https://slim.gatech.edu/Publications/Public/Conferences/SEG/2020/yin2020SEGesi/yin2020SEGesi.pdf) [[slides]](https://slim.gatech.edu/Publications/Public/Conferences/SEG/2020/yin2020SEGesi/yin2020SEGesi_pres.pdf)  [[video]](https://slim.gatech.edu/Publications/Public/Conferences/SEG/2020/yin2020SEGesi/yin2020SEGesi_pres.mp4) [[software]](https://github.com/slimgroup/Software.SEG2020) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7139)
 
-</details>
-
 ## 2019
-
-<details>         
-
-<summary><ins>Click to view 2019</ins></summary>       
 
 * **Edge Detection and Enriched Subspaces**    
 <ins>Ziyi Yin</ins>    
 In: *Undergraduate honors thesis for Bachelor of Sciences with Highest Honors, Emory University*, May 2019        
 [[link]](https://etd.library.emory.edu/concern/etds/7w62f916x?locale=en)
-
-</details>
