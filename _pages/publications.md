@@ -13,8 +13,8 @@ You can also find my publications on [my Google Scholar profile](https://scholar
 
 * **De-risking geological carbon storage from high resolution time-lapse seismic to explainable leakage detection**        
 <ins>Ziyi Yin</ins>, Huseyin Tuna Erdinc, Abhinav Prakash Gahlot, Mathias Louboutin, and Felix J. Herrmann        
-In: *The Leading Edge*, Jan 2023     
-doi: [10.1190/tle42010306.1](https://doi.org/10.1190/tle42010306.1)      
+In: *The Leading Edge*, Jan 2023, volume 42, issue 1, page 69-72        
+doi: [10.1190/tle42010069.1](https://doi.org/10.1190/tle42010069.1)      
 [[html]](https://slim.gatech.edu/Publications/Public/Journals/TheLeadingEdge/2022/yin2022TLEdgc/paper.html) [[pdf]](https://arxiv.org/pdf/2211.03527.pdf) [[software]](https://github.com/slimgroup/GCS-CAM) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7249)
 
 ## 2022
