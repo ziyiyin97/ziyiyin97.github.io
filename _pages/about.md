@@ -27,11 +27,13 @@ In my spare time, I enjoy playing golf, basketball and hiking.
 
 ### Recent News
 
-* Nov, 2022: Feel free to check my recent research progress in [my ML4SEISMIC presentations](https://ziyiyin97.github.io/publications/).
+* Jan, 2023: Check out our recent work on [*Optimized time-lapse acquisition design via spectral gap ratio minimization*](https://slim.gatech.edu/Publications/Public/Submitted/2023/zhang2023otl/Spectral_Gap_Paper.html).
+
+* Jan, 2023: [*Derisking geological carbon storage from high-resolution time-lapse seismic to explainable leakage detection*](https://doi.org/10.1190/tle42010069.1) was published in the January 2023 special section in seismic resolution in The Leading Edge.
+
+* Nov, 2022: I gave several presentations at [ML4SEISMIC annual meeting](https://slim.gatech.edu/biblio/keyword/583).
 
 * Oct, 2022: I accepted an internship offer from Chevron. I will be working as a Geophysics intern in Houston, TX in summer 2023.
-
-* Sep, 2022: [*De-risking geological carbon storage from high resolution time-lapse seismic to explainable leakage detection*](https://arxiv.org/pdf/2211.03527.pdf) was accepted in the January 2023 special section in seismic resolution in The Leading Edge.
 
 * Aug, 2022: [*De-risking Carbon Capture and Sequestration with Explainable CO2 Leakage Detection in Time-lapse Seismic Monitoring Images*](https://slim.gatech.edu/Publications/Public/Conferences/AAAI/2022/erdinc2022AAAIdcc/erdinc2022AAAIdcc.pdf) was accepted in [AAAI 2022 Fall Symposium: The Role of AI in Responding to Climate Challenges](https://www.climatechange.ai/events/aaaifss2022).
 

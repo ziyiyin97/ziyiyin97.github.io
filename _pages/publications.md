@@ -11,6 +11,11 @@ You can also find my publications on [my Google Scholar profile](https://scholar
 
 ## 2023
 
+* **Optimized time-lapse acquisition design via spectral gap ratio minimization**    
+Yijun Zhang, <ins>Ziyi Yin</ins>, Oscar Lopez, Ali Siahkoohi, Mathias Louboutin, Rajiv Kumar, and Felix J. Herrmann    
+Jan 2023     
+[[html]](https://slim.gatech.edu/Publications/Public/Submitted/2023/zhang2023otl/Spectral_Gap_Paper.html) [[pdf]](https://slim.gatech.edu/Publications/Public/Submitted/2023/zhang2023otl/Spectral_Gap_Paper.pdf) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7266)     
+
 * **Derisking geologic carbon storage from high-resolution time-lapse seismic to explainable leakage detection**        
 <ins>Ziyi Yin</ins>, Huseyin Tuna Erdinc, Abhinav Prakash Gahlot, Mathias Louboutin, and Felix J. Herrmann        
 In: *The Leading Edge*, Jan 2023, volume 42, issue 1, page 69-72        
