@@ -13,8 +13,8 @@ You can also find my publications on [my Google Scholar profile](https://scholar
 
 * **Optimized time-lapse acquisition design via spectral gap ratio minimization**    
 Yijun Zhang, <ins>Ziyi Yin</ins>, Oscar Lopez, Ali Siahkoohi, Mathias Louboutin, Rajiv Kumar, and Felix J. Herrmann    
-Jan 2023     
-[[html]](https://slim.gatech.edu/Publications/Public/Submitted/2023/zhang2023otl/Spectral_Gap_Paper.html) [[pdf]](https://slim.gatech.edu/Publications/Public/Submitted/2023/zhang2023otl/Spectral_Gap_Paper.pdf) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7266)     
+doi: [10.48550/arXiv.2302.01534](https://doi.org/10.48550/arXiv.2302.01534), Jan 2023       
+[[html]](https://slim.gatech.edu/Publications/Public/Submitted/2023/zhang2023otl/Spectral_Gap_Paper.html) [[pdf]](https://arxiv.org/pdf/2302.01534.pdf) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7266)     
 
 * **Derisking geologic carbon storage from high-resolution time-lapse seismic to explainable leakage detection**        
 <ins>Ziyi Yin</ins>, Huseyin Tuna Erdinc, Abhinav Prakash Gahlot, Mathias Louboutin, and Felix J. Herrmann        
@@ -90,7 +90,7 @@ doi: [10.1190/image2022-3751690.1](https://doi.org/10.1190/image2022-3751690.1)
 
 * **Model-Parallel Fourier Neural Operators as Learned Surrogates for Large-Scale Parametric PDEs**        
 Thomas J. Grady II, Rishi Khan, Mathias Louboutin, <ins>Ziyi Yin</ins>, Philipp A. Witte, Ranveer Chandra, Russell J. Hewett, and Felix J. Herrmann         
-doi: [arXiv.2204.01205](https://doi.org/10.48550/arXiv.2204.01205)          
+doi: [10.48550/arXiv.2204.01205](https://doi.org/10.48550/arXiv.2204.01205), Apr 2022          
 [[pdf]](https://arxiv.org/pdf/2204.01205.pdf) [[software]](https://github.com/slimgroup/dfno) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7204)
 
 * **Julia for Geoscience**       
