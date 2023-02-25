@@ -11,6 +11,16 @@ You can also find my publications on [my Google Scholar profile](https://scholar
 
 ## 2023
 
+* **Uncertainty-aware time-lapse monitoring of geological carbon storage with learned surrogates**    
+<ins>Ziyi Yin</ins>, Rafael Orozco, Mathias Louboutin, Ali Siahkoohi, and Felix J. Herrmann      
+In:	*Engineering Mechanics Institute Conference 2023*, June 2023       
+[[abstract]](https://slim.gatech.edu/content/uncertainty-aware-time-lapse-monitoring-geological-carbon-storage-learned-surrogates) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7267)   
+
+* **The Next Step: Interoperable Domain-Specific Programming**    
+Felix J. Herrmann, Mathias Louboutin, Thomas J. Grady II, <ins>Ziyi Yin</ins>, and Rishi Khan      
+In: *SIAM Conference on Computational Science and Engineering 2023*, Feb 2023       
+[[abstract]](https://meetings.siam.org/sess/dsp_talk.cfm?p=125365) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7268)     
+
 * **Optimized time-lapse acquisition design via spectral gap ratio minimization**    
 Yijun Zhang, <ins>Ziyi Yin</ins>, Oscar Lopez, Ali Siahkoohi, Mathias Louboutin, Rajiv Kumar, and Felix J. Herrmann    
 doi: [10.48550/arXiv.2302.01534](https://doi.org/10.48550/arXiv.2302.01534), Jan 2023       
