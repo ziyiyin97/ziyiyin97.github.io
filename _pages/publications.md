@@ -19,7 +19,7 @@ In:	*Engineering Mechanics Institute Conference 2023*, June 2023
 **The Next Step: Interoperable Domain-Specific Programming**    
 Felix J. Herrmann, Mathias Louboutin, Thomas J. Grady II, <ins>Ziyi Yin</ins>, and Rishi Khan      
 In: *SIAM Conference on Computational Science and Engineering 2023*, Feb 2023       
-[[abstract]](https://meetings.siam.org/sess/dsp_talk.cfm?p=125365) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7268)     
+[[abstract]](https://meetings.siam.org/sess/dsp_talk.cfm?p=125365) [[slides]](https://slim.gatech.edu/Publications/Public/Conferences/SIAMCSE/2023/herrmann2023SIAMCSEtns) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7268)     
 
 **Optimized time-lapse acquisition design via spectral gap ratio minimization**    
 Yijun Zhang, <ins>Ziyi Yin</ins>, Oscar Lopez, Ali Siahkoohi, Mathias Louboutin, Rajiv Kumar, and Felix J. Herrmann    
