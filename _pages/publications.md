@@ -16,13 +16,28 @@ You can also find my publications on [my Google Scholar profile](https://scholar
 In:	*Engineering Mechanics Institute Conference 2023*, June 2023       
 [[abstract]](https://slim.gatech.edu/content/uncertainty-aware-time-lapse-monitoring-geological-carbon-storage-learned-surrogates) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7267)   
 
+**Coupled physics inversion for geological carbon storage monitoring**    
+<ins>Ziyi Yin</ins>, Mathias Louboutin, Olav Møyner, and Felix J. Herrmann      
+Submitted to: *International Meeting for Applied Geoscience & Energy*, March 2023           
+[[html]](https://slimgroup.github.io/IMAGE2023/)    
+
+**Monitoring subsurface CO2 plumes with sequential Bayesian inference**    
+Ting-ying Yu, Rafael Orozco, <ins>Ziyi Yin</ins>, Mathias Louboutin, and Felix J. Herrmann      
+Submitted to: *International Meeting for Applied Geoscience & Energy*, March 2023           
+[[html]](https://slimgroup.github.io/IMAGE2023/)       
+
+**3D seismic survey design by maximizing the spectral gap**    
+Yijun Zhang, <ins>Ziyi Yin</ins>, Oscar López, Ali Siahkoohi, Mathias Louboutin, and Felix J. Herrmann      
+Submitted to: *International Meeting for Applied Geoscience & Energy*, March 2023           
+[[html]](https://slimgroup.github.io/IMAGE2023/)    
+
 **The Next Step: Interoperable Domain-Specific Programming**    
 Felix J. Herrmann, Mathias Louboutin, Thomas J. Grady II, <ins>Ziyi Yin</ins>, and Rishi Khan      
 In: *SIAM Conference on Computational Science and Engineering 2023*, Feb 2023       
 [[abstract]](https://meetings.siam.org/sess/dsp_talk.cfm?p=125365) [[slides]](https://slim.gatech.edu/Publications/Public/Conferences/SIAMCSE/2023/herrmann2023SIAMCSEtns) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7268)     
 
 **Optimized time-lapse acquisition design via spectral gap ratio minimization**    
-Yijun Zhang, <ins>Ziyi Yin</ins>, Oscar Lopez, Ali Siahkoohi, Mathias Louboutin, Rajiv Kumar, and Felix J. Herrmann    
+Yijun Zhang, <ins>Ziyi Yin</ins>, Oscar López, Ali Siahkoohi, Mathias Louboutin, Rajiv Kumar, and Felix J. Herrmann    
 doi: [10.48550/arXiv.2302.01534](https://doi.org/10.48550/arXiv.2302.01534), Jan 2023       
 [[html]](https://slim.gatech.edu/Publications/Public/Submitted/2023/zhang2023otl/Spectral_Gap_Paper.html) [[pdf]](https://arxiv.org/pdf/2302.01534.pdf) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7266)     
 
@@ -56,7 +71,7 @@ In: *ML4Seismic Partners Meeting 2022*, Nov 2022
 [[link]](https://slim.gatech.edu/Publications/Public/Conferences/ML4SEISMIC/2022/yin2022ML4SEISMICavc)     
 
 **Time-lapse seismic survey design by maximizing the spectral gap**       
-Yijun Zhang, Mathias Louboutin, Ali Siahkoohi, <ins>Ziyi Yin</ins>, Rajiv Kumar, Oscar Lopez, and Felix J. Herrmann       
+Yijun Zhang, Mathias Louboutin, Ali Siahkoohi, <ins>Ziyi Yin</ins>, Rajiv Kumar, Oscar López, and Felix J. Herrmann       
 In: *ML4Seismic Partners Meeting 2022*, Nov 2022    
 [[link]](https://slim.gatech.edu/Publications/Public/Conferences/ML4SEISMIC/2022/zhang2022ML4SEISMICtss)     
 
