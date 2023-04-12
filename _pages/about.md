@@ -27,7 +27,13 @@ In my spare time, I enjoy playing golf, basketball and hiking.
 
 ### Recent News
 
-* Jan, 2023: Check out our recent work on [*Optimized time-lapse acquisition design via spectral gap ratio minimization*](https://slim.gatech.edu/Publications/Public/Submitted/2023/zhang2023otl/Spectral_Gap_Paper.html).
+* Apr, 2023: Check our latest work on [*Learned multiphysics inversion with differentiable programming and machine learning*](https://slim.gatech.edu/Publications/Public/Submitted/2023/louboutin2023lmi/le_software.html).
+
+* Apr, 2023: [*Optimized time-lapse acquisition design via spectral gap ratio minimization*](https://slim.gatech.edu/Publications/Public/Submitted/2023/zhang2023otl/Spectral_Gap_Paper.html) is accepted for publication at GEOPHYSICS.
+
+* Mar, 2023: Check our recent progress on CO2 monitoring, [*Coupled physics inversion for geological carbon storage monitoring*](https://slimgroup.github.io/IMAGE2023/yin2023IMAGEend2end/abstract.html).
+
+* Mar, 2023: Check our SIAM presentation, [*The Next Step: Interoperable Domain-Specific Programming*](https://slim.gatech.edu/Publications/Public/Conferences/SIAMCSE/2023/herrmann2023SIAMCSEtns).
 
 * Jan, 2023: [*Derisking geological carbon storage from high-resolution time-lapse seismic to explainable leakage detection*](https://doi.org/10.1190/tle42010069.1) was published in the January 2023 special section in seismic resolution in The Leading Edge.
 
