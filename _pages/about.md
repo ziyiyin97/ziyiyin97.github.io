@@ -27,6 +27,8 @@ In my spare time, I enjoy playing golf, basketball and hiking.
 
 ### Recent News
 
+* Apr, 2023: My IMAGE expanded abstract, [*Learned coupled inversion for carbon sequestration monitoring and forecasting with Fourier neural operators*](https://doi.org/10.1190/image2022-3722848.1), was selected as [2022 IMAGE's Student Oral Paper Honorable Mention](https://ziyiyin97.github.io/files/awards/2023/2022_IMAGE_Letter.pdf)!
+
 * Apr, 2023: Check our latest work on [*Learned multiphysics inversion with differentiable programming and machine learning*](https://slim.gatech.edu/Publications/Public/Submitted/2023/louboutin2023lmi/le_software.html).
 
 * Apr, 2023: [*Optimized time-lapse acquisition design via spectral gap ratio minimization*](https://slim.gatech.edu/Publications/Public/Submitted/2023/zhang2023otl/Spectral_Gap_Paper.html) is accepted for publication at GEOPHYSICS.

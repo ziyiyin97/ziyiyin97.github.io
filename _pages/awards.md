@@ -6,11 +6,13 @@ title: "Honors and Awards"
 author_profile: true
 ---
 
+* [2022 IMAGE's Student Oral Paper Honorable Mention](https://ziyiyin97.github.io/files/awards/2023/2022_IMAGE_Letter.pdf), *Apr 2023*
+
 * [SEG Field Camp grant](https://seg.org/fieldcamps), *May 2022*
 
 * [SEG Technical Program Registration grant](https://seg.org/travelgrants), *Aug 2021*
 
-* [SEG/Chevron Student Leadership Symposium travel grant](https://seg.org/Education/Student/Student-Programs/Student-Leadership-Symposium), *Jun 2020*
+* [SEG/Chevron Student Leadership Symposium travel grant](https://ziyiyin97.github.io/files/awards/2020/Chevron_Student_Symposium_Letter.pdf), *Jun 2020*
 
 * Graduate with [Highest Honors](http://catalog.college.emory.edu/academic/honors-program/) (summa cum laude), Emory University, *May 2019*
 

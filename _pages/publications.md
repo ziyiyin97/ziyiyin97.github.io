@@ -18,8 +18,8 @@ In:	*Engineering Mechanics Institute Conference 2023*, June 2023
 
 **Learned multiphysics inversion with differentiable programming and machine learning**    
 Mathias Louboutin\*, <ins>Ziyi Yin</ins>\*, Rafael Orozco, Thomas J. Grady II, Ali Siahkoohi, Gabrio Rizzuti, Philipp A. Witte, Olav Møyner, Gerard J. Gorman, and Felix J. Herrmann    
-Submitted, April 2023       
-[[html]](https://slim.gatech.edu/Publications/Public/Submitted/2023/louboutin2023lmi/le_software.html) [[pdf]](https://slim.gatech.edu/Publications/Public/Submitted/2023/louboutin2023lmi/le_software.pdf) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7281)   
+doi: [10.48550/arXiv.2304.05592](https://doi.org/10.48550/arXiv.2304.05592), April 2023       
+[[html]](https://slim.gatech.edu/Publications/Public/Submitted/2023/louboutin2023lmi/le_software.html) [[pdf]](https://arxiv.org/pdf/2304.05592.pdf) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7281)   
 
 **Optimized time-lapse acquisition design via spectral gap ratio minimization**    
 Yijun Zhang, <ins>Ziyi Yin</ins>, Oscar López, Ali Siahkoohi, Mathias Louboutin, Rajiv Kumar, and Felix J. Herrmann    
@@ -100,7 +100,7 @@ Ting-ying Yu, Rafael Orozco, <ins>Ziyi Yin</ins>, and Felix J. Herrmann
 In: *ML4Seismic Partners Meeting 2022*, Nov 2022    
 [[link]](https://slim.gatech.edu/Publications/Public/Conferences/ML4SEISMIC/2022/yu2022ML4SEISMICmsb)     
 
-**Learned coupled inversion for carbon sequestration monitoring and forecasting with Fourier neural operators**        
+**Learned coupled inversion for carbon sequestration monitoring and forecasting with Fourier neural operators** [<span style="color:red">(2022 IMAGE's Student Oral Paper Honorable Mention)</span>](https://ziyiyin97.github.io/files/awards/2023/2022_IMAGE_Letter.pdf)        
 <ins>Ziyi Yin</ins>, Ali Siahkoohi, Mathias Louboutin, and Felix J. Herrmann       
 In: *Second International Meeting for Applied Geoscience & Energy Expanded Abstracts*, Aug 2022, page 467-472     
 doi: [10.1190/image2022-3722848.1](https://doi.org/10.1190/image2022-3722848.1)      
