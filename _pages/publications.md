@@ -121,7 +121,7 @@ doi: [10.1190/image2022-3751690.1](https://doi.org/10.1190/image2022-3751690.1)
 **Model-Parallel Fourier Neural Operators as Learned Surrogates for Large-Scale Parametric PDEs**        
 Thomas J. Grady II, Rishi Khan, Mathias Louboutin, <ins>Ziyi Yin</ins>, Philipp A. Witte, Ranveer Chandra, Russell J. Hewett, and Felix J. Herrmann         
 doi: [10.48550/arXiv.2204.01205](https://doi.org/10.48550/arXiv.2204.01205), Apr 2022          
-[[pdf]](https://arxiv.org/pdf/2204.01205.pdf) [[software]](https://github.com/slimgroup/dfno) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7204)
+[[pdf]](https://arxiv.org/pdf/2204.01205.pdf) [[software]](https://github.com/slimgroup/dfno) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7204) [[media]](https://developer.nvidia.com/blog/accelerating-climate-change-mitigation-with-machine-learning-the-case-of-carbon-storage)
 
 **Julia for Geoscience**       
 <ins>Ziyi Yin</ins>, Mathias Louboutin, Philipp A. Witte, Ali Siahkoohi, Gabrio Rizzuti, Rafael Orozco, Henryk Modzelewski, and Felix J. Herrmann     
