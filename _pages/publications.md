@@ -23,8 +23,9 @@ doi: [10.48550/arXiv.2304.05592](https://doi.org/10.48550/arXiv.2304.05592), Apr
 
 **Optimized time-lapse acquisition design via spectral gap ratio minimization**    
 Yijun Zhang, <ins>Ziyi Yin</ins>, Oscar López, Ali Siahkoohi, Mathias Louboutin, Rajiv Kumar, and Felix J. Herrmann    
-Accepted for publication at GEOPHYSICS, March 2023       
-[[html]](https://slim.gatech.edu/Publications/Public/Submitted/2023/zhang2023otl/Spectral_Gap_Paper.html) [[pdf]](https://arxiv.org/pdf/2302.01534.pdf) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7266)   
+In: *GEOPHYSICS*, Apr 2023, volume 88, issue 4           
+doi: [10.1190/geo2023-0024.1](https://doi.org/10.1190/geo2023-0024.1), April 2023                
+[[html]](https://slim.gatech.edu/Publications/Public/Journals/Geophysics/2023/zhang2023otl/Spectral_Gap_Paper.html) [[pdf]](https://arxiv.org/pdf/2302.01534.pdf) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7266)   
 
 **Coupled physics inversion for geological carbon storage monitoring**    
 <ins>Ziyi Yin</ins>, Mathias Louboutin, Olav Møyner, and Felix J. Herrmann      
