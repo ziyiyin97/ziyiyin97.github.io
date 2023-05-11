@@ -16,6 +16,11 @@ You can also find my publications on [my Google Scholar profile](https://scholar
 In:	*Engineering Mechanics Institute Conference 2023*, June 2023       
 [[abstract]](https://slim.gatech.edu/content/uncertainty-aware-time-lapse-monitoring-geological-carbon-storage-learned-surrogates) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7267)   
 
+**Derisking geological storage with simulation-based seismic monitoring design and machine learning**    
+Felix J. Herrmann, Huseyin Tuna Erdinc, Abhinav Prakash Gahlot, <ins>Ziyi Yin</ins>\*, and Mathias Louboutin    
+In: Carbon, Capture, Utilization, and Storage (CCUS) 2023, April 2023       
+[[html]](https://slim.gatech.edu/Publications/Public/Conferences/CCUS/2023/herrmann2023CCUSdgs) [[pdf]](https://slim.gatech.edu/Publications/Public/Conferences/CCUS/2023/herrmann2023CCUSdgs/CCUS2023.pdf) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7283)   
+
 **Learned multiphysics inversion with differentiable programming and machine learning**    
 Mathias Louboutin\*, <ins>Ziyi Yin</ins>\*, Rafael Orozco, Thomas J. Grady II, Ali Siahkoohi, Gabrio Rizzuti, Philipp A. Witte, Olav Møyner, Gerard J. Gorman, and Felix J. Herrmann    
 doi: [10.48550/arXiv.2304.05592](https://doi.org/10.48550/arXiv.2304.05592), April 2023       
