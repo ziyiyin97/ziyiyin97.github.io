@@ -11,6 +11,16 @@ You can also find my publications on [my Google Scholar profile](https://scholar
 
 ## 2023
 
+**Coupled physics inversion for geological carbon storage monitoring**    
+<ins>Ziyi Yin</ins>, Mathias Louboutin, Olav Møyner, and Felix J. Herrmann      
+In: *International Meeting for Applied Geoscience & Energy*, Aug 2023           
+[[html]](https://slimgroup.github.io/IMAGE2023/)    
+
+**Monitoring subsurface CO2 plumes with sequential Bayesian inference**    
+Ting-ying Yu, Rafael Orozco, <ins>Ziyi Yin</ins>, Mathias Louboutin, and Felix J. Herrmann      
+In: *International Meeting for Applied Geoscience & Energy*, Aug 2023           
+[[html]](https://slimgroup.github.io/IMAGE2023/)       
+
 **Uncertainty-aware time-lapse monitoring of geological carbon storage with learned surrogates**    
 <ins>Ziyi Yin</ins>, Rafael Orozco, Mathias Louboutin, Ali Siahkoohi, and Felix J. Herrmann      
 In:	*Engineering Mechanics Institute Conference 2023*, June 2023       
@@ -32,19 +42,9 @@ In: *GEOPHYSICS*, Apr 2023, volume 88, issue 4
 doi: [10.1190/geo2023-0024.1](https://doi.org/10.1190/geo2023-0024.1), April 2023                
 [[html]](https://slim.gatech.edu/Publications/Public/Journals/Geophysics/2023/zhang2023otl/Spectral_Gap_Paper.html) [[pdf]](https://arxiv.org/pdf/2302.01534.pdf) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7266)   
 
-**Coupled physics inversion for geological carbon storage monitoring**    
-<ins>Ziyi Yin</ins>, Mathias Louboutin, Olav Møyner, and Felix J. Herrmann      
-Submitted to: *International Meeting for Applied Geoscience & Energy*, March 2023           
-[[html]](https://slimgroup.github.io/IMAGE2023/)    
-
-**Monitoring subsurface CO2 plumes with sequential Bayesian inference**    
-Ting-ying Yu, Rafael Orozco, <ins>Ziyi Yin</ins>, Mathias Louboutin, and Felix J. Herrmann      
-Submitted to: *International Meeting for Applied Geoscience & Energy*, March 2023           
-[[html]](https://slimgroup.github.io/IMAGE2023/)       
-
 **3D seismic survey design by maximizing the spectral gap**    
 Yijun Zhang, <ins>Ziyi Yin</ins>, Oscar López, Ali Siahkoohi, Mathias Louboutin, and Felix J. Herrmann      
-Submitted to: *International Meeting for Applied Geoscience & Energy*, March 2023           
+*Technical Report*, March 2023           
 [[html]](https://slimgroup.github.io/IMAGE2023/)    
 
 **The Next Step: Interoperable Domain-Specific Programming**    
