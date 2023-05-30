@@ -27,6 +27,8 @@ In my spare time, I enjoy playing golf, basketball and hiking.
 
 ### Recent News
 
+* May, 2023: I started my internship at Chevron in Houston, TX and will be staying here until early September. If you want to catch up with coffee, feel free to email me and let me know!
+
 * Apr, 2023: My IMAGE expanded abstract, [*Learned coupled inversion for carbon sequestration monitoring and forecasting with Fourier neural operators*](https://doi.org/10.1190/image2022-3722848.1), was selected as [2022 IMAGE's Student Oral Paper Honorable Mention](https://ziyiyin97.github.io/files/awards/2023/2022_IMAGE_Letter.pdf)!
 
 * Apr, 2023: Check our latest work on [*Learned multiphysics inversion with differentiable programming and machine learning*](https://slim.gatech.edu/Publications/Public/Submitted/2023/louboutin2023lmi/le_software.html).
@@ -40,8 +42,6 @@ In my spare time, I enjoy playing golf, basketball and hiking.
 * Jan, 2023: [*Derisking geological carbon storage from high-resolution time-lapse seismic to explainable leakage detection*](https://doi.org/10.1190/tle42010069.1) was published in the January 2023 special section in seismic resolution in The Leading Edge.
 
 * Nov, 2022: I gave several presentations at [ML4SEISMIC annual meeting](https://slim.gatech.edu/biblio/keyword/583).
-
-* Oct, 2022: I accepted an internship offer from Chevron. I will be working as a Geophysics intern in Houston, TX in summer 2023.
 
 * Aug, 2022: [*De-risking Carbon Capture and Sequestration with Explainable CO2 Leakage Detection in Time-lapse Seismic Monitoring Images*](https://slim.gatech.edu/Publications/Public/Conferences/AAAI/2022/erdinc2022AAAIdcc/erdinc2022AAAIdcc.pdf) was accepted in [AAAI 2022 Fall Symposium: The Role of AI in Responding to Climate Challenges](https://www.climatechange.ai/events/aaaifss2022).
 
