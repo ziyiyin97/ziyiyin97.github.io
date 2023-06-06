@@ -11,11 +11,6 @@ You can also find my publications on [my Google Scholar profile](https://scholar
 
 ## 2023
 
-**Learned multiphysics inversion with differentiable programming and machine learning**    
-Mathias Louboutin\*, <ins>Ziyi Yin</ins>\*, Rafael Orozco, Thomas J. Grady II, Ali Siahkoohi, Gabrio Rizzuti, Philipp A. Witte, Olav Møyner, Gerard J. Gorman, and Felix J. Herrmann    
-Accepted in: *The Leading Edge*, May 2023             
-[[html]](https://slim.gatech.edu/Publications/Public/Journals/TheLeadingEdge/2023/louboutin2023lmi/le_software.html) [[pdf]](https://arxiv.org/pdf/2304.05592.pdf) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7281)   
-
 **Coupled physics inversion for geological carbon storage monitoring**    
 <ins>Ziyi Yin</ins>, Mathias Louboutin, Olav Møyner, and Felix J. Herrmann      
 In: *International Meeting for Applied Geoscience & Energy*, Aug 2023           
@@ -26,10 +21,20 @@ Ting-ying Yu, Rafael Orozco, <ins>Ziyi Yin</ins>, Mathias Louboutin, and Felix J
 In: *International Meeting for Applied Geoscience & Energy*, Aug 2023           
 [[html]](https://slimgroup.github.io/IMAGE2023/)       
 
+**Model-Parallel Fourier Neural Operators as Learned Surrogates for Large-Scale Parametric PDEs**        
+Thomas J. Grady II, Rishi Khan, Mathias Louboutin, <ins>Ziyi Yin</ins>, Philipp A. Witte, Ranveer Chandra, Russell J. Hewett, and Felix J. Herrmann         
+Accepted in: *Computers & Geosciences*, Jun 2023    
+[[pdf]](https://arxiv.org/pdf/2204.01205.pdf) [[software]](https://github.com/slimgroup/dfno) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7204) [[media]](https://developer.nvidia.com/blog/accelerating-climate-change-mitigation-with-machine-learning-the-case-of-carbon-storage)
+
 **Uncertainty-aware time-lapse monitoring of geological carbon storage with learned surrogates**    
 <ins>Ziyi Yin</ins>, Rafael Orozco, Mathias Louboutin, Ali Siahkoohi, and Felix J. Herrmann      
 In:	*Engineering Mechanics Institute Conference 2023*, June 2023       
 [[abstract]](https://slim.gatech.edu/content/uncertainty-aware-time-lapse-monitoring-geological-carbon-storage-learned-surrogates) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7267)   
+
+**Learned multiphysics inversion with differentiable programming and machine learning**    
+Mathias Louboutin\*, <ins>Ziyi Yin</ins>\*, Rafael Orozco, Thomas J. Grady II, Ali Siahkoohi, Gabrio Rizzuti, Philipp A. Witte, Olav Møyner, Gerard J. Gorman, and Felix J. Herrmann    
+Accepted in: *The Leading Edge*, May 2023             
+[[html]](https://slim.gatech.edu/Publications/Public/Journals/TheLeadingEdge/2023/louboutin2023lmi/le_software.html) [[pdf]](https://arxiv.org/pdf/2304.05592.pdf) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7281)   
 
 **Derisking geological storage with simulation-based seismic monitoring design and machine learning**    
 Felix J. Herrmann, Huseyin Tuna Erdinc, Abhinav Prakash Gahlot, <ins>Ziyi Yin</ins>, and Mathias Louboutin    
@@ -123,11 +128,6 @@ Yijun Zhang, Mathias Louboutin, Ali Siahkoohi, <ins>Ziyi Yin</ins>, Rajiv Kumar 
 In: *Second International Meeting for Applied Geoscience & Energy Expanded Abstracts*, Aug 2022, page 15-20     
 doi: [10.1190/image2022-3751690.1](https://doi.org/10.1190/image2022-3751690.1)      
 [[html]](https://slim.gatech.edu/Publications/Public/Conferences/SEG/2022/zhang2022SEGass/Yijun2022SEGass.html) [[pdf]](https://arxiv.org/pdf/2204.02801.pdf) [[slides]](https://slim.gatech.edu/Publications/Public/Conferences/SEG/2022/zhang2022SEGass) [[software]](https://github.com/slimgroup/opt_spectral_gap) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7199)
-
-**Model-Parallel Fourier Neural Operators as Learned Surrogates for Large-Scale Parametric PDEs**        
-Thomas J. Grady II, Rishi Khan, Mathias Louboutin, <ins>Ziyi Yin</ins>, Philipp A. Witte, Ranveer Chandra, Russell J. Hewett, and Felix J. Herrmann         
-doi: [10.48550/arXiv.2204.01205](https://doi.org/10.48550/arXiv.2204.01205), Apr 2022          
-[[pdf]](https://arxiv.org/pdf/2204.01205.pdf) [[software]](https://github.com/slimgroup/dfno) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7204) [[media]](https://developer.nvidia.com/blog/accelerating-climate-change-mitigation-with-machine-learning-the-case-of-carbon-storage)
 
 **Julia for Geoscience**       
 <ins>Ziyi Yin</ins>, Mathias Louboutin, Philipp A. Witte, Ali Siahkoohi, Gabrio Rizzuti, Rafael Orozco, Henryk Modzelewski, and Felix J. Herrmann     

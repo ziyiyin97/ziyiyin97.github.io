@@ -27,13 +27,13 @@ In my spare time, I enjoy playing golf, basketball and hiking.
 
 ### Recent News
 
-* May, 2023: I started my internship at Chevron in Houston, TX and will be staying here until early September. If you want to catch up with coffee, feel free to email me and let me know!
+* Jun, 2023: [*Model-Parallel Fourier Neural Operators as Learned Surrogates for Large-Scale Parametric PDEs*](https://arxiv.org/pdf/2204.01205.pdf) was accepted in *Computers & Geosciences*. [*Learned multiphysics inversion with differentiable programming and machine learning*](https://arxiv.org/pdf/2304.05592.pdf) was accepted in *The Leading Edge*. [*Coupled physics inversion for geological carbon storage monitoring*](https://slimgroup.github.io/IMAGE2023/yin2023IMAGEend2end/abstract.html) and [*Monitoring subsurface CO2 plumes with sequential Bayesian inference*](https://slimgroup.github.io/IMAGE2023/SequentialBayes/abstract.html) were accepted to be presented in *2023 International Meeting for Applied Geoscience and Energy*.
+
+* May, 2023: I started my internship at Chevron in Houston, TX and will be staying here until early September. Feel free to email me for coffee catch-up!
 
 * Apr, 2023: My IMAGE expanded abstract, [*Learned coupled inversion for carbon sequestration monitoring and forecasting with Fourier neural operators*](https://doi.org/10.1190/image2022-3722848.1), was selected as [2022 IMAGE's Student Oral Paper Honorable Mention](https://ziyiyin97.github.io/files/awards/2023/2022_IMAGE_Letter.pdf)!
 
-* Apr, 2023: Check our latest work on [*Learned multiphysics inversion with differentiable programming and machine learning*](https://slim.gatech.edu/Publications/Public/Submitted/2023/louboutin2023lmi/le_software.html).
-
-* Apr, 2023: [*Optimized time-lapse acquisition design via spectral gap ratio minimization*](https://slim.gatech.edu/Publications/Public/Submitted/2023/zhang2023otl/Spectral_Gap_Paper.html) is accepted for publication at GEOPHYSICS.
+* Apr, 2023: [*Optimized time-lapse acquisition design via spectral gap ratio minimization*](https://slim.gatech.edu/Publications/Public/Submitted/2023/zhang2023otl/Spectral_Gap_Paper.html) was accepted for publication at GEOPHYSICS.
 
 * Mar, 2023: Check our recent progress on CO2 monitoring, [*Coupled physics inversion for geological carbon storage monitoring*](https://slimgroup.github.io/IMAGE2023/yin2023IMAGEend2end/abstract.html).
 
