@@ -29,7 +29,7 @@ Accepted in: *Computers & Geosciences*, Jun 2023
 **Uncertainty-aware time-lapse monitoring of geological carbon storage with learned surrogates**    
 <ins>Ziyi Yin</ins>, Rafael Orozco, Mathias Louboutin, Ali Siahkoohi, and Felix J. Herrmann      
 In:	*Engineering Mechanics Institute Conference 2023*, June 2023       
-[[abstract]](https://slim.gatech.edu/content/uncertainty-aware-time-lapse-monitoring-geological-carbon-storage-learned-surrogates) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7267)   
+[[slides]](https://slim.gatech.edu/Publications/Public/Conferences/EMI/2023/yin2023EMIutm/yin2023EMIutm.pdf) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7267)   
 
 **Learned multiphysics inversion with differentiable programming and machine learning**    
 Mathias Louboutin\*, <ins>Ziyi Yin</ins>\*, Rafael Orozco, Thomas J. Grady II, Ali Siahkoohi, Gabrio Rizzuti, Philipp A. Witte, Olav Møyner, Gerard J. Gorman, and Felix J. Herrmann    
