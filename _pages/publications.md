@@ -21,20 +21,22 @@ Ting-ying Yu, Rafael Orozco, <ins>Ziyi Yin</ins>, Mathias Louboutin, and Felix J
 In: *International Meeting for Applied Geoscience & Energy*, Aug 2023           
 [[html]](https://slimgroup.github.io/IMAGE2023/)       
 
+**Learned multiphysics inversion with differentiable programming and machine learning**    
+Mathias Louboutin\*, <ins>Ziyi Yin</ins>\*, Rafael Orozco, Thomas J. Grady II, Ali Siahkoohi, Gabrio Rizzuti, Philipp A. Witte, Olav Møyner, Gerard J. Gorman, and Felix J. Herrmann    
+In: *The Leading Edge*, Jul 2023             
+Preprint doi: [10.48550/arXiv.2304.05592](https://doi.org/10.48550/arXiv.2304.05592)            
+[[html]](https://slim.gatech.edu/Publications/Public/Journals/TheLeadingEdge/2023/louboutin2023lmi/le_software.html) [[pdf]](https://arxiv.org/pdf/2304.05592.pdf) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7281)   
+
 **Model-Parallel Fourier Neural Operators as Learned Surrogates for Large-Scale Parametric PDEs**        
 Thomas J. Grady II, Rishi Khan, Mathias Louboutin, <ins>Ziyi Yin</ins>, Philipp A. Witte, Ranveer Chandra, Russell J. Hewett, and Felix J. Herrmann         
-Accepted in: *Computers & Geosciences*, Jun 2023    
-[[pdf]](https://arxiv.org/pdf/2204.01205.pdf) [[software]](https://github.com/slimgroup/dfno) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7204) [[media]](https://developer.nvidia.com/blog/accelerating-climate-change-mitigation-with-machine-learning-the-case-of-carbon-storage)
+In: *Computers & Geosciences*, Jun 2023    
+doi: [10.1016/j.cageo.2023.105402](https://doi.org/10.1016/j.cageo.2023.105402)          
+[[pdf]](https://arxiv.org/pdf/2204.01205.pdf) [[software]](https://github.com/slimgroup/dfno) [[media]](https://developer.nvidia.com/blog/accelerating-climate-change-mitigation-with-machine-learning-the-case-of-carbon-storage) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7204)       
 
 **Uncertainty-aware time-lapse monitoring of geological carbon storage with learned surrogates**    
 <ins>Ziyi Yin</ins>, Rafael Orozco, Mathias Louboutin, Ali Siahkoohi, and Felix J. Herrmann      
 In:	*Engineering Mechanics Institute Conference 2023*, June 2023       
 [[slides]](https://slim.gatech.edu/Publications/Public/Conferences/EMI/2023/yin2023EMIutm/yin2023EMIutm.pdf) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7267)   
-
-**Learned multiphysics inversion with differentiable programming and machine learning**    
-Mathias Louboutin\*, <ins>Ziyi Yin</ins>\*, Rafael Orozco, Thomas J. Grady II, Ali Siahkoohi, Gabrio Rizzuti, Philipp A. Witte, Olav Møyner, Gerard J. Gorman, and Felix J. Herrmann    
-Accepted in: *The Leading Edge*, May 2023             
-[[html]](https://slim.gatech.edu/Publications/Public/Journals/TheLeadingEdge/2023/louboutin2023lmi/le_software.html) [[pdf]](https://arxiv.org/pdf/2304.05592.pdf) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7281)   
 
 **Derisking geological storage with simulation-based seismic monitoring design and machine learning**    
 Felix J. Herrmann, Huseyin Tuna Erdinc, Abhinav Prakash Gahlot, <ins>Ziyi Yin</ins>, and Mathias Louboutin    
@@ -43,8 +45,8 @@ In: Carbon, Capture, Utilization, and Storage (CCUS) 2023, April 2023
 
 **Optimized time-lapse acquisition design via spectral gap ratio minimization**    
 Yijun Zhang, <ins>Ziyi Yin</ins>, Oscar López, Ali Siahkoohi, Mathias Louboutin, Rajiv Kumar, and Felix J. Herrmann    
-In: *GEOPHYSICS*, Apr 2023, volume 88, issue 4           
-doi: [10.1190/geo2023-0024.1](https://doi.org/10.1190/geo2023-0024.1), April 2023                
+In: *GEOPHYSICS*, Apr 2023            
+doi: [10.1190/geo2023-0024.1](https://doi.org/10.1190/geo2023-0024.1)                
 [[html]](https://slim.gatech.edu/Publications/Public/Journals/Geophysics/2023/zhang2023otl/Spectral_Gap_Paper.html) [[pdf]](https://arxiv.org/pdf/2302.01534.pdf) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7266)   
 
 **3D seismic survey design by maximizing the spectral gap**    
@@ -59,7 +61,7 @@ In: *SIAM Conference on Computational Science and Engineering 2023*, Feb 2023
 
 **Derisking geologic carbon storage from high-resolution time-lapse seismic to explainable leakage detection**        
 <ins>Ziyi Yin</ins>, Huseyin Tuna Erdinc, Abhinav Prakash Gahlot, Mathias Louboutin, and Felix J. Herrmann        
-In: *The Leading Edge*, Jan 2023, volume 42, issue 1, page 69-72        
+In: *The Leading Edge*, Jan 2023             
 doi: [10.1190/tle42010069.1](https://doi.org/10.1190/tle42010069.1)      
 [[html]](https://slim.gatech.edu/Publications/Public/Journals/TheLeadingEdge/2022/yin2022TLEdgc/paper.html) [[pdf]](https://arxiv.org/pdf/2211.03527.pdf) [[software]](https://github.com/slimgroup/GCS-CAM) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7249)
 
