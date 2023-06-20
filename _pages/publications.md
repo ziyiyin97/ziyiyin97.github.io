@@ -27,6 +27,12 @@ In: *The Leading Edge*, Jul 2023
 Preprint doi: [10.48550/arXiv.2304.05592](https://doi.org/10.48550/arXiv.2304.05592)            
 [[html]](https://slim.gatech.edu/Publications/Public/Journals/TheLeadingEdge/2023/louboutin2023lmi/le_software.html) [[pdf]](https://arxiv.org/pdf/2304.05592.pdf) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7281)   
 
+**Optimized time-lapse acquisition design via spectral gap ratio minimization**    
+Yijun Zhang, <ins>Ziyi Yin</ins>, Oscar López, Ali Siahkoohi, Mathias Louboutin, Rajiv Kumar, and Felix J. Herrmann    
+In: *GEOPHYSICS*, Jul 2023            
+doi: [10.1190/geo2023-0024.1](https://doi.org/10.1190/geo2023-0024.1)                
+[[html]](https://slim.gatech.edu/Publications/Public/Journals/Geophysics/2023/zhang2023otl/Spectral_Gap_Paper.html) [[pdf]](https://arxiv.org/pdf/2302.01534.pdf) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7266)   
+
 **Model-Parallel Fourier Neural Operators as Learned Surrogates for Large-Scale Parametric PDEs**        
 Thomas J. Grady II, Rishi Khan, Mathias Louboutin, <ins>Ziyi Yin</ins>, Philipp A. Witte, Ranveer Chandra, Russell J. Hewett, and Felix J. Herrmann         
 In: *Computers & Geosciences*, Jun 2023    
@@ -42,12 +48,6 @@ In:	*Engineering Mechanics Institute Conference 2023*, June 2023
 Felix J. Herrmann, Huseyin Tuna Erdinc, Abhinav Prakash Gahlot, <ins>Ziyi Yin</ins>, and Mathias Louboutin    
 In: Carbon, Capture, Utilization, and Storage (CCUS) 2023, April 2023       
 [[html]](https://slim.gatech.edu/Publications/Public/Conferences/CCUS/2023/herrmann2023CCUSdgs) [[pdf]](https://slim.gatech.edu/Publications/Public/Conferences/CCUS/2023/herrmann2023CCUSdgs/CCUS2023.pdf) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7283)   
-
-**Optimized time-lapse acquisition design via spectral gap ratio minimization**    
-Yijun Zhang, <ins>Ziyi Yin</ins>, Oscar López, Ali Siahkoohi, Mathias Louboutin, Rajiv Kumar, and Felix J. Herrmann    
-In: *GEOPHYSICS*, Apr 2023            
-doi: [10.1190/geo2023-0024.1](https://doi.org/10.1190/geo2023-0024.1)                
-[[html]](https://slim.gatech.edu/Publications/Public/Journals/Geophysics/2023/zhang2023otl/Spectral_Gap_Paper.html) [[pdf]](https://arxiv.org/pdf/2302.01534.pdf) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7266)   
 
 **3D seismic survey design by maximizing the spectral gap**    
 Yijun Zhang, <ins>Ziyi Yin</ins>, Oscar López, Ali Siahkoohi, Mathias Louboutin, and Felix J. Herrmann      
