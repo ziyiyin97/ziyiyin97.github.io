@@ -24,8 +24,8 @@ In: *International Meeting for Applied Geoscience & Energy*, Aug 2023
 **Learned multiphysics inversion with differentiable programming and machine learning**    
 Mathias Louboutin\*, <ins>Ziyi Yin</ins>\*, Rafael Orozco, Thomas J. Grady II, Ali Siahkoohi, Gabrio Rizzuti, Philipp A. Witte, Olav Møyner, Gerard J. Gorman, and Felix J. Herrmann    
 In: *The Leading Edge*, Jul 2023             
-Preprint doi: [10.48550/arXiv.2304.05592](https://doi.org/10.48550/arXiv.2304.05592)            
-[[html]](https://slim.gatech.edu/Publications/Public/Journals/TheLeadingEdge/2023/louboutin2023lmi/le_software.html) [[pdf]](https://arxiv.org/pdf/2304.05592.pdf) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7281)   
+doi: [10.1190/tle42070474.1](https://doi.org/10.1190/tle42070474.1)            
+[[html]](https://slim.gatech.edu/Publications/Public/Journals/TheLeadingEdge/2023/louboutin2023lmi/le_software.html) [[pdf]](https://library.seg.org/doi/epub/10.1190/tle42070474.1) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7281)   
 
 **Optimized time-lapse acquisition design via spectral gap ratio minimization**    
 Yijun Zhang, <ins>Ziyi Yin</ins>, Oscar López, Ali Siahkoohi, Mathias Louboutin, Rajiv Kumar, and Felix J. Herrmann    
