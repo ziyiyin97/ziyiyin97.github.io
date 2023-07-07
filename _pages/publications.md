@@ -16,6 +16,11 @@ You can also find my publications on [my Google Scholar profile](https://scholar
 In: *International Meeting for Applied Geoscience & Energy*, Aug 2023           
 [[html]](https://slimgroup.github.io/IMAGE2023/)    
 
+**3D seismic survey design by maximizing the spectral gap**    
+Yijun Zhang, <ins>Ziyi Yin</ins>, Oscar López, Ali Siahkoohi, Mathias Louboutin, and Felix J. Herrmann      
+In: *International Meeting for Applied Geoscience & Energy*, Aug 2023           
+[[html]](https://slimgroup.github.io/IMAGE2023/)    
+
 **Monitoring subsurface CO2 plumes with sequential Bayesian inference**    
 Ting-ying Yu, Rafael Orozco, <ins>Ziyi Yin</ins>, Mathias Louboutin, and Felix J. Herrmann      
 In: *International Meeting for Applied Geoscience & Energy*, Aug 2023           
@@ -48,11 +53,6 @@ In:	*Engineering Mechanics Institute Conference 2023*, June 2023
 Felix J. Herrmann, Huseyin Tuna Erdinc, Abhinav Prakash Gahlot, <ins>Ziyi Yin</ins>, and Mathias Louboutin    
 In: Carbon, Capture, Utilization, and Storage (CCUS) 2023, April 2023       
 [[html]](https://slim.gatech.edu/Publications/Public/Conferences/CCUS/2023/herrmann2023CCUSdgs) [[pdf]](https://slim.gatech.edu/Publications/Public/Conferences/CCUS/2023/herrmann2023CCUSdgs/CCUS2023.pdf) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7283)   
-
-**3D seismic survey design by maximizing the spectral gap**    
-Yijun Zhang, <ins>Ziyi Yin</ins>, Oscar López, Ali Siahkoohi, Mathias Louboutin, and Felix J. Herrmann      
-*Technical Report*, March 2023           
-[[html]](https://slimgroup.github.io/IMAGE2023/)    
 
 **The Next Step: Interoperable Domain-Specific Programming**    
 Felix J. Herrmann, Mathias Louboutin, Thomas J. Grady II, <ins>Ziyi Yin</ins>, and Rishi Khan      
