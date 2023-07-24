@@ -27,6 +27,8 @@ In my spare time, I enjoy playing golf, basketball and hiking.
 
 ### Recent News
 
+* Jul, 2023: Check out our latest work, [*Solving multiphysics-based inverse problems with learned surrogates and constraints*](https://doi.org/10.48550/arXiv.2307.11099).
+
 * Jun, 2023: [*Model-Parallel Fourier Neural Operators as Learned Surrogates for Large-Scale Parametric PDEs*](https://doi.org/10.1016/j.cageo.2023.105402) was accepted in *Computers & Geosciences*. [*Learned multiphysics inversion with differentiable programming and machine learning*](https://doi.org/10.1190/tle42070474.1) was accepted in *The Leading Edge*. [*Coupled physics inversion for geological carbon storage monitoring*](https://slimgroup.github.io/IMAGE2023/yin2023IMAGEend2end/abstract.html), [3D seismic survey design by maximizing the spectral gap](https://slimgroup.github.io/IMAGE2023/zhang2023IMAGEsg/abstract.html) and [*Monitoring subsurface CO2 plumes with sequential Bayesian inference*](https://slimgroup.github.io/IMAGE2023/SequentialBayes/abstract.html) were accepted to be presented in *2023 International Meeting for Applied Geoscience and Energy*.
 
 * May, 2023: I started my internship at Chevron in Houston, TX and will be staying here until early September. Feel free to email me for coffee catch-up!
