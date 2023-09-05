@@ -20,17 +20,17 @@ doi: [10.48550/arXiv.2307.11099](https://doi.org/10.48550/arXiv.2307.11099)
 **Coupled physics inversion for geological carbon storage monitoring**    
 <ins>Ziyi Yin</ins>, Mathias Louboutin, Olav Møyner, and Felix J. Herrmann      
 In: *International Meeting for Applied Geoscience & Energy*, Aug 2023           
-[[html]](https://slimgroup.github.io/IMAGE2023/) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7276)            
+[[html]](https://slimgroup.github.io/IMAGE2023/) [[slides]](https://slim.gatech.edu/Publications/Public/Conferences/SEG/2023/yin2023IMAGEcpi) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7276)            
 
 **3D seismic survey design by maximizing the spectral gap**    
 Yijun Zhang, <ins>Ziyi Yin</ins>, Oscar López, Ali Siahkoohi, Mathias Louboutin, and Felix J. Herrmann      
 In: *International Meeting for Applied Geoscience & Energy*, Aug 2023           
-[[html]](https://slimgroup.github.io/IMAGE2023/) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7272)         
+[[pdf]](https://slim.gatech.edu/Publications/Public/Conferences/SEG/2023/zhang2023IMAGEssd/zhang2023IMAGEssd.pdf) [[poster]](https://slim.gatech.edu/Publications/Public/Conferences/SEG/2023/zhang2023IMAGEssd/zhang2023IMAGEssd_pres.pdf) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7272)         
 
 **Monitoring subsurface CO2 plumes with sequential Bayesian inference**    
-Ting-ying Yu, Rafael Orozco, <ins>Ziyi Yin</ins>, Mathias Louboutin, and Felix J. Herrmann      
+Ting-ying Yu, Abhinav Prakash Gahlot, Rafael Orozco, <ins>Ziyi Yin</ins>, Mathias Louboutin, and Felix J. Herrmann      
 In: *International Meeting for Applied Geoscience & Energy*, Aug 2023           
-[[html]](https://slimgroup.github.io/IMAGE2023/) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7277)         
+[[html]](https://slimgroup.github.io/IMAGE2023/) [[slides]](https://slim.gatech.edu/Publications/Public/Conferences/SEG/2023/yu2023IMAGEmsc/) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7277)         
 
 **Learned multiphysics inversion with differentiable programming and machine learning**    
 Mathias Louboutin\*, <ins>Ziyi Yin</ins>\*, Rafael Orozco, Thomas J. Grady II, Ali Siahkoohi, Gabrio Rizzuti, Philipp A. Witte, Olav Møyner, Gerard J. Gorman, and Felix J. Herrmann    
