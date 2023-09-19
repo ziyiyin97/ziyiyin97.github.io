@@ -13,9 +13,9 @@ You can also find my publications on [my Google Scholar profile](https://scholar
 
 **Solving multiphysics-based inverse problems with learned surrogates and constraints**    
 <ins>Ziyi Yin</ins>, Rafael Orozco, Mathias Louboutin, and Felix J. Herrmann      
-Preprint, Jul 2023           
+Just accepted at *Advanced Modeling and Simulation in Engineering Sciences*, Sep 2023           
 doi: [10.48550/arXiv.2307.11099](https://doi.org/10.48550/arXiv.2307.11099)    
-[[html]](https://slim.gatech.edu/Publications/Public/Submitted/2023/yin2023smi/paper.html) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7287)               
+[[html]](https://slim.gatech.edu/Publications/Public/Journals/AMSES/2023/yin2023smi/paper.html) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7287)               
 
 **Coupled physics inversion for geological carbon storage monitoring**    
 <ins>Ziyi Yin</ins>, Mathias Louboutin, Olav Møyner, and Felix J. Herrmann      
