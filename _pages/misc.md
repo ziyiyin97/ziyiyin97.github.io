@@ -24,27 +24,27 @@ author_profile: true
 
 ## Academic Service
 
-#### Program Committee
+### Program Committee
 
 AAAI 2023 Fall symposium on Artificial Intelligence and Climate: The Role of AI in a Climate-Smart Sustainable Future
 
-#### Session Chair
+### Session Chair
 
 International Meeting for Applied Geoscience and Energy 2023 – MLDA 5: Low Carbon Solution oral session
 
-#### Journal Reviewer
+### Journal Reviewer
 
 - GEOPHYSICS
 - Journal of Geophysical Research: Solid Earth
 - Journal of Open Source Software
 
-#### Conference Proceeding Reviewer
+### Conference Proceeding Reviewer
 
 - International Meeting for Applied Geoscience and Energy 2023
 - AAAI 2023 Fall symposium on Artificial Intelligence and Climate: The Role of AI in a Climate-Smart Sustainable Future
 - SciMLCon 2022
 
-#### Award Reviewer
+### Award Reviewer
 
 Georgia Tech President's Undergraduate Research Award 2022, 2023
 
@@ -54,19 +54,19 @@ Georgia Tech President's Undergraduate Research Award 2022, 2023
 
 ## Leadership Experience
 
-#### SEG Student Chapter at Georgia Tech
+### SEG Student Chapter at Georgia Tech
 
 - President, Oct 2020 - Sep 2022
 - Secretary, Nov 2019 - Oct 2020
 
-#### Office of Undergraduate Studies, Emory University
+### Office of Undergraduate Studies, Emory University
 
 - Academic Fellow
 
 
 ## Teaching Experience
 
-#### Georgia Institute of Technology
+### Georgia Institute of Technology
 
 - Graduate Teaching Assistant for EAS 4803/8803 Seismic Monitoring CO2 Storage, Spring 2022
 
@@ -76,7 +76,7 @@ Georgia Tech President's Undergraduate Research Award 2022, 2023
 
 - Graduate Teaching Assistant for CSE/MATH 6644 Iterative Methods for Systems of Equations, Fall 2020
 
-#### Emory University
+### Emory University
 
 - EPASS Peer Tutor for MATH 361/362 Probability and Statistics I & II, Fall 2018, Spring 2019
 
