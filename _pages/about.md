@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ziyi (Francis) Yin - 尹梓屹 "
+title: "Ziyi \"Francis\" Yin - 尹梓屹"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,9 +10,9 @@ redirect_from:
 
 ### About me
 
-I am a PhD student in [Computational Science and Engineering](https://cse.gatech.edu) at [Georgia Institute of Technology](https://www.gatech.edu), advised by [Prof. Felix J. Herrmann](https://cse.gatech.edu/people/felix-herrmann). I work in SLIM ([Seismic Laboratory for Imaging and Modeling](https://slim.gatech.edu)) group mainly on robust and low-cost methods for time-lapse seismic monitoring of geological carbon storage.
+I am a PhD student in [Computational Science and Engineering](https://cse.gatech.edu) at [Georgia Institute of Technology](https://www.gatech.edu), advised by [Prof. Felix J. Herrmann](https://cse.gatech.edu/people/felix-herrmann). I work in SLIM ([Seismic Laboratory for Imaging and Modeling](https://slim.gatech.edu)) group mainly on time-lapse seismic monitoring of geological carbon storage.
 
-In general, my research interests include (but not limited to)
+In general, my research interests include (but not limited to):
 
 * scientific machine learning
 * large-scale inverse problems
@@ -20,12 +20,13 @@ In general, my research interests include (but not limited to)
 * PDE-constrained optimization
 * numerical modeling and simulation
 * uncertainty quantification
+* simulation-based inference
 
-Before coming to Georgia Tech, I graduated from [Emory University](http://www.emory.edu/home/index.html) in 2019, with a *summa cum laude* Bachelor of Science degree in [Mathematics and Computer Science](https://www.math.emory.edu). I conducted research on regularization methods for image reconstruction from CT scans, advised by [Prof. James G. Nagy](http://www.math.emory.edu/~nagy/) and wrote my honors thesis, [Edge Detection and Enriched Subspaces](https://etd.library.emory.edu/concern/etds/7w62f916x?locale=en).
+Before coming to Georgia Tech, I graduated from [Emory University](http://www.emory.edu/home/index.html) in 2019, with a *summa cum laude* Bachelor of Science degree in [Mathematics and Computer Science](https://www.math.emory.edu). I conducted research on regularization methods for image reconstruction from CT scans, advised by [Prof. James G. Nagy](http://www.math.emory.edu/~nagy/) and wrote my honors thesis, [Edge Detection and Enriched Subspaces](https://etd.library.emory.edu/concern/etds/7w62f916x).
 
 ### Recent News
 
-* Sep, 2023: [*Solving multiphysics-based inverse problems with learned surrogates and constraints*](https://doi.org/10.1186/s40323-023-00252-0) was accepted by *Advanced Modeling and Simulation in Engineering Sciences*.
+* Oct, 2023: [*Solving multiphysics-based inverse problems with learned surrogates and constraints*](https://doi.org/10.1186/s40323-023-00252-0) was published in *Advanced Modeling and Simulation in Engineering Sciences*.
 
 * Jun, 2023: [*Model-Parallel Fourier Neural Operators as Learned Surrogates for Large-Scale Parametric PDEs*](https://doi.org/10.1016/j.cageo.2023.105402) was accepted in *Computers & Geosciences*. [*Learned multiphysics inversion with differentiable programming and machine learning*](https://doi.org/10.1190/tle42070474.1) was accepted in *The Leading Edge*. [*Coupled physics inversion for geological carbon storage monitoring*](https://slimgroup.github.io/IMAGE2023/yin2023IMAGEend2end/abstract.html), [3D seismic survey design by maximizing the spectral gap](https://slimgroup.github.io/IMAGE2023/zhang2023IMAGEsg/abstract.html) and [*Monitoring subsurface CO2 plumes with sequential Bayesian inference*](https://slimgroup.github.io/IMAGE2023/SequentialBayes/abstract.html) were accepted to be presented in *2023 International Meeting for Applied Geoscience and Energy*.
 
