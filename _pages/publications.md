@@ -23,7 +23,7 @@ In: *International Meeting for Applied Geoscience & Energy*, Aug 2023
 [[html]](https://slimgroup.github.io/IMAGE2023/) [[slides]](https://slim.gatech.edu/Publications/Public/Conferences/SEG/2023/yin2023IMAGEcpi) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7276)            
 
 **3D seismic survey design by maximizing the spectral gap**    
-Yijun Zhang, <ins>Ziyi Yin</ins>, Oscar López, Ali Siahkoohi, Mathias Louboutin, and Felix J. Herrmann      
+Yijun Zhang\*, <ins>Ziyi Yin</ins>\*, Oscar López, Ali Siahkoohi, Mathias Louboutin, and Felix J. Herrmann      
 In: *International Meeting for Applied Geoscience & Energy*, Aug 2023           
 [[pdf]](https://slim.gatech.edu/Publications/Public/Conferences/SEG/2023/zhang2023IMAGEssd/zhang2023IMAGEssd.pdf) [[poster]](https://slim.gatech.edu/Publications/Public/Conferences/SEG/2023/zhang2023IMAGEssd/zhang2023IMAGEssd_pres.pdf) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7272)         
 
