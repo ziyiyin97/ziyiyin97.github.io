@@ -11,6 +11,10 @@ You can also find my publications on [my Google Scholar profile](https://scholar
 
 ## 2023
 
+**Inference of CO2 flow patterns -- a feasibility study**            
+Abhinav Prakash Gahlot, Huseyin Tuna Erdinc, Rafael Orozco, <ins>Ziyi Yin</ins>, and Felix J. Herrmann      
+In: *NeurIPS 2023 Workshop - Tackling Climate Change with Machine Learning* <span style="color:red">(Spotlight)</span>, Oct 2023           
+
 **Solving multiphysics-based inverse problems with learned surrogates and constraints**    
 <ins>Ziyi Yin</ins>, Rafael Orozco, Mathias Louboutin, and Felix J. Herrmann      
 In: *Advanced Modeling and Simulation in Engineering Sciences*, Oct 2023           
@@ -75,7 +79,7 @@ doi: [10.1190/tle42010069.1](https://doi.org/10.1190/tle42010069.1)
 
 **De-risking Carbon Capture and Sequestration with Explainable CO2 Leakage Detection in Time-lapse Seismic Monitoring Images**        
 Huseyin Tuna Erdinc\*, Abhinav Prakash Gahlot\*, <ins>Ziyi Yin</ins>, Mathias Louboutin, and Felix J. Herrmann     
-In: *AAAI 2022 Fall Symposium: The Role of AI in Responding to Climate Challenges*, Nov 2022      
+In: *AAAI 2022 Fall Symposium - The Role of AI in Responding to Climate Challenges*, Nov 2022      
 doi: [10.48550/arXiv.2212.08596](https://doi.org/10.48550/arXiv.2212.08596)         
 [[pdf]](https://slim.gatech.edu/Publications/Public/Conferences/AAAI/2022/erdinc2022AAAIdcc/erdinc2022AAAIdcc.pdf) [[slides]](https://slim.gatech.edu/Publications/Public/Conferences/AAAI/2022/erdinc2022AAAIdcc) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7216)
 
@@ -119,9 +123,9 @@ Ting-ying Yu, Rafael Orozco, <ins>Ziyi Yin</ins>, and Felix J. Herrmann
 In: *ML4Seismic Partners Meeting 2022*, Nov 2022    
 [[link]](https://slim.gatech.edu/Publications/Public/Conferences/ML4SEISMIC/2022/yu2022ML4SEISMICmsb)     
 
-**Learned coupled inversion for carbon sequestration monitoring and forecasting with Fourier neural operators** [<span style="color:red">(2022 IMAGE's Student Oral Paper Honorable Mention)</span>](https://ziyiyin97.github.io/files/awards/2023/2022_IMAGE_Letter.pdf)        
+**Learned coupled inversion for carbon sequestration monitoring and forecasting with Fourier neural operators**          
 <ins>Ziyi Yin</ins>, Ali Siahkoohi, Mathias Louboutin, and Felix J. Herrmann       
-In: *Second International Meeting for Applied Geoscience & Energy Expanded Abstracts*, Aug 2022, page 467-472     
+In: *Second International Meeting for Applied Geoscience & Energy Expanded Abstracts* [<span style="color:red">(Student Oral Paper Honorable Mention)</span>](https://ziyiyin97.github.io/files/awards/2023/2022_IMAGE_Letter.pdf)  , Aug 2022, page 467-472     
 doi: [10.1190/image2022-3722848.1](https://doi.org/10.1190/image2022-3722848.1)      
 [[html]](https://slim.gatech.edu/Publications/Public/Conferences/SEG/2022/yin2022SEGlci/paper.html) [[pdf]](https://arxiv.org/pdf/2203.14396.pdf) [[slides]](https://slim.gatech.edu/Publications/Public/Conferences/SEG/2022/yin2022SEGlci) [[software]](https://github.com/slimgroup/FNO4CO2) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7200)
 
