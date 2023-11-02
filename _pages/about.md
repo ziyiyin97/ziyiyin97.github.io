@@ -26,6 +26,8 @@ Before coming to Georgia Tech, I graduated from [Emory University](http://www.em
 
 ### Recent News
 
+* Oct, 2023: [*Inference of CO2 flow patterns -- a feasibility study*](https://doi.org/10.48550/arXiv.2311.00290) was accepted in *NeurIPS 2023 Workshop - Tackling Climate Change with Machine Learning* as a spotlight paper.
+
 * Oct, 2023: [*Solving multiphysics-based inverse problems with learned surrogates and constraints*](https://doi.org/10.1186/s40323-023-00252-0) was published in *Advanced Modeling and Simulation in Engineering Sciences*.
 
 * Jun, 2023: [*Model-Parallel Fourier Neural Operators as Learned Surrogates for Large-Scale Parametric PDEs*](https://doi.org/10.1016/j.cageo.2023.105402) was accepted in *Computers & Geosciences*. [*Learned multiphysics inversion with differentiable programming and machine learning*](https://doi.org/10.1190/tle42070474.1) was accepted in *The Leading Edge*. [*Coupled physics inversion for geological carbon storage monitoring*](https://slimgroup.github.io/IMAGE2023/yin2023IMAGEend2end/abstract.html), [3D seismic survey design by maximizing the spectral gap](https://slimgroup.github.io/IMAGE2023/zhang2023IMAGEsg/abstract.html) and [*Monitoring subsurface CO2 plumes with sequential Bayesian inference*](https://slimgroup.github.io/IMAGE2023/SequentialBayes/abstract.html) were accepted to be presented in *2023 International Meeting for Applied Geoscience and Energy*.
