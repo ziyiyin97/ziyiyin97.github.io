@@ -10,7 +10,7 @@ redirect_from:
 
 ### About me
 
-I am a PhD student in [Computational Science and Engineering](https://cse.gatech.edu) at [Georgia Institute of Technology](https://www.gatech.edu), advised by [Prof. Felix J. Herrmann](https://cse.gatech.edu/people/felix-herrmann). I work in SLIM ([Seismic Laboratory for Imaging and Modeling](https://slim.gatech.edu)) group mainly on time-lapse seismic monitoring of geological carbon storage.
+I am a PhD candidate in [Computational Science and Engineering](https://cse.gatech.edu) at [Georgia Institute of Technology](https://www.gatech.edu), advised by [Prof. Felix J. Herrmann](https://cse.gatech.edu/people/felix-herrmann). I work in SLIM ([Seismic Laboratory for Imaging and Modeling](https://slim.gatech.edu)) group mainly on time-lapse seismic monitoring of geological carbon storage.
 
 In general, my research interests include (but not limited to):
 
@@ -25,6 +25,8 @@ In general, my research interests include (but not limited to):
 Before coming to Georgia Tech, I graduated from [Emory University](http://www.emory.edu/home/index.html) in 2019, with a *summa cum laude* Bachelor of Science degree in [Mathematics and Computer Science](https://www.math.emory.edu). I conducted research on regularization methods for image reconstruction from CT scans, advised by [Prof. James G. Nagy](http://www.math.emory.edu/~nagy/) and wrote my honors thesis, [Edge Detection and Enriched Subspaces](https://etd.library.emory.edu/concern/etds/7w62f916x).
 
 ### Recent News
+
+* Nov, 2023: I successfully defended my PhD thesis proposal and got promoted to a PhD candidate!
 
 * Oct, 2023: [*Inference of CO2 flow patterns -- a feasibility study*](https://doi.org/10.48550/arXiv.2311.00290) was accepted in *NeurIPS 2023 Workshop - Tackling Climate Change with Machine Learning* as a spotlight paper.
 
