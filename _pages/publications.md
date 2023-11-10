@@ -11,6 +11,36 @@ You can also find my publications on [my Google Scholar profile](https://scholar
 
 ## 2023
 
+**WISE: Full-waveform Inference with Subsurface Extensions**       
+<ins>Ziyi Yin</ins>, Rafael Orozco, Mathias Louboutin, and Felix J. Herrmann       
+In: *ML4Seismic Partners Meeting 2023*, Nov 2023    
+[[slides]](https://slim.gatech.edu/Publications/Public/Conferences/ML4SEISMIC/2023/yin2023ML4SEISMICwise)  
+
+**End-to-end permeability inversion from prestack time-lapse seismic data: a case study on Compass model**       
+<ins>Ziyi Yin</ins>, Mathias Louboutin, Olav Møyner, and Felix J. Herrmann       
+In: *ML4Seismic Partners Meeting 2023*, Nov 2023    
+[[slides]](https://slim.gatech.edu/Publications/Public/Conferences/ML4SEISMIC/2023/yin2023ML4SEISMICe2e)  
+
+**Monitoring subsurface CO2 plumes with learned sequential Bayesian inference**       
+Abhinav Prakash Gahlot, Ting-ying Yu, Rafael Orozco, <ins>Ziyi Yin</ins>, Mathias Louboutin, and Felix J. Herrmann       
+In: *ML4Seismic Partners Meeting 2023*, Nov 2023    
+[[slides]](https://slim.gatech.edu/Publications/Public/Conferences/ML4SEISMIC/2023/herrmann2023ML4SEISMICmsc)  
+
+**Large-scale parametric PDE approximations with model-parallel Fourier neural operators**       
+Richard Rex, Thomas J. Grady II, Rishi Khan, <ins>Ziyi Yin</ins>, and Felix J. Herrmann       
+In: *ML4Seismic Partners Meeting 2023*, Nov 2023    
+[[slides]](https://slim.gatech.edu/Publications/Public/Conferences/ML4SEISMIC/2023/rex2023ML4SEISMIClsp)  
+
+**Time-lapse seismic monitoring of geological carbon storage with the nonlinear joint recovery model**       
+Abhinav Prakash Gahlot, Mathias Louboutin, <ins>Ziyi Yin</ins>, and Felix J. Herrmann       
+In: *ML4Seismic Partners Meeting 2023*, Nov 2023    
+[[slides]](https://slim.gatech.edu/Publications/Public/Conferences/ML4SEISMIC/2023/gahlot2023ML4SEISMICtsm)  
+
+**Maximizing CO2 injectivity within fracture pressure**       
+Haoyun Li, <ins>Ziyi Yin</ins>, Olav Møyner, and Felix J. Herrmann       
+In: *ML4Seismic Partners Meeting 2023*, Nov 2023    
+[[slides]](https://slim.gatech.edu/Publications/Public/Conferences/ML4SEISMIC/2023/li2023ML4SEISMICmci)  
+
 **Inference of CO2 flow patterns -- a feasibility study**            
 Abhinav Prakash Gahlot, Huseyin Tuna Erdinc, Rafael Orozco, <ins>Ziyi Yin</ins>, and Felix J. Herrmann      
 In: *NeurIPS 2023 Workshop - Tackling Climate Change with Machine Learning* <span style="color:red">(Spotlight)</span>, Oct 2023           
@@ -89,42 +119,41 @@ doi: [10.48550/arXiv.2212.08596](https://doi.org/10.48550/arXiv.2212.08596)
 **Uncertainty-aware time-lapse CO2 monitoring with learned end-to-end inversion**       
 <ins>Ziyi Yin</ins>, Rafael Orozco, Ali Siahkoohi, Mathias Louboutin, and Felix J. Herrmann       
 In: *ML4Seismic Partners Meeting 2022*, Nov 2022    
-[[link]](https://slim.gatech.edu/Publications/Public/Conferences/ML4SEISMIC/2022/yin2022ML4SEISMICutc)     
+[[slides]](https://slim.gatech.edu/Publications/Public/Conferences/ML4SEISMIC/2022/yin2022ML4SEISMICutc)     
 
 **Simulation-based framework for geological carbon storage monitoring**       
 <ins>Ziyi Yin</ins>, Huseyin Tuna Erdinc, Abhinav Prakash Gahlot, Mathias Louboutin and Felix J. Herrmann       
 In: *ML4Seismic Partners Meeting 2022*, Nov 2022    
-[[link]](https://slim.gatech.edu/Publications/Public/Conferences/ML4SEISMIC/2022/yin2022ML4SEISMICsfg)     
+[[slides]](https://slim.gatech.edu/Publications/Public/Conferences/ML4SEISMIC/2022/yin2022ML4SEISMICsfg)     
 
 **Amortized velocity continuation with Fourier neural operators**       
 Ali Siahkoohi, <ins>Ziyi Yin</ins>, Mathias Louboutin and Felix J. Herrmann       
 In: *ML4Seismic Partners Meeting 2022*, Nov 2022    
-[[link]](https://slim.gatech.edu/Publications/Public/Conferences/ML4SEISMIC/2022/yin2022ML4SEISMICavc)     
+[[slides]](https://slim.gatech.edu/Publications/Public/Conferences/ML4SEISMIC/2022/yin2022ML4SEISMICavc)     
 
 **Time-lapse seismic survey design by maximizing the spectral gap**       
 Yijun Zhang, Mathias Louboutin, Ali Siahkoohi, <ins>Ziyi Yin</ins>, Rajiv Kumar, Oscar López, and Felix J. Herrmann       
 In: *ML4Seismic Partners Meeting 2022*, Nov 2022    
-[[link]](https://slim.gatech.edu/Publications/Public/Conferences/ML4SEISMIC/2022/zhang2022ML4SEISMICtss)     
+[[slides]](https://slim.gatech.edu/Publications/Public/Conferences/ML4SEISMIC/2022/zhang2022ML4SEISMICtss)     
 
 **Effective scaling of numerical surrogates via domain-decomposed Fourier neural operators**       
 Thomas J. Grady II, Rishi Khan, Mathias Louboutin, <ins>Ziyi Yin</ins>, Philipp A. Witte, Ranveer Chandra, Russell J. Hewett, and Felix J. Herrmann       
 In: *ML4Seismic Partners Meeting 2022*, Nov 2022    
-[[link]](https://slim.gatech.edu/Publications/Public/Conferences/ML4SEISMIC/2022/grady2022ML4SEISMICesn)     
+[[slides]](https://slim.gatech.edu/Publications/Public/Conferences/ML4SEISMIC/2022/grady2022ML4SEISMICesn)     
 
 **ML4Seismic open-source software: updates and developments**       
 Mathias Louboutin, <ins>Ziyi Yin</ins>, Rafael Orozco, Thomas J. Grady II, and Felix J. Herrmann       
 In: *ML4Seismic Partners Meeting 2022*, Nov 2022    
-[[link]](https://slim.gatech.edu/Publications/Public/Conferences/ML4SEISMIC/2022/louboutin2022ML4SEISMICmos)     
+[[slides]](https://slim.gatech.edu/Publications/Public/Conferences/ML4SEISMIC/2022/louboutin2022ML4SEISMICmos)     
 
 **De-risking GCS projects with explainable CO2 leakage detection in time-lapse seismic images**       
 Huseyin Tuna Erdinc, Abhinav Prakash Gahlot, <ins>Ziyi Yin</ins>, Mathias Louboutin, and Felix J. Herrmann       
 In: *ML4Seismic Partners Meeting 2022*, Nov 2022    
-[[link]](https://slim.gatech.edu/Publications/Public/Conferences/ML4SEISMIC/2022/erdinc2022ML4SEISMICdgp)     
+[[slides]](https://slim.gatech.edu/Publications/Public/Conferences/ML4SEISMIC/2022/erdinc2022ML4SEISMICdgp)     
 
 **Monitoring with sequential Bayesian inference**       
 Ting-ying Yu, Rafael Orozco, <ins>Ziyi Yin</ins>, and Felix J. Herrmann       
-In: *ML4Seismic Partners Meeting 2022*, Nov 2022    
-[[link]](https://slim.gatech.edu/Publications/Public/Conferences/ML4SEISMIC/2022/yu2022ML4SEISMICmsb)     
+[[slides]](https://slim.gatech.edu/Publications/Public/Conferences/ML4SEISMIC/2022/yu2022ML4SEISMICmsb)     
 
 **Learned coupled inversion for carbon sequestration monitoring and forecasting with Fourier neural operators**          
 <ins>Ziyi Yin</ins>, Ali Siahkoohi, Mathias Louboutin, and Felix J. Herrmann       
