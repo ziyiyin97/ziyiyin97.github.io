@@ -41,6 +41,16 @@ Haoyun Li, <ins>Ziyi Yin</ins>, Olav Møyner, and Felix J. Herrmann
 In: *ML4Seismic Partners Meeting 2023*, Nov 2023    
 [[slides]](https://slim.gatech.edu/Publications/Public/Conferences/ML4SEISMIC/2023/li2023ML4SEISMICmci)  
 
+**Solving PDE-based inverse problems with learned surrogates and constraints**            
+<ins>Ziyi Yin</ins>, Rafael Orozco, Mathias Louboutin, and Felix J. Herrmann          
+In: *HOTCSE Seminar*, Nov 2023           
+[[slides]](https://slim.gatech.edu/Publications/Public/Lectures/HotCSE/2023/yin2023HOTCSEspi/)       
+
+**Introduction to Seismic Laboratory for Imaging and Modeling**            
+<ins>Ziyi Yin</ins>      
+In: *CSE Student Recruiting Event 2023*, Nov 2023           
+[[poster]](https://slim.gatech.edu/Publications/Public/Conferences/CSE/2023/SLIM.pdf)       
+
 **Inference of CO2 flow patterns -- a feasibility study**            
 Abhinav Prakash Gahlot, Huseyin Tuna Erdinc, Rafael Orozco, <ins>Ziyi Yin</ins>, and Felix J. Herrmann      
 In: *NeurIPS 2023 Workshop - Tackling Climate Change with Machine Learning* <span style="color:red">(Spotlight)</span>, Oct 2023           
