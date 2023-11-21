@@ -81,8 +81,8 @@ author:
   name             : "Ziyi \"Francis\" Yin"
   avatar           : "icon.jpg"
   bio              : "PhD Candidate"
-  location         : "Atlanta, GA"
-  employer         : "Georgia Institute of Technology"
+  location         : 
+  employer         : "Georgia Tech"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=ji9kwj8AAAAJ&hl=en"
   email            : "ziyi.yin@gatech.edu"
