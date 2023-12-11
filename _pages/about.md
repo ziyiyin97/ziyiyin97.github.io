@@ -10,7 +10,7 @@ redirect_from:
 
 ### About me
 
-I am a PhD candidate in [Computational Science and Engineering](https://cse.gatech.edu) at [Georgia Institute of Technology](https://www.gatech.edu), advised by [Prof. Felix J. Herrmann](https://cse.gatech.edu/people/felix-herrmann). I work in SLIM ([Seismic Laboratory for Imaging and Modeling](https://slim.gatech.edu)) group mainly on time-lapse seismic monitoring of geological carbon storage.
+I am a PhD candidate in [Computational Science and Engineering](https://cse.gatech.edu) at [Georgia Institute of Technology](https://www.gatech.edu), advised by [Prof. Felix J. Herrmann](https://cse.gatech.edu/people/felix-herrmann). I am a member of the SLIM ([Seismic Laboratory for Imaging and Modeling](https://slim.gatech.edu)) group.
 
 In general, my research interests include (but not limited to):
 
@@ -21,10 +21,13 @@ In general, my research interests include (but not limited to):
 * numerical modeling and simulation
 * uncertainty quantification
 * simulation-based inference
+* and their application in geoscience
 
 Before coming to Georgia Tech, I graduated from [Emory University](http://www.emory.edu/home/index.html) in 2019, with a *summa cum laude* Bachelor of Science degree in [Mathematics and Computer Science](https://www.math.emory.edu). I conducted research on regularization methods for image reconstruction from CT scans, advised by [Prof. James G. Nagy](http://www.math.emory.edu/~nagy/) and wrote my honors thesis, [Edge Detection and Enriched Subspaces](https://etd.library.emory.edu/concern/etds/7w62f916x).
 
 ### Recent News
+
+* Dec, 2023: Check out the [WISE framework](https://slim.gatech.edu/content/wise-full-waveform-variational-inference-subsurface-extensions) for uncertainty quantification of full-waveform inversion.
 
 * Nov, 2023: I successfully defended my PhD thesis proposal and got promoted to a PhD candidate!
 

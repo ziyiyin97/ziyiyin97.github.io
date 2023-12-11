@@ -11,6 +11,11 @@ You can also find my publications on [my Google Scholar profile](https://scholar
 
 ## 2023
 
+**WISE: full-Waveform variational Inference via Subsurface Extensions**       
+<ins>Ziyi Yin</ins>\*, Rafael Orozco\*, Mathias Louboutin, and Felix J. Herrmann       
+Preprint, Dec 2023    
+[[html]](https://slim.gatech.edu/Publications/Public/Submitted/2023/yin2023wise/paper.html) [[pdf]](https://slim.gatech.edu/Publications/Public/Submitted/2023/yin2023wise/paper.pdf) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7321)        
+
 **WISE: Full-waveform Inference with Subsurface Extensions**       
 <ins>Ziyi Yin</ins>, Rafael Orozco, Mathias Louboutin, and Felix J. Herrmann       
 In: *ML4Seismic Partners Meeting 2023*, Nov 2023    
