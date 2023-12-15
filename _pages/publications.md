@@ -76,7 +76,7 @@ In: *International Meeting for Applied Geoscience & Energy*, Aug 2023
 **3D seismic survey design by maximizing the spectral gap**    
 Yijun Zhang\*, <ins>Ziyi Yin</ins>\*, Oscar López, Ali Siahkoohi, Mathias Louboutin, and Felix J. Herrmann      
 In: *International Meeting for Applied Geoscience & Energy Expanded Abstracts*, Aug 2023        
-doi: [10.48550/arXiv.2311.02298](https://doi.org/10.48550/arXiv.2311.02298)         
+doi: [10.1190/image2023-3895546.1](https://doi.org/10.1190/image2023-3895546.1)         
 [[pdf]](https://arxiv.org/pdf/2311.02298.pdf) [[poster]](https://slim.gatech.edu/Publications/Public/Conferences/SEG/2023/zhang2023IMAGEssd/zhang2023IMAGEssd_pres.pdf) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7272)         
 
 **Monitoring subsurface CO2 plumes with sequential Bayesian inference**    
