@@ -4,8 +4,11 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Publications & Presentations"
+  - title: "Publications"
     url: /publications/
+
+  - title: "Presentations"
+    url: /presentations/
 
   - title: "Contact"
     url: /contact/
