@@ -60,7 +60,7 @@ In: *CSE Student Recruiting Event 2023*, Nov 2023
 Abhinav Prakash Gahlot, Huseyin Tuna Erdinc, Rafael Orozco, <ins>Ziyi Yin</ins>, and Felix J. Herrmann      
 In: *NeurIPS 2023 Workshop - Tackling Climate Change with Machine Learning* <span style="color:red">(Spotlight)</span>, Oct 2023           
 doi: [10.48550/arXiv.2311.00290](https://doi.org/10.48550/arXiv.2311.00290)         
-[[pdf]](https://arxiv.org/pdf/2311.00290.pdf) [[poster]](https://slim.gatech.edu/Publications/Public/Conferences/NIPS/2023/gahlot2023NIPSWSifp/poster.pdf) [[video]](https://nips.cc/virtual/2023/workshop/66543#wse-detail-76935) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7308)               
+[[pdf]](https://arxiv.org/pdf/2311.00290.pdf) [[poster]](https://slim.gatech.edu/Publications/Public/Conferences/NIPS/2023/gahlot2023NIPSWSifp/poster.pdf) [[video]](https://nips.cc/virtual/2023/workshop/66543#wse-detail-76935) [[media]](https://www.cc.gatech.edu/news/machine-learning-could-be-key-early-leakage-detection-underground-carbon-storage-sites) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7308)               
 
 **Solving multiphysics-based inverse problems with learned surrogates and constraints**    
 <ins>Ziyi Yin</ins>, Rafael Orozco, Mathias Louboutin, and Felix J. Herrmann      
@@ -88,7 +88,7 @@ In: *International Meeting for Applied Geoscience & Energy*, Aug 2023
 Mathias Louboutin\*, <ins>Ziyi Yin</ins>\*, Rafael Orozco, Thomas J. Grady II, Ali Siahkoohi, Gabrio Rizzuti, Philipp A. Witte, Olav Møyner, Gerard J. Gorman, and Felix J. Herrmann    
 In: *The Leading Edge*, Jul 2023             
 doi: [10.1190/tle42070474.1](https://doi.org/10.1190/tle42070474.1)            
-[[html]](https://slim.gatech.edu/Publications/Public/Journals/TheLeadingEdge/2023/louboutin2023lmi/le_software.html) [[pdf]](https://library.seg.org/doi/epub/10.1190/tle42070474.1) [[media]](https://seg.org/podcasts/episode-194-improving-integration-in-machine-learning-workflows) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7281)   
+[[html]](https://slim.gatech.edu/Publications/Public/Journals/TheLeadingEdge/2023/louboutin2023lmi/le_software.html) [[pdf]](https://library.seg.org/doi/epub/10.1190/tle42070474.1) [[media1]](https://seg.org/podcasts/episode-194-improving-integration-in-machine-learning-workflows) [[media2]](https://open.spotify.com/episode/0lzxirrfnaX6cywTYopmzc?si=lh5Mgl7mSSiGYeVfn7ZBgA&nd=1&dlsi=b0d9fe8f06ab471d) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7281)   
 
 **Optimized time-lapse acquisition design via spectral gap ratio minimization**    
 Yijun Zhang, <ins>Ziyi Yin</ins>, Oscar López, Ali Siahkoohi, Mathias Louboutin, Rajiv Kumar, and Felix J. Herrmann    
@@ -174,7 +174,7 @@ Ting-ying Yu, Rafael Orozco, <ins>Ziyi Yin</ins>, and Felix J. Herrmann
 <ins>Ziyi Yin</ins>, Ali Siahkoohi, Mathias Louboutin, and Felix J. Herrmann       
 In: *Second International Meeting for Applied Geoscience & Energy Expanded Abstracts* [<span style="color:red">(Student Oral Paper Honorable Mention)</span>](https://ziyiyin97.github.io/files/awards/2023/2022_IMAGE_Letter.pdf)  , Aug 2022, page 467-472     
 doi: [10.1190/image2022-3722848.1](https://doi.org/10.1190/image2022-3722848.1)      
-[[html]](https://slim.gatech.edu/Publications/Public/Conferences/SEG/2022/yin2022SEGlci/paper.html) [[pdf]](https://arxiv.org/pdf/2203.14396.pdf) [[slides]](https://slim.gatech.edu/Publications/Public/Conferences/SEG/2022/yin2022SEGlci) [[software]](https://github.com/slimgroup/FNO4CO2) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7200)
+[[html]](https://slim.gatech.edu/Publications/Public/Conferences/SEG/2022/yin2022SEGlci/paper.html) [[pdf]](https://arxiv.org/pdf/2203.14396.pdf) [[slides]](https://slim.gatech.edu/Publications/Public/Conferences/SEG/2022/yin2022SEGlci) [[software]](https://github.com/slimgroup/FNO4CO2) [[media1]](https://www.cc.gatech.edu/news/group-brings-seismic-imaging-climate-change-conversations-and-beyond) [[media2]](https://www.youtube.com/watch?v=2NiB8qTyKa4) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7200)
 
 **Accelerating innovation with software abstractions for scalable computational geophysics**        
 Mathias Louboutin, Philipp A. Witte, Ali Siahkoohi, Gabrio Rizzuti, <ins>Ziyi Yin</ins>, Rafael Orozco, and Felix J. Herrmann       
