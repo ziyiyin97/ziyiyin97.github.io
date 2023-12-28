@@ -20,7 +20,7 @@ Preprint, Dec 2023
 Abhinav Prakash Gahlot, Huseyin Tuna Erdinc, Rafael Orozco, <ins>Ziyi Yin</ins>, and Felix J. Herrmann      
 In: *NeurIPS 2023 Workshop - Tackling Climate Change with Machine Learning* <span style="color:red">(Spotlight)</span>, Oct 2023           
 doi: [10.48550/arXiv.2311.00290](https://doi.org/10.48550/arXiv.2311.00290)         
-[[pdf]](https://arxiv.org/pdf/2311.00290.pdf) [[poster]](https://slim.gatech.edu/Publications/Public/Conferences/NIPS/2023/gahlot2023NIPSWSifp/poster.pdf) [[video]](https://nips.cc/virtual/2023/workshop/66543#wse-detail-76935) [[media]](https://www.cc.gatech.edu/news/machine-learning-could-be-key-early-leakage-detection-underground-carbon-storage-sites) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7308)               
+[[link]](https://www.climatechange.ai/papers/neurips2023/108) [[pdf]](https://arxiv.org/pdf/2311.00290.pdf) [[poster]](https://s3.us-east-1.amazonaws.com/climate-change-ai/papers/neurips2023/108/poster.jpg) [[video]](https://slideslive.com/39012807/inference-of-co2-flow-patternsa-feasibility-study) [[media]](https://www.cc.gatech.edu/news/machine-learning-could-be-key-early-leakage-detection-underground-carbon-storage-sites) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7308)               
 
 **Solving multiphysics-based inverse problems with learned surrogates and constraints**    
 <ins>Ziyi Yin</ins>, Rafael Orozco, Mathias Louboutin, and Felix J. Herrmann      
