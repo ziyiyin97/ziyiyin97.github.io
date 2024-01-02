@@ -35,6 +35,7 @@ International Meeting for Applied Geoscience and Energy 2023 – MLDA 5: Low Car
 ### Journal Reviewer
 
 - IEEE Transactions on Geoscience and Remote Sensing
+- Journal of Applied Geophysics
 - Journal of Geophysics and Engineering
 - Journal of Geophysical Research: Solid Earth
 - Journal of Open Research Software
