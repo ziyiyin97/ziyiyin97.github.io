@@ -36,6 +36,7 @@ International Meeting for Applied Geoscience and Energy 2023 – MLDA 5: Low Car
 
 - Geophysics
 - Geophysical Prospecting
+- Geoscientific Model Development
 - IEEE Transactions on Geoscience and Remote Sensing
 - Journal of Applied Geophysics
 - Journal of Geophysics and Engineering
