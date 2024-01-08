@@ -44,11 +44,13 @@ International Meeting for Applied Geoscience and Energy 2023 – MLDA 5: Low Car
 - Journal of Open Research Software
 - Journal of Open Source Software
 - Pure and Applied Geophysics
+- The Open Rheumatology Journal
 
 ### Conference Proceeding Reviewer
 
-- International Meeting for Applied Geoscience and Energy 2023
 - AAAI 2023 Fall symposium on Artificial Intelligence and Climate: The Role of AI in a Climate-Smart Sustainable Future
+- International Meeting for Applied Geoscience and Energy 2023
+- ICLR 2024 workshop on AI4DifferentialEquations
 - SciMLCon 2022
 
 ### Award Reviewer
