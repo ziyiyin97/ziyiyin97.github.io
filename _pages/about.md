@@ -27,7 +27,7 @@ Before coming to Georgia Tech, I graduated from [Emory University](http://www.em
 
 ### Recent News
 
-* Dec, 2023: Check out the [WISE framework](https://slim.gatech.edu/content/wise-full-waveform-variational-inference-subsurface-extensions) for uncertainty quantification of full-waveform inversion.
+* Dec, 2023: Check out the [WISE framework](https://doi.org/10.48550/arXiv.2401.06230) for uncertainty quantification of full-waveform inversion.
 
 * Nov, 2023: I successfully defended my PhD thesis proposal and got promoted to a PhD candidate!
 
