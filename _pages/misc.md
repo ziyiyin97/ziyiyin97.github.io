@@ -43,7 +43,6 @@ International Meeting for Applied Geoscience and Energy 2023 – MLDA 5: Low Car
 - Journal of Open Research Software
 - Journal of Open Source Software
 - Pure and Applied Geophysics
-- The Open Rheumatology Journal
 
 ### Conference Proceeding Reviewer
 

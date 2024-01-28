@@ -9,8 +9,13 @@ Below are "informal" presentations. Papers with assigned DOIs can be found under
 
 ## 2023
 
+**Generative AI for full-waveform variational inference**       
+<ins>Ziyi Yin</ins>\*, Rafael Orozco\*, Mathias Louboutin, and Felix J. Herrmann       
+In: *Georgia Tech Spring 2024 Solid Earth Seminar*, Jan 2024    
+[[slides]](https://slim.gatech.edu/Publications/Public/Lectures/GTseminar/2024/yin2024GTwise)  
+
 **WISE: Full-waveform Inference with Subsurface Extensions**       
-<ins>Ziyi Yin</ins>, Rafael Orozco, Mathias Louboutin, and Felix J. Herrmann       
+<ins>Ziyi Yin</ins>\*, Rafael Orozco\*, Mathias Louboutin, and Felix J. Herrmann       
 In: *ML4Seismic Partners Meeting 2023*, Nov 2023    
 [[slides]](https://slim.gatech.edu/Publications/Public/Conferences/ML4SEISMIC/2023/yin2023ML4SEISMICwise)  
 

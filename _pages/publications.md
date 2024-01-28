@@ -15,7 +15,7 @@ Below are papers with assigned DOIs. More "informal" presentations can be found 
 <ins>Ziyi Yin</ins>\*, Rafael Orozco\*, Mathias Louboutin, and Felix J. Herrmann       
 Preprint, Dec 2023    
 doi: [10.48550/arXiv.2401.06230](https://doi.org/10.48550/arXiv.2401.06230)     
-[[html]](https://slim.gatech.edu/Publications/Public/Submitted/2023/yin2023wise/paper.html) [[pdf]](https://arxiv.org/pdf/2401.06230.pdf) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7321)        
+[[html]](https://slim.gatech.edu/Publications/Public/Submitted/2023/yin2023wise/paper.html) [[pdf]](https://arxiv.org/pdf/2401.06230.pdf) [[slides]](https://slim.gatech.edu/Publications/Public/Lectures/GTseminar/2024/yin2024GTwise) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7321)        
 
 **Inference of CO2 flow patterns -- a feasibility study**            
 Abhinav Prakash Gahlot, Huseyin Tuna Erdinc, Rafael Orozco, <ins>Ziyi Yin</ins>, and Felix J. Herrmann      
