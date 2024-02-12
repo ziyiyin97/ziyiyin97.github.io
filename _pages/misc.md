@@ -33,6 +33,7 @@ International Meeting for Applied Geoscience and Energy 2023 – MLDA 5: Low Car
 
 ### Journal Reviewer
 
+- Acta Geophysica
 - Geophysics
 - Geophysical Prospecting
 - Geoscientific Model Development
