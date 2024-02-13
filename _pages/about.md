@@ -1,7 +1,6 @@
 ---
 permalink: /
 title: "Ziyi \"Francis\" Yin - 尹梓屹"
-excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/

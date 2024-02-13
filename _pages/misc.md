@@ -49,9 +49,10 @@ International Meeting for Applied Geoscience and Energy 2023 – MLDA 5: Low Car
 ### Conference Proceeding Reviewer
 
 - AAAI 2023 Fall symposium on Artificial Intelligence and Climate: The Role of AI in a Climate-Smart Sustainable Future
-- International Meeting for Applied Geoscience and Energy 2023
 - ICLR 2024 workshop on AI4DifferentialEquations
+- International Meeting for Applied Geoscience and Energy 2023, 2024
 - SciMLCon 2022
+- 58th US Rock Mechanics / Geomechanics Symposium
 
 ### Award Reviewer
 

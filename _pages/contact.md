@@ -1,7 +1,5 @@
 ---
-permalink: /contact.html
-redirect_from: 
-  - /contact/
+permalink: /contact/
 title: "Contact Information"
 author_profile: true
 ---
