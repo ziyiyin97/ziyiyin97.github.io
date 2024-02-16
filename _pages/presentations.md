@@ -7,12 +7,24 @@ author_profile: true
 
 Below are "informal" presentations. Papers with assigned DOIs can be found under [Publications](https://ziyiyin97.github.io/publications/).
 
-## 2023
+## 2024
+
+**DT4GCS –- Digital Twin for Geological CO2 Storage and Control**       
+Felix J. Herrmann, Abhinav Prakash Gahlot, Rafael Orozco, <ins>Ziyi Yin</ins> and Haoyun Li              
+Submitted to: *Geophysical Research for Gigatonnes CO2 Storage workshop 2024*, Feb 2024    
+[[pdf]](https://slim.gatech.edu/Publications/Public/Submitted/2024/herrmann2024CSMdt/herrmann2024CSMdt.pdf)       
+
+**Digital Twins in the Era of Generative AI: Application to Geological CO2 Storage**       
+Abhinav Prakash Gahlot, Rafael Orozco, Haoyun Li, <ins>Ziyi Yin</ins>, and Felix J. Herrmann       
+In: *Halliburotn HCMF Seminar*, Feb 2024    
+[[slides]](https://slim.gatech.edu/Publications/Public/Conferences/Halliburton/2024/herrmann2024dt4gcs/) [[pdf]](https://slim.gatech.edu/Publications/Public/Conferences/Halliburton/2024/herrmann2024dt4gcs.pdf)       
 
 **Generative AI for full-waveform variational inference**       
 <ins>Ziyi Yin</ins>\*, Rafael Orozco\*, Mathias Louboutin, and Felix J. Herrmann       
 In: *Georgia Tech Spring 2024 Solid Earth Seminar*, Jan 2024    
 [[slides]](https://slim.gatech.edu/Publications/Public/Lectures/GTseminar/2024/yin2024GTwise)  
+
+## 2023
 
 **WISE: Full-waveform Inference with Subsurface Extensions**       
 <ins>Ziyi Yin</ins>\*, Rafael Orozco\*, Mathias Louboutin, and Felix J. Herrmann       
