@@ -26,7 +26,9 @@ Before coming to Georgia Tech, I graduated from [Emory University](http://www.em
 
 ### Recent News
 
-* Dec, 2023: Check out the [WISE framework](https://doi.org/10.48550/arXiv.2401.06230) for uncertainty quantification of full-waveform inversion.
+* Mar, 2024: Check out [An Uncertainty-Aware Digital Twin for Geological Carbon Storage](https://slim.gatech.edu/Publications/Public/Conferences/SIAMUQ/2024/digital-twin), presented at SIAM UQ 2024.
+
+* Dec, 2023: Check out the [WISE framework](https://doi.org/10.48550/arXiv.2401.06230) for generative AI applications in seismic imaging and inversion.
 
 * Nov, 2023: I successfully defended my PhD thesis proposal and got promoted to a PhD candidate!
 

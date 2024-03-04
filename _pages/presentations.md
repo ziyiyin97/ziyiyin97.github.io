@@ -9,8 +9,13 @@ Below are "informal" presentations. Papers with assigned DOIs can be found under
 
 ## 2024
 
+**An Uncertainty-Aware Digital Twin for Geological Carbon Storage**       
+Abhinav Prakash Gahlot, Rafael Orozco, Haoyun Li, Grant Bruer, <ins>Ziyi Yin</ins>, Mathias Louboutin, and Felix J. Herrmann              
+In: *SIAM Conference on Uncertainty Quantification 2024*, March 2024    
+[[html]](https://slim.gatech.edu/Publications/Public/Conferences/SIAMUQ/2024/digital-twin)     
+
 **DT4GCS –- Digital Twin for Geological CO2 Storage and Control**       
-Felix J. Herrmann, Abhinav Prakash Gahlot, Rafael Orozco, <ins>Ziyi Yin</ins> and Haoyun Li              
+Felix J. Herrmann, Abhinav Prakash Gahlot, Rafael Orozco, <ins>Ziyi Yin</ins>, and Haoyun Li              
 Submitted to: *Geophysical Research for Gigatonnes CO2 Storage workshop 2024*, Feb 2024    
 [[pdf]](https://slim.gatech.edu/Publications/Public/Submitted/2024/herrmann2024CSMdt/herrmann2024CSMdt.pdf)       
 
