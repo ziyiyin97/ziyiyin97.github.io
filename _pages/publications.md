@@ -9,6 +9,13 @@ Below are papers with assigned DOIs. More "informal" presentations can be found 
 
 \* denotes equal contribution.
 
+## 2024
+
+**Time-lapse full-waveform permeability inversion: a feasibility study**          
+<ins>Ziyi Yin</ins>, Mathias Louboutin, Olav Møyner, and Felix J. Herrmann      
+Preprint, Mar 2024    
+[[html]](https://slim.gatech.edu/Publications/Public/Submitted/2024/yin2024tfp/paper.html) [[pdf]](https://slim.gatech.edu/Publications/Public/Submitted/2024/yin2024tfp/paper.pdf) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7321)        
+
 ## 2023
 
 **WISE: full-Waveform variational Inference via Subsurface Extensions**       
@@ -19,7 +26,7 @@ doi: [10.48550/arXiv.2401.06230](https://doi.org/10.48550/arXiv.2401.06230)
 
 **Inference of CO2 flow patterns -- a feasibility study**            
 Abhinav Prakash Gahlot, Huseyin Tuna Erdinc, Rafael Orozco, <ins>Ziyi Yin</ins>, and Felix J. Herrmann      
-In: *NeurIPS 2023 Workshop - Tackling Climate Change with Machine Learning* <span style="color:red">(Spotlight)</span>, Oct 2023           
+In: *NeurIPS 2023 Workshop - Tackling Climate Change with Machine Learning*, Dec 2023           
 doi: [10.48550/arXiv.2311.00290](https://doi.org/10.48550/arXiv.2311.00290)         
 [[link]](https://www.climatechange.ai/papers/neurips2023/108) [[pdf]](https://arxiv.org/pdf/2311.00290.pdf) [[poster]](https://s3.us-east-1.amazonaws.com/climate-change-ai/papers/neurips2023/108/poster.jpg) [[video]](https://slideslive.com/39012807/inference-of-co2-flow-patternsa-feasibility-study) [[media]](https://www.cc.gatech.edu/news/machine-learning-could-be-key-early-leakage-detection-underground-carbon-storage-sites) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7308)               
 

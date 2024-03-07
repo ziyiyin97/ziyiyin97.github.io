@@ -26,6 +26,8 @@ Before coming to Georgia Tech, I graduated from [Emory University](http://www.em
 
 ### Recent News
 
+* Mar, 2024: Check out my latest preprint, [Time-lapse full-waveform permeability inversion: a feasibility study](https://slim.gatech.edu/Publications/Public/Submitted/2024/yin2024tfp/paper.html).
+
 * Mar, 2024: Check out [An Uncertainty-Aware Digital Twin for Geological Carbon Storage](https://slim.gatech.edu/Publications/Public/Conferences/SIAMUQ/2024/digital-twin), presented at SIAM UQ 2024.
 
 * Dec, 2023: Check out the [WISE framework](https://doi.org/10.48550/arXiv.2401.06230) for generative AI applications in seismic imaging and inversion.
