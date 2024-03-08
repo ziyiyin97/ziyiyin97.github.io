@@ -74,27 +74,27 @@ In: *CSE Student Recruiting Event 2023*, Nov 2023
 **Coupled physics inversion for geological carbon storage monitoring**    
 <ins>Ziyi Yin</ins>, Mathias Louboutin, Olav Møyner, and Felix J. Herrmann      
 In: *International Meeting for Applied Geoscience & Energy*, Aug 2023           
-[[html]](https://slimgroup.github.io/IMAGE2023/) [[slides]](https://slim.gatech.edu/Publications/Public/Conferences/SEG/2023/yin2023IMAGEcpi) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7276)            
+[[html]](https://slimgroup.github.io/IMAGE2023/) [[slides]](https://slim.gatech.edu/Publications/Public/Conferences/SEG/2023/yin2023IMAGEcpi)            
 
 **Monitoring subsurface CO2 plumes with sequential Bayesian inference**    
 Ting-ying Yu, Abhinav Prakash Gahlot, Rafael Orozco, <ins>Ziyi Yin</ins>, Mathias Louboutin, and Felix J. Herrmann      
 In: *International Meeting for Applied Geoscience & Energy*, Aug 2023           
-[[html]](https://slimgroup.github.io/IMAGE2023/) [[slides]](https://slim.gatech.edu/Publications/Public/Conferences/SEG/2023/yu2023IMAGEmsc/) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7277)         
+[[html]](https://slimgroup.github.io/IMAGE2023/) [[slides]](https://slim.gatech.edu/Publications/Public/Conferences/SEG/2023/yu2023IMAGEmsc/)         
 
 **Uncertainty-aware time-lapse monitoring of geological carbon storage with learned surrogates**    
 <ins>Ziyi Yin</ins>, Rafael Orozco, Mathias Louboutin, Ali Siahkoohi, and Felix J. Herrmann      
 In:	*Engineering Mechanics Institute Conference 2023*, June 2023       
-[[slides]](https://slim.gatech.edu/Publications/Public/Conferences/EMI/2023/yin2023EMIutm/yin2023EMIutm.pdf) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7267)   
+[[slides]](https://slim.gatech.edu/Publications/Public/Conferences/EMI/2023/yin2023EMIutm/yin2023EMIutm.pdf)    
 
 **Derisking geological storage with simulation-based seismic monitoring design and machine learning**    
 Felix J. Herrmann, Huseyin Tuna Erdinc, Abhinav Prakash Gahlot, <ins>Ziyi Yin</ins>, and Mathias Louboutin    
 In: Carbon, Capture, Utilization, and Storage (CCUS) 2023, April 2023       
-[[html]](https://slim.gatech.edu/Publications/Public/Conferences/CCUS/2023/herrmann2023CCUSdgs) [[pdf]](https://slim.gatech.edu/Publications/Public/Conferences/CCUS/2023/herrmann2023CCUSdgs/CCUS2023.pdf) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7283)   
+[[html]](https://slim.gatech.edu/Publications/Public/Conferences/CCUS/2023/herrmann2023CCUSdgs) [[pdf]](https://slim.gatech.edu/Publications/Public/Conferences/CCUS/2023/herrmann2023CCUSdgs/CCUS2023.pdf)      
 
 **The Next Step: Interoperable Domain-Specific Programming**    
 Felix J. Herrmann, Mathias Louboutin, Thomas J. Grady II, <ins>Ziyi Yin</ins>, and Rishi Khan      
 In: *SIAM Conference on Computational Science and Engineering 2023*, Feb 2023       
-[[abstract]](https://meetings.siam.org/sess/dsp_talk.cfm?p=125365) [[slides]](https://slim.gatech.edu/Publications/Public/Conferences/SIAMCSE/2023/herrmann2023SIAMCSEtns) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7268)       
+[[abstract]](https://meetings.siam.org/sess/dsp_talk.cfm?p=125365) [[slides]](https://slim.gatech.edu/Publications/Public/Conferences/SIAMCSE/2023/herrmann2023SIAMCSEtns)       
 
 ## 2022
 
@@ -153,7 +153,7 @@ In: *Rice Oil and Gas High Performance Computing Conference 2022*, Mar 2022
 **Seismic velocity inversion and uncertainty quantification using conditional normalizing flows**        
 Yuxiao Ren, Philipp A. Witte, Ali Siahkoohi, Mathias Louboutin, <ins>Ziyi Yin</ins>, and Felix J. Herrmann        
 In: *American Geophysical Union Annual Meeting 2021*, Dec 2021, session U12A-03       
-[[link]](https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/815883) [[pdf]](https://slim.gatech.edu/Publications/Public/Conferences/AGU/2021/ren2021AGUsvi/ren2021AGUsvi.pdf) [[slides]](https://slim.gatech.edu/Publications/Public/Conferences/AGU/2021/ren2021AGUsvi/ren2021AGUsvi_pres.pdf) [[video]](https://slim.gatech.edu/Publications/Public/Conferences/AGU/2021/ren2021AGUsvi/ren2021AGUsvi.mp4) [[software]](https://github.com/slimgroup/INN_Velocity-Migration) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7170)
+[[link]](https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/815883) [[pdf]](https://slim.gatech.edu/Publications/Public/Conferences/AGU/2021/ren2021AGUsvi/ren2021AGUsvi.pdf) [[slides]](https://slim.gatech.edu/Publications/Public/Conferences/AGU/2021/ren2021AGUsvi/ren2021AGUsvi_pres.pdf) [[video]](https://slim.gatech.edu/Publications/Public/Conferences/AGU/2021/ren2021AGUsvi/ren2021AGUsvi.mp4) [[software]](https://github.com/slimgroup/INN_Velocity-Migration)
 
 **Improved seismic monitoring of CO2 sequestration with the weighted joint recovery model**       
 <ins>Ziyi Yin</ins>, Mathias Louboutin, and Felix J. Herrmann       
@@ -163,7 +163,7 @@ In: *ML4Seismic Partners Meeting 2021*, Nov 2021
 **Low-cost time-lapse seismic imaging of CCS with the joint recovery model**        
 Felix J. Herrmann, Mathias Louboutin, <ins>Ziyi Yin</ins>, and Philipp A. Witte       
 In: *2021 IMAGE Workshop on Geophysical Challenges in Presalt Carbonates*, Oct 2021               
-[[link]](https://slim.gatech.edu/content/low-cost-time-lapse-seismic-imaging-ccs-joint-recovery-model) [[slides]](https://slim.gatech.edu/Publications/Public/Conferences/SEG/2021/herrmann2021SEGWSlts/herrmann2021SEGWSlts_pres.pdf) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7171)
+[[link]](https://slim.gatech.edu/content/low-cost-time-lapse-seismic-imaging-ccs-joint-recovery-model) [[slides]](https://slim.gatech.edu/Publications/Public/Conferences/SEG/2021/herrmann2021SEGWSlts/herrmann2021SEGWSlts_pres.pdf)
 
 **Low-cost & robust seismic monitoring of carbon storage and sequestration with the joint recovery model**          
 <ins>Ziyi Yin</ins>              
@@ -175,4 +175,4 @@ In: *Georgia Tech Geophysics Seminar*, Sep 2021
 **Sparsity promoting least-squares migration for long offset sparse OBN**        
 Mathias Louboutin, <ins>Ziyi Yin</ins>, Yijun Zhang, and Felix J. Herrmann       
 In: *2020 SEG Workshop on Promises and Challenges with Sparse Node Ultra-long Offset OBN Acquisition in Imaging and Earth Model Building*, Oct 2020          
-[[link]](https://slim.gatech.edu/content/sparsity-promoting-least-squares-migration-long-offset-sparse-obn) [[slides]](https://slim.gatech.edu/Publications/Public/Conferences/SEG/2020/louboutin2020SEGWSspl/louboutin2020SEGWSspl_pres.pdf) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7153)
+[[link]](https://slim.gatech.edu/content/sparsity-promoting-least-squares-migration-long-offset-sparse-obn) [[slides]](https://slim.gatech.edu/Publications/Public/Conferences/SEG/2020/louboutin2020SEGWSspl/louboutin2020SEGWSspl_pres.pdf)
