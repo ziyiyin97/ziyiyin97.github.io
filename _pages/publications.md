@@ -14,6 +14,7 @@ Below are papers with assigned DOIs. More "informal" presentations can be found 
 **Time-lapse full-waveform permeability inversion: a feasibility study**          
 <ins>Ziyi Yin</ins>, Mathias Louboutin, Olav Møyner, and Felix J. Herrmann      
 Preprint, Mar 2024    
+doi: [10.48550/arXiv.2403.04083](https://doi.org/10.48550/arXiv.2403.04083)     
 [[html]](https://slim.gatech.edu/Publications/Public/Submitted/2024/yin2024tfp/paper.html) [[pdf]](https://slim.gatech.edu/Publications/Public/Submitted/2024/yin2024tfp/paper.pdf) [[bibtex]](https://slim.gatech.edu/biblio/export/bibtex/7329)        
 
 ## 2023
