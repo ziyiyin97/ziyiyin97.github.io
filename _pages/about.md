@@ -26,11 +26,11 @@ Before coming to Georgia Tech, I graduated from [Emory University](http://www.em
 
 ### Recent News
 
+* Apr, 2024: [WISE](https://doi.org/10.48550/arXiv.2401.06230) was accepted for publication at Geophysics!
+
 * Mar, 2024: Check out my latest preprint, [Time-lapse full-waveform permeability inversion: a feasibility study](https://doi.org/10.48550/arXiv.2403.04083).
 
 * Mar, 2024: Check out [An Uncertainty-Aware Digital Twin for Geological Carbon Storage](https://slim.gatech.edu/Publications/Public/Conferences/SIAMUQ/2024/digital-twin), presented at SIAM UQ 2024.
-
-* Dec, 2023: Check out the [WISE framework](https://doi.org/10.48550/arXiv.2401.06230) for generative AI applications in seismic imaging and inversion.
 
 * Nov, 2023: I successfully defended my PhD thesis proposal and got promoted to a PhD candidate!
 
@@ -44,7 +44,7 @@ Before coming to Georgia Tech, I graduated from [Emory University](http://www.em
 
 * Apr, 2023: My IMAGE expanded abstract, [*Learned coupled inversion for carbon sequestration monitoring and forecasting with Fourier neural operators*](https://doi.org/10.1190/image2022-3722848.1), was selected as [2022 IMAGE's Student Oral Paper Honorable Mention](https://ziyiyin97.github.io/files/awards/2023/2022_IMAGE_Letter.pdf)!
 
-* Apr, 2023: [*Optimized time-lapse acquisition design via spectral gap ratio minimization*](https://slim.gatech.edu/Publications/Public/Submitted/2023/zhang2023otl/Spectral_Gap_Paper.html) was accepted for publication at GEOPHYSICS.
+* Apr, 2023: [*Optimized time-lapse acquisition design via spectral gap ratio minimization*](https://slim.gatech.edu/Publications/Public/Submitted/2023/zhang2023otl/Spectral_Gap_Paper.html) was accepted for publication at Geophysics.
 
 * Mar, 2023: Check our recent progress on CO2 monitoring, [*Coupled physics inversion for geological carbon storage monitoring*](https://slimgroup.github.io/IMAGE2023/yin2023IMAGEend2end/abstract.html).
 

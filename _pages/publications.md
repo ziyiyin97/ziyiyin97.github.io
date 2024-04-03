@@ -11,19 +11,40 @@ Below are papers with assigned DOIs. More "informal" presentations can be found 
 
 ## 2024
 
+**WISE: full-Waveform variational Inference via Subsurface Extensions**       
+<ins>Ziyi Yin</ins>\*, Rafael Orozco\*, Mathias Louboutin, and Felix J. Herrmann       
+Accepted in: *Geophysics*, Apr 2024    
+doi: [10.48550/arXiv.2401.06230](https://doi.org/10.48550/arXiv.2401.06230)     
+[[html]](https://slim.gatech.edu/Publications/Public/Journals/Geophysics/2024/yin2023wise/paper.html) [[pdf]](https://arxiv.org/pdf/2401.06230.pdf) [[slides]](https://slim.gatech.edu/Publications/Public/Lectures/GTseminar/2024/yin2024GTwise) [[software]](https://github.com/slimgroup/WISE.jl)        
+
 **Time-lapse full-waveform permeability inversion: a feasibility study**          
 <ins>Ziyi Yin</ins>, Mathias Louboutin, Olav Møyner, and Felix J. Herrmann      
 Preprint, Mar 2024    
 doi: [10.48550/arXiv.2403.04083](https://doi.org/10.48550/arXiv.2403.04083)     
 [[html]](https://slim.gatech.edu/Publications/Public/Submitted/2024/yin2024tfp/paper.html) [[pdf]](https://arxiv.org/pdf/2403.04083.pdf) [[software]](https://github.com/slimgroup/TL-FWPI.jl)        
 
-## 2023
+**A Digital Twin for Geological Carbon Storage with Controlled Injectivity**          
+<ins>Abhinav Prakash Gahlot</ins>\*, Haoyun Li\*, Ziyi Yin, Rafael Orozco, and Felix J. Herrmann       
+Preprint, Mar 2024    
+doi: [10.48550/arXiv.2403.19819](https://doi.org/10.48550/arXiv.2403.19819)     
+[[html]](https://slimgroup.github.io/IMAGE2024/GahlotLi2024SEG/paper.html) [[pdf]](https://arxiv.org/pdf/2403.19819.pdf)        
 
-**WISE: full-Waveform variational Inference via Subsurface Extensions**       
+**WISER: full-Waveform variational Inference via Subsurface Extensions with Refinements**          
 <ins>Ziyi Yin</ins>\*, Rafael Orozco\*, Mathias Louboutin, and Felix J. Herrmann       
-Preprint, Dec 2023    
-doi: [10.48550/arXiv.2401.06230](https://doi.org/10.48550/arXiv.2401.06230)     
-[[html]](https://slim.gatech.edu/Publications/Public/Submitted/2023/yin2023wise/paper.html) [[pdf]](https://arxiv.org/pdf/2401.06230.pdf) [[slides]](https://slim.gatech.edu/Publications/Public/Lectures/GTseminar/2024/yin2024GTwise) [[software]](https://github.com/slimgroup/WISE.jl)        
+Preprint, Mar 2024    
+[[html]](https://slimgroup.github.io/IMAGE2024/yin2024SEG/paper.html)        
+
+**Velocity Continuation for Common Image Gathers with Fourier Neural Operators**          
+Richard Rex, <ins>Ziyi Yin</ins>, and Felix J. Herrmann       
+Preprint, Mar 2024    
+[[html]](https://slimgroup.github.io/IMAGE2024/Rex2024SEG/paper.html)        
+
+**Enhancing Full-Waveform Variational Inference through Stochastic Resampling and Data Augmentation**          
+Yunlin Zeng, Rafael Orozco, <ins>Ziyi Yin</ins>, and Felix J. Herrmann       
+Preprint, Mar 2024    
+[[html]](https://slimgroup.github.io/IMAGE2024/Yunlin_Zeng2024SEG/paper.html)        
+
+## 2023
 
 **Inference of CO2 flow patterns -- a feasibility study**            
 Abhinav Prakash Gahlot, Huseyin Tuna Erdinc, Rafael Orozco, <ins>Ziyi Yin</ins>, and Felix J. Herrmann      
@@ -51,7 +72,7 @@ doi: [10.1190/tle42070474.1](https://doi.org/10.1190/tle42070474.1)
 
 **Optimized time-lapse acquisition design via spectral gap ratio minimization**    
 Yijun Zhang, <ins>Ziyi Yin</ins>, Oscar López, Ali Siahkoohi, Mathias Louboutin, Rajiv Kumar, and Felix J. Herrmann    
-In: *GEOPHYSICS*, Jul 2023            
+In: *Geophysics*, Jul 2023            
 doi: [10.1190/geo2023-0024.1](https://doi.org/10.1190/geo2023-0024.1)                
 [[html]](https://slim.gatech.edu/Publications/Public/Journals/Geophysics/2023/zhang2023otl/Spectral_Gap_Paper.html) [[pdf]](../files/publications/10.1190/geo2023-0024.1.pdf)       
 
