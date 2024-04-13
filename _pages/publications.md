@@ -13,8 +13,8 @@ Below are papers with assigned DOIs. More "informal" presentations can be found 
 
 **WISE: full-Waveform variational Inference via Subsurface Extensions**       
 <ins>Ziyi Yin</ins>\*, Rafael Orozco\*, Mathias Louboutin, and Felix J. Herrmann       
-Accepted in: *Geophysics*, Apr 2024    
-doi: [10.48550/arXiv.2401.06230](https://doi.org/10.48550/arXiv.2401.06230)     
+In: *Geophysics*, Apr 2024    
+doi: [10.1190/geo2023-0744.1](https://doi.org/10.1190/geo2023-0744.1)     
 [[html]](https://slim.gatech.edu/Publications/Public/Journals/Geophysics/2024/yin2023wise/paper.html) [[pdf]](https://arxiv.org/pdf/2401.06230.pdf) [[slides]](https://slim.gatech.edu/Publications/Public/Lectures/GTseminar/2024/yin2024GTwise) [[software]](https://github.com/slimgroup/WISE.jl)        
 
 **Time-lapse full-waveform permeability inversion: a feasibility study**          
