@@ -29,7 +29,7 @@ AAAI 2023 Fall symposium on Artificial Intelligence and Climate: The Role of AI 
 
 ### Session Chair
 
-International Meeting for Applied Geoscience and Energy 2023 – MLDA 5: Low Carbon Solution oral session
+International Meeting for Applied Geoscience and Energy 2023, 2024
 
 ### Journal Reviewer
 
