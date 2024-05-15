@@ -26,7 +26,7 @@ Before coming to Georgia Tech, I graduated from [Emory University](http://www.em
 
 ### Recent News
 
-* Apr, 2024: [WISER](https://doi.org/10.13140/RG.2.2.34906.15044) is out as a preprint!
+* May, 2024: [WISER](https://doi.org/10.13140/RG.2.2.34906.15044) is out as a preprint! At the same time, it is accepted for a poster presentation in August at [International Meeting for Applied Science and Energy](https://www.imageevent.org/).
 
 * Apr, 2024: [WISE](https://doi.org/10.1190/geo2023-0744.1) was accepted for publication at Geophysics!
 

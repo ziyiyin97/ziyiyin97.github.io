@@ -5,19 +5,44 @@ permalink: /presentations/
 author_profile: true
 ---
 
-Below are "informal" presentations. Papers with assigned DOIs can be found under [Publications](https://ziyiyin97.github.io/publications/).
+Below are conference or seminar presentations without proceedings / DOIs. Papers with assigned DOIs can be found under [Publications](https://ziyiyin97.github.io/publications/).
 
 ## 2024
+
+**WISER: full-Waveform variational Inference via Subsurface Extensions with Refinements**          
+<ins>Ziyi Yin</ins>\*, Rafael Orozco\*, Mathias Louboutin, and Felix J. Herrmann       
+In: *International Meeting for Applied Geoscience & Energy*, Aug 2024        
+[[html]](https://slimgroup.github.io/IMAGE2024/yin2024SEG/paper.html)         
+
+**A Digital Twin for Geological Carbon Storage with Controlled Injectivity**          
+<ins>Abhinav Prakash Gahlot</ins>\*, Haoyun Li\*, Ziyi Yin, Rafael Orozco, and Felix J. Herrmann       
+In: *International Meeting for Applied Geoscience & Energy*, Aug 2024        
+doi: [10.48550/arXiv.2403.19819](https://doi.org/10.48550/arXiv.2403.19819)     
+[[html]](https://slimgroup.github.io/IMAGE2024/GahlotLi2024SEG/paper.html) [[pdf]](https://arxiv.org/pdf/2403.19819.pdf)        
+
+**Enhancing Full-Waveform Variational Inference through Stochastic Resampling and Data Augmentation**          
+Yunlin Zeng, Rafael Orozco, <ins>Ziyi Yin</ins>, and Felix J. Herrmann       
+In: *International Meeting for Applied Geoscience & Energy*, Aug 2024        
+[[html]](https://slimgroup.github.io/IMAGE2024/Yunlin_Zeng2024SEG/paper.html)       
+
+**Velocity Continuation for Common Image Gathers with Fourier Neural Operators**          
+Richard Rex, <ins>Ziyi Yin</ins>, and Felix J. Herrmann       
+In: *International Meeting for Applied Geoscience & Energy*, Aug 2024        
+[[html]](https://slimgroup.github.io/IMAGE2024/Rex2024SEG/paper.html)     
+
+**Finite-difference wavefield propagation using superstepping**          
+Tamas Nemeth, Kurt Nihei, Alex Loddoch, Anusha Sekar, Ken Bube, John Washbourne, Luke Decker, Sam Kaplan, Chunling Wu, Andrey Shabelansky, Ovidiu Cristea, and <ins>Ziyi Yin</ins>        
+In: *International Meeting for Applied Geoscience & Energy*, Aug 2024        
+
+**DT4GCS –- Digital Twin for Geological CO2 Storage and Control**       
+Felix J. Herrmann, Abhinav Prakash Gahlot, Rafael Orozco, <ins>Ziyi Yin</ins>, and Haoyun Li              
+In: *Geophysical Research for Gigatonnes CO2 Storage workshop 2024*, Jul 2024    
+[[pdf]](https://slim.gatech.edu/Publications/Public/Submitted/2024/herrmann2024CSMdt/herrmann2024CSMdt.pdf)      
 
 **An Uncertainty-Aware Digital Twin for Geological Carbon Storage**       
 Abhinav Prakash Gahlot, Rafael Orozco, Haoyun Li, Grant Bruer, <ins>Ziyi Yin</ins>, Mathias Louboutin, and Felix J. Herrmann              
 In: *SIAM Conference on Uncertainty Quantification 2024*, March 2024    
-[[html]](https://slim.gatech.edu/Publications/Public/Conferences/SIAMUQ/2024/digital-twin)     
-
-**DT4GCS –- Digital Twin for Geological CO2 Storage and Control**       
-Felix J. Herrmann, Abhinav Prakash Gahlot, Rafael Orozco, <ins>Ziyi Yin</ins>, and Haoyun Li              
-Submitted to: *Geophysical Research for Gigatonnes CO2 Storage workshop 2024*, Feb 2024    
-[[pdf]](https://slim.gatech.edu/Publications/Public/Submitted/2024/herrmann2024CSMdt/herrmann2024CSMdt.pdf)       
+[[html]](https://slim.gatech.edu/Publications/Public/Conferences/SIAMUQ/2024/digital-twin)      
 
 **Digital Twins in the Era of Generative AI: Application to Geological CO2 Storage**       
 Abhinav Prakash Gahlot, Rafael Orozco, Haoyun Li, <ins>Ziyi Yin</ins>, and Felix J. Herrmann       
