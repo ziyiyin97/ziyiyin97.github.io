@@ -34,6 +34,7 @@ International Meeting for Applied Geoscience and Energy 2023, 2024
 ### Journal Reviewer
 
 - Acta Geophysica
+- Computers and Geosciences
 - Geophysics
 - Geophysical Prospecting
 - Geoscientific Model Development
