@@ -14,8 +14,8 @@ Below are papers with assigned DOIs. More "informal" presentations can be found 
 **WISER: multimodal variational inference for full-waveform inversion without dimensionality reduction**       
 <ins>Ziyi Yin</ins>, Rafael Orozco, and Felix J. Herrmann       
 Preprint, May 2024    
-doi: [10.13140/RG.2.2.34906.15044](https://doi.org/10.13140/RG.2.2.34906.15044)     
-[[html]](https://slim.gatech.edu/Publications/Public/Submitted/2024/yin2024wiser/WISER.html) [[pdf]](https://slim.gatech.edu/Publications/Public/Submitted/2024/yin2024wiser/WISER.pdf) [[software]](https://github.com/slimgroup/WISER.jl)        
+doi: [10.48550/arXiv.2405.10327](https://doi.org/10.48550/arXiv.2405.10327)     
+[[html]](https://slim.gatech.edu/Publications/Public/Submitted/2024/yin2024wiser/WISER.html) [[pdf]](https://arxiv.org/pdf/2405.10327) [[software]](https://github.com/slimgroup/WISER.jl)        
 
 **Time-lapse full-waveform permeability inversion: a feasibility study**          
 <ins>Ziyi Yin</ins>, Mathias Louboutin, Olav Møyner, and Felix J. Herrmann      
