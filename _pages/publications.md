@@ -19,9 +19,9 @@ doi: [10.48550/arXiv.2405.10327](https://doi.org/10.48550/arXiv.2405.10327)
 
 **Time-lapse full-waveform permeability inversion: a feasibility study**          
 <ins>Ziyi Yin</ins>, Mathias Louboutin, Olav Møyner, and Felix J. Herrmann      
-Under revision at: *The Leading Edge*, May 2024    
+Accepted for publication in: *The Leading Edge*, May 2024    
 doi: [10.48550/arXiv.2403.04083](https://doi.org/10.48550/arXiv.2403.04083)     
-[[html]](https://slim.gatech.edu/Publications/Public/Submitted/2024/yin2024tfp/paper.html) [[pdf]](https://arxiv.org/pdf/2403.04083.pdf) [[software]](https://github.com/slimgroup/TL-FWPI.jl)        
+[[html]](https://slim.gatech.edu/Publications/Public/Journals/TheLeadingEdge/2024/yin2024tfp/paper.html) [[pdf]](https://arxiv.org/pdf/2403.04083.pdf) [[software]](https://github.com/slimgroup/TL-FWPI.jl)        
 
 **WISE: full-Waveform variational Inference via Subsurface Extensions**       
 <ins>Ziyi Yin</ins>\*, Rafael Orozco\*, Mathias Louboutin, and Felix J. Herrmann       
