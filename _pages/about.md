@@ -26,11 +26,11 @@ Before coming to Georgia Tech, I graduated from [Emory University](http://www.em
 
 ### Recent News
 
-* May, 2024: [WISER](https://doi.org/10.48550/arXiv.2405.10327) is out as a preprint!
+* May, 2024: [WISER](https://doi.org/10.48550/arXiv.2405.10327) was out as a preprint!
+
+* May, 2024: [Time-lapse full-waveform permeability inversion: a feasibility study](https://doi.org/10.48550/arXiv.2403.04083) was accepted for publication in The Leading Edge!
 
 * Apr, 2024: [WISE](https://doi.org/10.1190/geo2023-0744.1) was accepted for publication at Geophysics!
-
-* Mar, 2024: Check out my latest preprint, [Time-lapse full-waveform permeability inversion: a feasibility study](https://doi.org/10.48550/arXiv.2403.04083).
 
 * Mar, 2024: Check out [An Uncertainty-Aware Digital Twin for Geological Carbon Storage](https://slim.gatech.edu/Publications/Public/Conferences/SIAMUQ/2024/digital-twin), presented at SIAM UQ 2024.
 

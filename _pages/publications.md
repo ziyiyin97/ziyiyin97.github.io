@@ -23,6 +23,11 @@ Accepted for publication in: *The Leading Edge*, May 2024
 doi: [10.48550/arXiv.2403.04083](https://doi.org/10.48550/arXiv.2403.04083)     
 [[html]](https://slim.gatech.edu/Publications/Public/Journals/TheLeadingEdge/2024/yin2024tfp/paper.html) [[pdf]](https://arxiv.org/pdf/2403.04083.pdf) [[software]](https://github.com/slimgroup/TL-FWPI.jl)        
 
+**Superstep wavefield propagation**       
+Tamas Nemeth, Kurt Nihei, Alex Loddoch, Anusha Sekar, Ken Bube, John Washbourne, Luke Decker, Sam Kaplan, Chunling Wu, Andrey Shabelansky, Milad Bader, Ovidiu Cristea, and <ins>Ziyi Yin</ins>        
+Preprint, May 2024    
+doi: [10.48550/arXiv.2406.05154](https://doi.org/10.48550/arXiv.2406.05154)     
+
 **WISE: full-Waveform variational Inference via Subsurface Extensions**       
 <ins>Ziyi Yin</ins>\*, Rafael Orozco\*, Mathias Louboutin, and Felix J. Herrmann       
 In: *Geophysics*, Apr 2024    
