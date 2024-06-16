@@ -35,6 +35,7 @@ International Meeting for Applied Geoscience and Energy 2023, 2024
 
 - Acta Geophysica
 - Computers and Geosciences
+- Earth Science Informatics
 - Geophysics
 - Geophysical Prospecting
 - Geoscientific Model Development
