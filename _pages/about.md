@@ -26,6 +26,8 @@ Before coming to Georgia Tech, I graduated from [Emory University](http://www.em
 
 ### Recent News
 
+* Jun, 2024: I successfully defended my PhD dissertation!
+
 * May, 2024: [WISER](https://doi.org/10.48550/arXiv.2405.10327) was out as a preprint!
 
 * May, 2024: [Time-lapse full-waveform permeability inversion: a feasibility study](https://doi.org/10.48550/arXiv.2403.04083) was accepted for publication in The Leading Edge!

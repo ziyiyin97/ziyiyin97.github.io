@@ -11,6 +11,12 @@ Below are papers with assigned DOIs. More "informal" presentations can be found 
 
 ## 2024
 
+**Solving geophysical inverse problems with scientific machine learning**       
+<ins>Ziyi Yin</ins>       
+PhD Dissertation, Jun 2024    
+doi: [10.48550/arXiv.2405.10327](https://doi.org/10.48550/arXiv.2405.10327)     
+[[slides]](https://slim.gatech.edu/Publications/Public/Thesis/2024/yin2024THsgi/yin2024THsgi_pres.pdf)        
+
 **WISER: multimodal variational inference for full-waveform inversion without dimensionality reduction**       
 <ins>Ziyi Yin</ins>, Rafael Orozco, and Felix J. Herrmann       
 Preprint, May 2024    
