@@ -39,6 +39,21 @@ Felix J. Herrmann, Abhinav Prakash Gahlot, Rafael Orozco, <ins>Ziyi Yin</ins>, a
 In: *Geophysical Research for Gigatonnes CO2 Storage workshop 2024*, Jul 2024    
 [[pdf]](https://slim.gatech.edu/Publications/Public/Submitted/2024/herrmann2024CSMdt/herrmann2024CSMdt.pdf)      
 
+**Digital Twins in the era of generative AI - Application to Geological CO2 Storage**    
+Abhinav Prakash Gahlot, Rafael Orozco, Haoyun Li, Huseyin Tuna Erdinc, <ins>Ziyi Yin</ins>, Mathias Louboutin, and Felix J. Herrmann      
+In: *Imperial College London Seminar*, Jun 2024        
+[[html]](https://slim.gatech.edu/Publications/Public/Conferences/ICL/2024/gahlot2024ICLdtg)         
+
+**Neural wave-based imaging with amortized uncertainty quantification**    
+Rafael Orozco, <ins>Ziyi Yin</ins>, Ali Siahkoohi, Mathias Louboutin, and Felix J. Herrmann
+In: *Imperial College London Seminar*, Jun 2024        
+[[html]](https://slim.gatech.edu/Publications/Public/Conferences/ICL/2024/orozco2024ICLnwi/)      
+
+**Neural wave-based imaging with amortized uncertainty quantification**    
+Rafael Orozco, <ins>Ziyi Yin</ins>, Ali Siahkoohi, Mathias Louboutin, and Felix J. Herrmann
+In: *Inverse Problems: Modelling and Simulation*, May 2024        
+[[html]](https://slim.gatech.edu/Publications/Public/Conferences/IPMS/2024/orozco2024IPMSnwi/)         
+
 **An Uncertainty-Aware Digital Twin for Geological Carbon Storage**       
 Abhinav Prakash Gahlot, Rafael Orozco, Haoyun Li, Grant Bruer, <ins>Ziyi Yin</ins>, Mathias Louboutin, and Felix J. Herrmann              
 In: *SIAM Conference on Uncertainty Quantification 2024*, March 2024    

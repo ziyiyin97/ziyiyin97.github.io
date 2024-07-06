@@ -9,9 +9,11 @@ redirect_from:
 
 ### About me
 
-I am a PhD candidate in [Computational Science and Engineering](https://cse.gatech.edu) at [Georgia Institute of Technology](https://www.gatech.edu), advised by [Prof. Felix J. Herrmann](https://cse.gatech.edu/people/felix-herrmann). I am a member of the SLIM ([Seismic Laboratory for Imaging and Modeling](https://slim.gatech.edu)) group.
+I will be joining the subsurface innovation lab at Occidental Petroleum Corporation as a geophysicist resident.
 
-A high-level summary of my research is ***high-dimensional Bayesian inference for computationally expensive parameter-to-observable maps***. Generally, my research interests include:
+I earned my PhD degree in [Computational Science and Engineering](https://cse.gatech.edu) at [Georgia Institute of Technology](https://www.gatech.edu) in 2024, advised by [Prof. Felix J. Herrmann](https://cse.gatech.edu/people/felix-herrmann). I earned my BSc degree in [Mathematics and Computer Science](https://www.math.emory.edu) at [Emory University](http://www.emory.edu/home/index.html) in 2019, advised by [Prof. James G. Nagy](http://www.math.emory.edu/~nagy/).
+
+A super high-level summary of my research is ***high-dimensional Bayesian inference for computationally expensive parameter-to-observable maps***. Generally, my research interests include:
 
 * scientific machine learning
 * large-scale inverse problems
@@ -22,11 +24,9 @@ A high-level summary of my research is ***high-dimensional Bayesian inference fo
 * simulation-based inference
 * and their application in geophysical inversion
 
-Before coming to Georgia Tech, I graduated from [Emory University](http://www.emory.edu/home/index.html) in 2019, with a *summa cum laude* Bachelor of Science degree in [Mathematics and Computer Science](https://www.math.emory.edu). I conducted research on regularization methods for image reconstruction from CT scans, advised by [Prof. James G. Nagy](http://www.math.emory.edu/~nagy/) and wrote my honors thesis, [Edge Detection and Enriched Subspaces](https://etd.library.emory.edu/concern/etds/7w62f916x).
-
 ### Recent News
 
-* Jun, 2024: I successfully defended my PhD dissertation!
+* Jun, 2024: I successfully defended my PhD dissertation! Check out the [slides](http://dx.doi.org/10.13140/RG.2.2.16561.39528).
 
 * May, 2024: [WISER](https://doi.org/10.48550/arXiv.2405.10327) was out as a preprint!
 
