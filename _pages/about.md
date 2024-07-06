@@ -9,7 +9,7 @@ redirect_from:
 
 ### About me
 
-I will be joining the subsurface innovation lab at Occidental Petroleum Corporation as a geophysicist resident.
+I will be joining the subsurface innovation lab at [Occidental Petroleum Corporation](https://www.oxy.com/) as a geophysicist resident.
 
 I earned my PhD degree in [Computational Science and Engineering](https://cse.gatech.edu) at [Georgia Institute of Technology](https://www.gatech.edu) in 2024, advised by [Prof. Felix J. Herrmann](https://cse.gatech.edu/people/felix-herrmann). I earned my BSc degree in [Mathematics and Computer Science](https://www.math.emory.edu) at [Emory University](http://www.emory.edu/home/index.html) in 2019, advised by [Prof. James G. Nagy](http://www.math.emory.edu/~nagy/).
 
