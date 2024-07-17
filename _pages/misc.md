@@ -23,6 +23,12 @@ author_profile: true
 
 ## Academic Service
 
+### Editorial Service
+
+Geosciences
+* Topical Advisory Panel Member
+* Guest Editor: Special Issue on Geophysical Inversion
+
 ### Program Committee
 
 AAAI 2023 Fall symposium on Artificial Intelligence and Climate: The Role of AI in a Climate-Smart Sustainable Future

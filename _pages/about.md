@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-### About me
+***Open Special Issue Call in Geosciences (MDPI Open-Access) on Geophysical Inversion***: https://www.mdpi.com/si/211103
 
 I will be joining the subsurface innovation lab at [Occidental Petroleum Corporation](https://www.oxy.com/) as a geophysicist resident.
 
