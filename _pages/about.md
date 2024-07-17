@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-***Open Special Issue Call in Geosciences (MDPI Open-Access) on Geophysical Inversion***: https://www.mdpi.com/si/211103
+
+## About me
 
 I will be joining the subsurface innovation lab at [Occidental Petroleum Corporation](https://www.oxy.com/) as a geophysicist resident.
 
@@ -23,6 +24,8 @@ A super high-level summary of my research is ***high-dimensional Bayesian infere
 * uncertainty quantification
 * simulation-based inference
 * and their application in geophysical inversion
+
+***Open Special Issue Call in Geosciences (MDPI Open-Access) on Geophysical Inversion***: [link](https://www.mdpi.com/si/211103)
 
 ### Recent News
 
