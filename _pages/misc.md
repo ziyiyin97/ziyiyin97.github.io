@@ -23,7 +23,7 @@ author_profile: true
 
 ## Academic Service
 
-### Editorial Service
+### Journal Editorial Service
 
 Geosciences
 * Topical Advisory Panel Member
@@ -43,6 +43,7 @@ International Meeting for Applied Geoscience and Energy 2023, 2024
 - Computers and Geosciences
 - Earth Sciences
 - Earth Science Informatics
+- Energies
 - Geophysics
 - Geophysical Prospecting
 - Geoscientific Model Development
@@ -53,7 +54,9 @@ International Meeting for Applied Geoscience and Energy 2023, 2024
 - Journal of Geophysical Research: Solid Earth
 - Journal of Open Research Software
 - Journal of Open Source Software
+- Mathematics
 - Pure and Applied Geophysics
+- Remote Sensing
 
 ### Conference Proceeding Reviewer
 

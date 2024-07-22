@@ -11,6 +11,11 @@ Below are papers with assigned DOIs. More "informal" presentations can be found 
 
 ## 2024
 
+**Superstep wavefield propagation**       
+Tamas Nemeth, Kurt Nihei, Alex Loddoch, Anusha Sekar, Ken Bube, John Washbourne, Luke Decker, Sam Kaplan, Chunling Wu, Andrey Shabelansky, Ovidiu Cristea, and <ins>Ziyi Yin</ins>        
+In: *4th International Meeting for Applied Geoscience & Energy Expanded Abstracts*, Jul 2024    
+[[pdf]](https://imageevent.aapg.org/portals/26/abstracts/2024/4091674.pdf)     
+
 **Solving geophysical inverse problems with scientific machine learning**       
 <ins>Ziyi Yin</ins>       
 PhD Dissertation, Jun 2024    
