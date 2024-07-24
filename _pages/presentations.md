@@ -30,14 +30,15 @@ Richard Rex, <ins>Ziyi Yin</ins>, and Felix J. Herrmann
 In: *International Meeting for Applied Geoscience & Energy*, Aug 2024        
 [[html]](https://slimgroup.github.io/IMAGE2024/Rex2024SEG/paper.html)     
 
-**Finite-difference wavefield propagation using superstepping**          
-Tamas Nemeth, Kurt Nihei, Alex Loddoch, Anusha Sekar, Ken Bube, John Washbourne, Luke Decker, Sam Kaplan, Chunling Wu, Andrey Shabelansky, Ovidiu Cristea, and <ins>Ziyi Yin</ins>        
-In: *International Meeting for Applied Geoscience & Energy*, Aug 2024        
+**Coupled Permeability Inversion from Time-Lapse Seismic Data**       
+<ins>Ziyi Yin</ins>, Mathias Louboutin, Olav Møyner, and Felix J. Herrmann              
+In: *Geophysical Research for Gigatonnes CO2 Storage workshop 2024*, Jul 2024       
+[[html]](https://slim.gatech.edu/Publications/Public/Conferences/MINESGIGACO2/2024/yin2024MINESGIGACO2cpi)      
 
 **DT4GCS –- Digital Twin for Geological CO2 Storage and Control**       
-Felix J. Herrmann, Abhinav Prakash Gahlot, Rafael Orozco, <ins>Ziyi Yin</ins>, and Haoyun Li              
-In: *Geophysical Research for Gigatonnes CO2 Storage workshop 2024*, Jul 2024    
-[[pdf]](https://slim.gatech.edu/Publications/Public/Submitted/2024/herrmann2024CSMdt/herrmann2024CSMdt.pdf)      
+Abhinav Prakash Gahlot, Rafael Orozco, Haoyun Li, Huseyin Tuna Erdinc, <ins>Ziyi Yin</ins>, Mathias Louboutin, and Felix J. Herrmann              
+In: *Geophysical Research for Gigatonnes CO2 Storage workshop 2024*, Jul 2024        
+[[html]](https://slim.gatech.edu/Publications/Public/Conferences/MINESGIGACO2/2024/gahlot2024MINESGIGACO2dtg/)      
 
 **Digital Twins in the era of generative AI - Application to Geological CO2 Storage**    
 Abhinav Prakash Gahlot, Rafael Orozco, Haoyun Li, Huseyin Tuna Erdinc, <ins>Ziyi Yin</ins>, Mathias Louboutin, and Felix J. Herrmann      
