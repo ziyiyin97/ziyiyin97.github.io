@@ -140,5 +140,5 @@ In: *SEG Technical Program Expanded Abstracts 2020*
 [**Edge Detection and Enriched Subspaces**](https://etd.library.emory.edu/concern/etds/7w62f916x?locale=en)    
 <ins>Ziyi Yin</ins>    
 BSc Honors Thesis at Emory University            
-![][thesis-img] ![](https://img.shields.io/badge/May%202019-black)
+![][thesis-img] ![](https://img.shields.io/badge/May%202019-black)          
 [[link]](https://etd.library.emory.edu/concern/etds/7w62f916x?locale=en)
