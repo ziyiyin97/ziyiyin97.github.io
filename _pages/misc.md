@@ -21,9 +21,9 @@ author_profile: true
 
 * [Dean's List](http://catalog.college.emory.edu/academic/awards-honors/index.php), Emory University, *Aug 2017 - May 2019*
 
-## Academic Service
+## Professional Service
 
-### Journal Editorial Service
+### Editorial Service
 
 Geosciences
 * Topical Advisory Panel Member
@@ -40,6 +40,7 @@ International Meeting for Applied Geoscience and Energy 2023, 2024
 ### Journal Reviewer
 
 - Acta Geophysica
+- Applied Sciences
 - Computers and Geosciences
 - Earth Sciences
 - Earth Science Informatics
