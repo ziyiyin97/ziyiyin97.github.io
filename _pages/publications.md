@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Below are papers with assigned DOIs. More "informal" presentations can be found under [Presentations](https://ziyiyin97.github.io/presentations/). You can also find my publications on [my Google Scholar profile](https://scholar.google.com/citations?user=ji9kwj8AAAAJ&hl=en).
+Below are dissertations, journal articles and peer-reviewed conference proceedings with assigned DOIs. More "informal" presentations can be found under [Presentations](https://ziyiyin97.github.io/presentations/). You can also find my publications on [my Google Scholar profile](https://scholar.google.com/citations?user=ji9kwj8AAAAJ&hl=en).
 
 \* denotes equal contribution.
 
@@ -16,13 +16,20 @@ Below are papers with assigned DOIs. More "informal" presentations can be found 
 
 ## 2024
 
+[**Time-lapse full-waveform permeability inversion: A feasibility study**](https://doi.org/10.1190/tle43080544.1)          
+**Ziyi Yin**, Mathias Louboutin, Olav Møyner, and Felix J. Herrmann      
+In: *The Leading Edge*     
+![][journal-img] ![](https://img.shields.io/badge/Aug%202024-black) [![](https://img.shields.io/badge/DOI-10.1190/tle43080544.1-blue)](https://doi.org/10.1190/tle43080544.1)   
+[[html]](https://slim.gatech.edu/Publications/Public/Journals/TheLeadingEdge/2024/yin2024tfp/paper.html) [[pdf]](../files/publications/10.1190/tle43080544.1.pdf) [[software]](https://github.com/slimgroup/TL-FWPI.jl)        
+
+
 [**Finite-difference wavefield propagation using superstepping**](https://imageevent.aapg.org/portals/26/abstracts/2024/4091674.pdf)       
 Tamas Nemeth, Kurt Nihei, Alex Loddoch, Anusha Sekar, Ken Bube, John Washbourne, Luke Decker, Sam Kaplan, Chunling Wu, Andrey Shabelansky, Ovidiu Cristea, and **Ziyi Yin**        
 In: *4th International Meeting for Applied Geoscience & Energy Expanded Abstracts*       
 ![][conference-img] ![](https://img.shields.io/badge/Aug%202024-black)        
 [[pdf]](https://imageevent.aapg.org/portals/26/abstracts/2024/4091674.pdf)     
 
-[**WISE: full-Waveform variational Inference via Subsurface Extensions**](https://doi.org/10.1190/geo2023-0744.1)       
+[**WISE: Full-waveform variational inference via subsurface extensions**](https://doi.org/10.1190/geo2023-0744.1)       
 **Ziyi Yin**\*, Rafael Orozco\*, Mathias Louboutin, and Felix J. Herrmann       
 In: *Geophysics*    
 ![][journal-img] ![](https://img.shields.io/badge/Jul%202024-black) [![](https://img.shields.io/badge/DOI-10.1190/geo2023--0744.1-blue)](https://doi.org/10.1190/geo2023-0744.1)     
@@ -43,12 +50,6 @@ Tamas Nemeth, Kurt Nihei, Alex Loddoch, Anusha Sekar, Ken Bube, John Washbourne,
 ![][preprint-img] ![](https://img.shields.io/badge/May%202024-black) [![](https://img.shields.io/badge/DOI-10.48550/arXiv.2405.10327-blue)](https://doi.org/10.48550/arXiv.2405.10327)        
 [[html]](https://slim.gatech.edu/Publications/Public/Submitted/2024/yin2024wiser/WISER.html) [[pdf]](https://arxiv.org/pdf/2405.10327) [[software]](https://github.com/slimgroup/WISER.jl)        
 
-[**Time-lapse full-waveform permeability inversion: a feasibility study**](https://doi.org/10.48550/arXiv.2403.04083)          
-**Ziyi Yin**, Mathias Louboutin, Olav Møyner, and Felix J. Herrmann      
-Accepted for publication in: *The Leading Edge*     
-![][journal-img] ![](https://img.shields.io/badge/May%202024-black) [![](https://img.shields.io/badge/DOI-10.48550/arXiv.2403.04083-blue)](https://doi.org/10.48550/arXiv.2403.04083)   
-[[html]](https://slim.gatech.edu/Publications/Public/Journals/TheLeadingEdge/2024/yin2024tfp/paper.html) [[pdf]](https://arxiv.org/pdf/2403.04083.pdf) [[software]](https://github.com/slimgroup/TL-FWPI.jl)        
-
 ## 2023
 
 [**Inference of CO2 flow patterns -- a feasibility study**](https://doi.org/10.48550/arXiv.2311.00290)            
@@ -65,7 +66,7 @@ In: *International Meeting for Applied Geoscience & Energy Expanded Abstracts*
 
 [**Solving multiphysics-based inverse problems with learned surrogates and constraints**](https://doi.org/10.1186/s40323-023-00252-0)    
 **Ziyi Yin**, Rafael Orozco, Mathias Louboutin, and Felix J. Herrmann      
-In: *Advanced Modeling and Simulation in Engineering Sciences*, Oct 2023         
+In: *Advanced Modeling and Simulation in Engineering Sciences*         
 ![][journal-img] ![](https://img.shields.io/badge/Oct%202023-black) [![](https://img.shields.io/badge/DOI-10.1186/s40323--023--00252--0-blue)](https://doi.org/10.1186/s40323-023-00252-0)         
 [[html]](https://amses-journal.springeropen.com/articles/10.1186/s40323-023-00252-0) [[pdf]](https://amses-journal.springeropen.com/counter/pdf/10.1186/s40323-023-00252-0.pdf) [[software]](https://github.com/slimgroup/FNO-NF.jl)               
 

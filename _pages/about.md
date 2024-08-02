@@ -19,7 +19,7 @@ A super high-level summary of my research is ***high-dimensional Bayesian infere
 * scientific machine learning
 * large-scale inverse problems
 * high-performance computing
-* PDE-constrained optimization
+* computational imaging
 * numerical modeling and simulation
 * uncertainty quantification
 * simulation-based inference
@@ -29,11 +29,11 @@ A super high-level summary of my research is ***high-dimensional Bayesian infere
 
 ### Recent News
 
+* Aug, 2024: [Time-lapse full-waveform permeability inversion: a feasibility study](https://doi.org/10.1190/tle43080544.1) was published in The Leading Edge!
+
 * Jun, 2024: I successfully defended my PhD dissertation! Check out the [slides](http://dx.doi.org/10.13140/RG.2.2.16561.39528).
 
 * May, 2024: [WISER](https://doi.org/10.48550/arXiv.2405.10327) was out as a preprint!
-
-* May, 2024: [Time-lapse full-waveform permeability inversion: a feasibility study](https://doi.org/10.48550/arXiv.2403.04083) was accepted for publication in The Leading Edge!
 
 * Apr, 2024: [WISE](https://doi.org/10.1190/geo2023-0744.1) was accepted for publication at Geophysics!
 
