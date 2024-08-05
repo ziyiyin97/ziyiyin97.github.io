@@ -80,7 +80,7 @@ In: *Computers & Geosciences*
 Mathias Louboutin\*, **Ziyi Yin**\*, Rafael Orozco, Thomas J. Grady II, Ali Siahkoohi, Gabrio Rizzuti, Philipp A. Witte, Olav Møyner, Gerard J. Gorman, and Felix J. Herrmann    
 In: *The Leading Edge*             
 ![][journal-img] ![](https://img.shields.io/badge/Jul%202023-black) [![](https://img.shields.io/badge/DOI-10.1190/tle42070474.1-blue)](https://doi.org/10.1190/tle42070474.1)             
-[[html]](https://library.seg.org/doi/epub/10.1190/tle42070474.1) [[pdf]](https://library.seg.org/doi/epub/10.1190/tle42070474.1) [[media1]](https://seg.org/podcasts/episode-194-improving-integration-in-machine-learning-workflows) [[media2]](https://open.spotify.com/episode/0lzxirrfnaX6cywTYopmzc?si=lh5Mgl7mSSiGYeVfn7ZBgA&nd=1&dlsi=b0d9fe8f06ab471d) [[media3]](https://www.instagram.com/reel/CvpuCMGLVnW/?igsh=NzBmMjdhZWRiYQ==)       
+[[html]](https://library.seg.org/doi/epub/10.1190/tle42070474.1) [[pdf]](https://library.seg.org/doi/epub/10.1190/tle42070474.1) [[media1]](https://doi.org/10.1190/seismic-soundoff-episode194) [[media2]](https://open.spotify.com/episode/0lzxirrfnaX6cywTYopmzc?si=lh5Mgl7mSSiGYeVfn7ZBgA&nd=1&dlsi=b0d9fe8f06ab471d) [[media3]](https://www.instagram.com/reel/CvpuCMGLVnW/?igsh=NzBmMjdhZWRiYQ==)       
 
 [**Optimized time-lapse acquisition design via spectral gap ratio minimization**](https://doi.org/10.1190/geo2023-0024.1)    
 Yijun Zhang, **Ziyi Yin**, Oscar López, Ali Siahkoohi, Mathias Louboutin, Rajiv Kumar, and Felix J. Herrmann    
