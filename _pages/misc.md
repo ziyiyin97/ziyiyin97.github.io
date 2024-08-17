@@ -58,12 +58,14 @@ International Meeting for Applied Geoscience and Energy 2023, 2024
 - Mathematics
 - Pure and Applied Geophysics
 - Remote Sensing
+- Sustainability
 
 ### Conference Proceeding Reviewer
 
 - AAAI 2023 Fall symposium on Artificial Intelligence and Climate: The Role of AI in a Climate-Smart Sustainable Future
 - ICLR 2024 workshop on AI4DifferentialEquations
 - International Meeting for Applied Geoscience and Energy 2023, 2024
+- Neurips 2024 workshop on Data-driven and Differentiable Simulations, Surrogates, and Solvers
 - SciMLCon 2022
 - 58th US Rock Mechanics / Geomechanics Symposium
 
