@@ -49,6 +49,7 @@ International Meeting for Applied Geoscience and Energy 2023, 2024
 - Geophysical Prospecting
 - Geoscientific Model Development
 - IEEE Transactions on Geoscience and Remote Sensing
+- Interpretation
 - Journal of Applied Geophysics
 - Journal of Geophysics and Engineering
 - Journal of Geophysical Research: Machine Learning and Computation

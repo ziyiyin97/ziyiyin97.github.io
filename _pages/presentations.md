@@ -12,7 +12,7 @@ Below are conference or seminar presentations without proceedings / DOIs. Papers
 **WISER: full-Waveform variational Inference via Subsurface Extensions with Refinements**          
 <ins>Ziyi Yin</ins>\*, Rafael Orozco\*, Mathias Louboutin, and Felix J. Herrmann       
 In: *International Meeting for Applied Geoscience & Energy*, Aug 2024        
-[[html]](https://slimgroup.github.io/IMAGE2024/yin2024SEG/paper.html)         
+[[html]](https://slimgroup.github.io/IMAGE2024/yin2024SEG/paper.html)            
 
 **A Digital Twin for Geological Carbon Storage with Controlled Injectivity**          
 <ins>Abhinav Prakash Gahlot</ins>\*, Haoyun Li\*, Ziyi Yin, Rafael Orozco, and Felix J. Herrmann       
