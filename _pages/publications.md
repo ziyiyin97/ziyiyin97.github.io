@@ -35,11 +35,11 @@ In: *Geophysics*
 ![][journal-img] ![](https://img.shields.io/badge/Jul%202024-black) [![](https://img.shields.io/badge/DOI-10.1190/geo2023--0744.1-blue)](https://doi.org/10.1190/geo2023-0744.1)     
 [[html]](https://slim.gatech.edu/Publications/Public/Journals/Geophysics/2024/yin2023wise/paper.html) [[pdf]](../files/publications/10.1190/geo2023-0744.1.pdf) [[slides]](https://slim.gatech.edu/Publications/Public/Lectures/GTseminar/2024/yin2024GTwise) [[software]](https://github.com/slimgroup/WISE.jl)           
 
-[**Solving geophysical inverse problems with scientific machine learning**](https://doi.org/10.13140/RG.2.2.10102.82246)       
+[**Solving geophysical inverse problems with scientific machine learning**](https://hdl.handle.net/1853/75649)       
 **Ziyi Yin**       
 PhD Dissertation at Georgia Institute of Technology            
 ![][thesis-img] ![](https://img.shields.io/badge/Jun%202024-black) [![](https://img.shields.io/badge/DOI-10.13140/RG.2.2.10102.82246-blue)](https://doi.org/10.13140/RG.2.2.10102.82246)        
-[[pdf]](http://dx.doi.org/10.13140/RG.2.2.10102.82246) [[slides]](http://dx.doi.org/10.13140/RG.2.2.16561.39528)        
+[[pdf]](https://hdl.handle.net/1853/75649) [[slides]](http://dx.doi.org/10.13140/RG.2.2.16561.39528)        
 
 [**Superstep wavefield propagation**](https://doi.org/10.48550/arXiv.2406.05154)       
 Tamas Nemeth, Kurt Nihei, Alex Loddoch, Anusha Sekar, Ken Bube, John Washbourne, Luke Decker, Sam Kaplan, Chunling Wu, Andrey Shabelansky, Milad Bader, Ovidiu Cristea, and **Ziyi Yin**            
@@ -138,8 +138,8 @@ In: *SEG Technical Program Expanded Abstracts 2020*
 
 ## 2019
 
-[**Edge Detection and Enriched Subspaces**](https://etd.library.emory.edu/concern/etds/7w62f916x?locale=en)    
+[**Edge Detection and Enriched Subspaces**](https://etd.library.emory.edu/concern/etds/7w62f916x)    
 **Ziyi Yin**    
 BSc Honors Thesis at Emory University            
 ![][thesis-img] ![](https://img.shields.io/badge/May%202019-black)          
-[[link]](https://etd.library.emory.edu/concern/etds/7w62f916x?locale=en)
+[[link]](https://etd.library.emory.edu/concern/etds/7w62f916x)
