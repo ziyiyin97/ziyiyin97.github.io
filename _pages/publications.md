@@ -29,17 +29,17 @@ In: *4th International Meeting for Applied Geoscience & Energy Expanded Abstract
 ![][conference-img] ![](https://img.shields.io/badge/Aug%202024-black)        
 [[pdf]](https://imageevent.aapg.org/portals/26/abstracts/2024/4091674.pdf)     
 
-[**WISE: Full-waveform variational inference via subsurface extensions**](https://doi.org/10.1190/geo2023-0744.1)       
-**Ziyi Yin**\*, Rafael Orozco\*, Mathias Louboutin, and Felix J. Herrmann       
-In: *Geophysics*    
-![][journal-img] ![](https://img.shields.io/badge/Jul%202024-black) [![](https://img.shields.io/badge/DOI-10.1190/geo2023--0744.1-blue)](https://doi.org/10.1190/geo2023-0744.1)     
-[[html]](https://slim.gatech.edu/Publications/Public/Journals/Geophysics/2024/yin2023wise/paper.html) [[pdf]](../files/publications/10.1190/geo2023-0744.1.pdf) [[slides]](https://slim.gatech.edu/Publications/Public/Lectures/GTseminar/2024/yin2024GTwise) [[software]](https://github.com/slimgroup/WISE.jl)           
-
 [**Solving geophysical inverse problems with scientific machine learning**](https://hdl.handle.net/1853/75649)       
 **Ziyi Yin**       
 PhD Dissertation at Georgia Institute of Technology            
-![][thesis-img] ![](https://img.shields.io/badge/Jun%202024-black) [![](https://img.shields.io/badge/DOI-10.13140/RG.2.2.10102.82246-blue)](https://doi.org/10.13140/RG.2.2.10102.82246)        
+![][thesis-img] ![](https://img.shields.io/badge/Aug%202024-black) [![](https://img.shields.io/badge/DOI-10.13140/RG.2.2.10102.82246-blue)](https://doi.org/10.13140/RG.2.2.10102.82246)        
 [[pdf]](https://hdl.handle.net/1853/75649) [[slides]](http://dx.doi.org/10.13140/RG.2.2.16561.39528)        
+
+[**WISE: Full-waveform variational inference via subsurface extensions**](https://doi.org/10.1190/geo2023-0744.1)       
+**Ziyi Yin**\*, Rafael Orozco\*, Mathias Louboutin, and Felix J. Herrmann       
+In: *Geophysics* [<span style="color:red">(Featured in Geophysics Bright Spot in The Leading Edge)</span>](https://library.seg.org/doi/10.1190/tle43090632.1)    
+![][journal-img] ![](https://img.shields.io/badge/Jul%202024-black) [![](https://img.shields.io/badge/DOI-10.1190/geo2023--0744.1-blue)](https://doi.org/10.1190/geo2023-0744.1)     
+[[html]](https://slim.gatech.edu/Publications/Public/Journals/Geophysics/2024/yin2023wise/paper.html) [[pdf]](../files/publications/10.1190/geo2023-0744.1.pdf) [[slides]](https://slim.gatech.edu/Publications/Public/Lectures/GTseminar/2024/yin2024GTwise) [[media]](https://library.seg.org/doi/10.1190/tle43090632.1) [[software]](https://github.com/slimgroup/WISE.jl)           
 
 [**Superstep wavefield propagation**](https://doi.org/10.48550/arXiv.2406.05154)       
 Tamas Nemeth, Kurt Nihei, Alex Loddoch, Anusha Sekar, Ken Bube, John Washbourne, Luke Decker, Sam Kaplan, Chunling Wu, Andrey Shabelansky, Milad Bader, Ovidiu Cristea, and **Ziyi Yin**            
