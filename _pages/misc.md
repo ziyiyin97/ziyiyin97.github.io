@@ -54,6 +54,7 @@ International Meeting for Applied Geoscience and Energy 2023, 2024
 - Journal of Geophysics and Engineering
 - Journal of Geophysical Research: Machine Learning and Computation
 - Journal of Geophysical Research: Solid Earth
+- Journal of Mathematics and Statistics
 - Journal of Open Research Software
 - Journal of Open Source Software
 - Mathematics
