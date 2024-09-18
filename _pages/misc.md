@@ -44,6 +44,7 @@ International Meeting for Applied Geoscience and Energy 2023, 2024
 - Computers and Geosciences
 - Earth Sciences
 - Earth Science Informatics
+- Electronics
 - Energies
 - Geophysics
 - Geophysical Prospecting
