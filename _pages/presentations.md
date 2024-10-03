@@ -11,6 +11,11 @@ Below are conference or seminar presentations without proceedings / DOIs. Papers
 
 ## 2024
 
+**Bayesian inference of airborne electromagnetic data based on normalizing flows**          
+Jiajia Sun, Sihong Wu, <ins>Ziyi Yin</ins>, and Jiefu Chen       
+In: *American Geophysical Union Annual Meeting*, Dec 2024        
+[[html]](https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1712892)      
+
 **WISER: full-Waveform variational Inference via Subsurface Extensions with Refinements**          
 <ins>Ziyi Yin</ins>\*, Rafael Orozco\*, Mathias Louboutin, and Felix J. Herrmann       
 In: *International Meeting for Applied Geoscience & Energy*, Aug 2024        
