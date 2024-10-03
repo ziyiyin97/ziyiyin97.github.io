@@ -61,6 +61,7 @@ International Meeting for Applied Geoscience and Energy 2023, 2024
 - Mathematics
 - Pure and Applied Geophysics
 - Remote Sensing
+- Scientific Reports
 - Sustainability
 
 ### Conference Proceeding Reviewer

@@ -16,12 +16,16 @@ Below are dissertations, journal articles, and peer-reviewed conference proceedi
 
 ## 2024
 
+[**An uncertainty-aware Digital Shadow for underground multimodal CO2 storage monitoring**](https://doi.org/10.48550/arXiv.2410.01218)       
+Abhinav Prakash Gahlot, Rafael Orozco, **Ziyi Yin**, and Felix J. Herrmann       
+![][preprint-img] ![](https://img.shields.io/badge/Oct%202024-black) [![](https://img.shields.io/badge/DOI-10.48550/arXiv.2410.01218-blue)](https://doi.org/10.48550/arXiv.2410.01218)        
+[[html]](https://slim.gatech.edu/Publications/Public/Submitted/2024/gahlot2024uads/paper.html) [[pdf]](https://arxiv.org/pdf/2410.01218)           
+
 [**Time-lapse full-waveform permeability inversion: A feasibility study**](https://doi.org/10.1190/tle43080544.1)          
 **Ziyi Yin**, Mathias Louboutin, Olav Møyner, and Felix J. Herrmann      
 In: *The Leading Edge*     
 ![][journal-img] ![](https://img.shields.io/badge/Aug%202024-black) [![](https://img.shields.io/badge/DOI-10.1190/tle43080544.1-blue)](https://doi.org/10.1190/tle43080544.1)   
 [[html]](https://slim.gatech.edu/Publications/Public/Journals/TheLeadingEdge/2024/yin2024tfp/paper.html) [[pdf]](../files/publications/10.1190/tle43080544.1.pdf) [[software]](https://github.com/slimgroup/TL-FWPI.jl)        
-
 
 [**Finite-difference wavefield propagation using superstepping**](https://imageevent.aapg.org/portals/26/abstracts/2024/4091674.pdf)       
 Tamas Nemeth, Kurt Nihei, Alex Loddoch, Anusha Sekar, Ken Bube, John Washbourne, Luke Decker, Sam Kaplan, Chunling Wu, Andrey Shabelansky, Ovidiu Cristea, and **Ziyi Yin**        
