@@ -11,6 +11,11 @@ Below are conference or seminar presentations without proceedings / DOIs. Papers
 
 ## 2024
 
+**Digital Twins in the Era of Generative AI: Application to Geological CO2 Storage**       
+Abhinav Prakash Gahlot, Rafael Orozco, Haoyun Li, Huseyin Tuna Erdinc, <ins>Ziyi Yin</ins>, Mathias Louboutin, and Felix J. Herrmann       
+In: *ICON Seminar in IoT*, Oct 2024    
+[[slides]](https://slim.gatech.edu/Publications/Public/Conferences/PURDUEicon/2024/herrmann2024PURDUEicon) [[recording]](https://www.youtube.com/watch?v=GQT9CLA-DlU)       
+
 **Bayesian inference of airborne electromagnetic data based on normalizing flows**          
 Jiajia Sun, Sihong Wu, <ins>Ziyi Yin</ins>, and Jiefu Chen       
 In: *American Geophysical Union Annual Meeting*, Dec 2024        
