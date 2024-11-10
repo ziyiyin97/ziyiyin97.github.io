@@ -82,7 +82,7 @@ In: *Computers & Geosciences*
 
 [**Learned multiphysics inversion with differentiable programming and machine learning**](https://doi.org/10.1190/tle42070474.1)      
 Mathias Louboutin\*, **Ziyi Yin**\*, Rafael Orozco, Thomas J. Grady II, Ali Siahkoohi, Gabrio Rizzuti, Philipp A. Witte, Olav Møyner, Gerard J. Gorman, and Felix J. Herrmann    
-In: *The Leading Edge*             
+In: *The Leading Edge* <span style="color:red">(Journal's most downloaded paper in 2023)</span>             
 ![][journal-img] ![](https://img.shields.io/badge/Jul%202023-black) [![](https://img.shields.io/badge/DOI-10.1190/tle42070474.1-blue)](https://doi.org/10.1190/tle42070474.1)             
 [[html]](https://library.seg.org/doi/epub/10.1190/tle42070474.1) [[pdf]](https://library.seg.org/doi/epub/10.1190/tle42070474.1) [[media1]](https://doi.org/10.1190/seismic-soundoff-episode194) [[media2]](https://open.spotify.com/episode/0lzxirrfnaX6cywTYopmzc?si=lh5Mgl7mSSiGYeVfn7ZBgA&nd=1&dlsi=b0d9fe8f06ab471d) [[media3]](https://www.instagram.com/reel/CvpuCMGLVnW/?igsh=NzBmMjdhZWRiYQ==)       
 
