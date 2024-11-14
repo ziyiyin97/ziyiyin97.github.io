@@ -29,6 +29,8 @@ A super high-level summary of my research is ***high-dimensional Bayesian infere
 
 ### Recent News
 
+* Oct, 2024: Check out [digital shadow for geological carbon storage monitoring](https://doi.org/10.48550/arXiv.2410.01218), available as a preprint on arXiv.
+
 * Sep, 2024: [WISE](https://doi.org/10.1190/geo2023-0744.1) was featured in [Geophysics Bright Spot](https://library.seg.org/doi/10.1190/tle43090632.1) in The Leading Edge.
 
 * Aug, 2024: I joined Oxy as a research geophysicist!
