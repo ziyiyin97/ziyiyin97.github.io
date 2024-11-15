@@ -134,7 +134,7 @@ In: *First International Meeting for Applied Geoscience & Energy Expanded Abstra
 
 ## 2020
 
-[**Extended source imaging -- a unifying framework for seismic & medical imaging**](https://doi.org/10.1190/segam2020-3426999.1)         
+[**Extended source imaging – A unifying framework for seismic and medical imaging**](https://doi.org/10.1190/segam2020-3426999.1)         
 **Ziyi Yin**, Rafael Orozco, Philipp A. Witte, Mathias Louboutin, Gabrio Rizzuti, and Felix J. Herrmann       
 In: *SEG Technical Program Expanded Abstracts 2020*      
 ![][conference-img] ![](https://img.shields.io/badge/Sep%202020-black) [![](https://img.shields.io/badge/DOI-10.1190/segam2020--3426999.1-blue)](https://doi.org/10.1190/segam2020-3426999.1)       
