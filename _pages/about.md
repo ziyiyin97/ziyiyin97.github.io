@@ -29,6 +29,8 @@ A super high-level summary of my research is ***high-dimensional Bayesian infere
 
 ### Recent News
 
+* Nov, 2024: [WISER](https://doi.org/10.48550/arXiv.2405.10327) was accepted for publication in Geophysics!
+
 * Oct, 2024: Check out [digital shadow for geological carbon storage monitoring](https://doi.org/10.48550/arXiv.2410.01218), available as a preprint on arXiv.
 
 * Sep, 2024: [WISE](https://doi.org/10.1190/geo2023-0744.1) was featured in [Geophysics Bright Spot](https://library.seg.org/doi/10.1190/tle43090632.1) in The Leading Edge.
@@ -38,8 +40,6 @@ A super high-level summary of my research is ***high-dimensional Bayesian infere
 * Aug, 2024: [Time-lapse full-waveform permeability inversion: a feasibility study](https://doi.org/10.1190/tle43080544.1) was published in The Leading Edge!
 
 * Jun, 2024: I successfully defended my PhD dissertation! Check out the [slides](http://dx.doi.org/10.13140/RG.2.2.16561.39528).
-
-* May, 2024: [WISER](https://doi.org/10.48550/arXiv.2405.10327) was out as a preprint!
 
 * Apr, 2024: [WISE](https://doi.org/10.1190/geo2023-0744.1) was published in Geophysics!
 

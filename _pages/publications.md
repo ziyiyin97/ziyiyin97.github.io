@@ -16,6 +16,12 @@ Below are dissertations, journal articles, and peer-reviewed conference proceedi
 
 ## 2024
 
+[**WISER: multimodal variational inference for full-waveform inversion without dimensionality reduction**](https://doi.org/10.48550/arXiv.2405.10327)       
+**Ziyi Yin**, Rafael Orozco, and Felix J. Herrmann       
+Accepted for publication in: *Geophysics*     
+![][journal-img] ![](https://img.shields.io/badge/Nov%202024-black) [![](https://img.shields.io/badge/DOI-10.48550/arXiv.2405.10327-blue)](https://doi.org/10.48550/arXiv.2405.10327)        
+[[html]](https://slim.gatech.edu/Publications/Public/Submitted/2024/yin2024wiser/WISER.html) [[pdf]](https://arxiv.org/pdf/2405.10327) [[software]](https://github.com/slimgroup/WISER.jl)        
+
 [**An uncertainty-aware Digital Shadow for underground multimodal CO2 storage monitoring**](https://doi.org/10.48550/arXiv.2410.01218)       
 Abhinav Prakash Gahlot, Rafael Orozco, **Ziyi Yin**, and Felix J. Herrmann       
 ![][preprint-img] ![](https://img.shields.io/badge/Oct%202024-black) [![](https://img.shields.io/badge/DOI-10.48550/arXiv.2410.01218-blue)](https://doi.org/10.48550/arXiv.2410.01218)        
@@ -48,11 +54,6 @@ In: *Geophysics* [<span style="color:red">(Featured in Geophysics Bright Spot in
 [**Superstep wavefield propagation**](https://doi.org/10.48550/arXiv.2406.05154)       
 Tamas Nemeth, Kurt Nihei, Alex Loddoch, Anusha Sekar, Ken Bube, John Washbourne, Luke Decker, Sam Kaplan, Chunling Wu, Andrey Shabelansky, Milad Bader, Ovidiu Cristea, and **Ziyi Yin**            
 ![][preprint-img] ![](https://img.shields.io/badge/Jun%202024-black) [![](https://img.shields.io/badge/DOI-10.48550/arXiv.2406.05154-blue)](https://doi.org/10.48550/arXiv.2406.05154)   
-
-[**WISER: multimodal variational inference for full-waveform inversion without dimensionality reduction**](https://doi.org/10.48550/arXiv.2405.10327)       
-**Ziyi Yin**, Rafael Orozco, and Felix J. Herrmann       
-![][preprint-img] ![](https://img.shields.io/badge/May%202024-black) [![](https://img.shields.io/badge/DOI-10.48550/arXiv.2405.10327-blue)](https://doi.org/10.48550/arXiv.2405.10327)        
-[[html]](https://slim.gatech.edu/Publications/Public/Submitted/2024/yin2024wiser/WISER.html) [[pdf]](https://arxiv.org/pdf/2405.10327) [[software]](https://github.com/slimgroup/WISER.jl)        
 
 ## 2023
 
