@@ -75,7 +75,7 @@ In: *Advanced Modeling and Simulation in Engineering Sciences*
 ![][journal-img] ![](https://img.shields.io/badge/Oct%202023-black) [![](https://img.shields.io/badge/DOI-10.1186/s40323--023--00252--0-blue)](https://doi.org/10.1186/s40323-023-00252-0)         
 [[html]](https://amses-journal.springeropen.com/articles/10.1186/s40323-023-00252-0) [[pdf]](https://amses-journal.springeropen.com/counter/pdf/10.1186/s40323-023-00252-0.pdf) [[software]](https://github.com/slimgroup/FNO-NF.jl)               
 
-[**Model-Parallel Fourier Neural Operators as Learned Surrogates for Large-Scale Parametric PDEs**](https://doi.org/10.1016/j.cageo.2023.105402)        
+[**Model-parallel Fourier neural operators as learned surrogates for large-scale parametric PDEs**](https://doi.org/10.1016/j.cageo.2023.105402)        
 Thomas J. Grady II, Rishi Khan, Mathias Louboutin, **Ziyi Yin**, Philipp A. Witte, Ranveer Chandra, Russell J. Hewett, and Felix J. Herrmann         
 In: *Computers & Geosciences*    
 ![][journal-img] ![](https://img.shields.io/badge/Sep%202023-black) [![](https://img.shields.io/badge/DOI-10.1016/j.cageo.2023.105402-blue)](https://doi.org/10.1016/j.cageo.2023.105402)        
