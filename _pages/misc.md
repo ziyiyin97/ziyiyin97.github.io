@@ -63,6 +63,7 @@ International Meeting for Applied Geoscience and Energy 2023, 2024
 - Remote Sensing
 - Scientific Reports
 - Sustainability
+- The Leading Edge
 
 ### Conference Proceeding Reviewer
 
