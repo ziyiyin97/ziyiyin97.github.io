@@ -14,13 +14,15 @@ Below are dissertations, journal articles, and peer-reviewed conference proceedi
 [journal-img]:https://img.shields.io/badge/journal-red
 [thesis-img]:https://img.shields.io/badge/thesis-orange
 
-## 2024
+## 2025
 
-[**WISER: multimodal variational inference for full-waveform inversion without dimensionality reduction**](https://doi.org/10.48550/arXiv.2405.10327)       
+[**WISER: multimodal variational inference for full-waveform inversion without dimensionality reduction**](https://doi.org/10.1190/geo2024-0483.1)       
 **Ziyi Yin**, Rafael Orozco, and Felix J. Herrmann       
-Accepted for publication in: *Geophysics*     
-![][journal-img] ![](https://img.shields.io/badge/Nov%202024-black) [![](https://img.shields.io/badge/DOI-10.48550/arXiv.2405.10327-blue)](https://doi.org/10.48550/arXiv.2405.10327)        
-[[html]](https://slim.gatech.edu/Publications/Public/Journals/Geophysics/2024/yin2024wiser/WISER.html) [[pdf]](https://arxiv.org/pdf/2405.10327) [[software]](https://github.com/slimgroup/WISER.jl)        
+In: *Geophysics*     
+![][journal-img] ![](https://img.shields.io/badge/Mar%202025-black) [![](https://img.shields.io/badge/DOI-10.1190/geo2024--0483.1-blue)](https://doi.org/10.1190/geo2024-0483.1)        
+[[html]](https://slim.gatech.edu/Publications/Public/Journals/Geophysics/2024/yin2024wiser/WISER.html) [[pdf]](https://arxiv.org/pdf/2405.10327) [[software]](https://github.com/slimgroup/WISER.jl)   
+
+## 2024     
 
 [**An uncertainty-aware Digital Shadow for underground multimodal CO2 storage monitoring**](https://doi.org/10.48550/arXiv.2410.01218)       
 Abhinav Prakash Gahlot, Rafael Orozco, **Ziyi Yin**, and Felix J. Herrmann       

@@ -62,6 +62,7 @@ International Meeting for Applied Geoscience and Energy 2023, 2024
 - Pure and Applied Geophysics
 - Remote Sensing
 - Scientific Reports
+- Sensors
 - Sustainability
 - The Leading Edge
 

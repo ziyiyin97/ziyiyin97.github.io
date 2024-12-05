@@ -29,7 +29,7 @@ A super high-level summary of my research is ***high-dimensional Bayesian infere
 
 ### Recent News
 
-* Nov, 2024: [WISER](https://doi.org/10.48550/arXiv.2405.10327) was accepted for publication in Geophysics!
+* Dec, 2024: [WISER](https://doi.org/10.48550/arXiv.2405.10327) was published in Geophysics!
 
 * Oct, 2024: Check out [digital shadow for geological carbon storage monitoring](https://doi.org/10.48550/arXiv.2410.01218), available as a preprint on arXiv.
 
