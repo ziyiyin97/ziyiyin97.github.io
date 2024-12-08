@@ -20,7 +20,7 @@ Below are dissertations, journal articles, and peer-reviewed conference proceedi
 **Ziyi Yin**, Rafael Orozco, and Felix J. Herrmann       
 In: *Geophysics*     
 ![][journal-img] ![](https://img.shields.io/badge/Mar%202025-black) [![](https://img.shields.io/badge/DOI-10.1190/geo2024--0483.1-blue)](https://doi.org/10.1190/geo2024-0483.1)        
-[[html]](https://slim.gatech.edu/Publications/Public/Journals/Geophysics/2024/yin2024wiser/WISER.html) [[pdf]](https://arxiv.org/pdf/2405.10327) [[software]](https://github.com/slimgroup/WISER.jl)   
+[[html]](https://slim.gatech.edu/Publications/Public/Journals/Geophysics/2024/yin2024wiser/WISER.html) [[pdf]](../files/publications/10.1190/geo2024-0483.1.pdf) [[software]](https://github.com/slimgroup/WISER.jl)   
 
 ## 2024     
 
