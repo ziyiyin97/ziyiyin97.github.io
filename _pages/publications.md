@@ -16,7 +16,7 @@ Below are dissertations, journal articles, and peer-reviewed conference proceedi
 
 ## 2025
 
-[**WISER: multimodal variational inference for full-waveform inversion without dimensionality reduction**](https://doi.org/10.1190/geo2024-0483.1)       
+[**WISER: Multimodal variational inference for full-waveform inversion without dimensionality reduction**](https://doi.org/10.1190/geo2024-0483.1)       
 **Ziyi Yin**, Rafael Orozco, and Felix J. Herrmann       
 In: *Geophysics*     
 ![][journal-img] ![](https://img.shields.io/badge/Mar%202025-black) [![](https://img.shields.io/badge/DOI-10.1190/geo2024--0483.1-blue)](https://doi.org/10.1190/geo2024-0483.1)        
@@ -35,11 +35,11 @@ In: *The Leading Edge*
 ![][journal-img] ![](https://img.shields.io/badge/Aug%202024-black) [![](https://img.shields.io/badge/DOI-10.1190/tle43080544.1-blue)](https://doi.org/10.1190/tle43080544.1)   
 [[html]](https://slim.gatech.edu/Publications/Public/Journals/TheLeadingEdge/2024/yin2024tfp/paper.html) [[pdf]](../files/publications/10.1190/tle43080544.1.pdf) [[software]](https://github.com/slimgroup/TL-FWPI.jl)        
 
-[**Finite-difference wavefield propagation using superstepping**](https://imageevent.aapg.org/portals/26/abstracts/2024/4091674.pdf)       
+[**Finite-difference wavefield propagation using superstepping**](https://doi.org/10.1190/image2024-4091674.1)       
 Tamas Nemeth, Kurt Nihei, Alex Loddoch, Anusha Sekar, Ken Bube, John Washbourne, Luke Decker, Sam Kaplan, Chunling Wu, Andrey Shabelansky, Ovidiu Cristea, and **Ziyi Yin**        
-In: *4th International Meeting for Applied Geoscience & Energy Expanded Abstracts*       
-![][conference-img] ![](https://img.shields.io/badge/Aug%202024-black)        
-[[pdf]](https://imageevent.aapg.org/portals/26/abstracts/2024/4091674.pdf)     
+In: *Fourth International Meeting for Applied Geoscience & Energy Expanded Abstracts*       
+![][conference-img] ![](https://img.shields.io/badge/Aug%202024-black) [![](https://img.shields.io/badge/DOI-10.1190/image2024--4091674.1-blue)](https://doi.org/10.1190/image2024-4091674.1)            
+[[pdf]](../files/publications/10.1190/image2024-4091674.1.pdf)     
 
 [**Solving geophysical inverse problems with scientific machine learning**](https://hdl.handle.net/1853/75649)       
 **Ziyi Yin**       
