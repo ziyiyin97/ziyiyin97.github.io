@@ -22,6 +22,11 @@ In: *Geophysics*
 ![][journal-img] ![](https://img.shields.io/badge/Mar%202025-black) [![](https://img.shields.io/badge/DOI-10.1190/geo2024--0483.1-blue)](https://doi.org/10.1190/geo2024-0483.1)        
 [[html]](https://slim.gatech.edu/Publications/Public/Journals/Geophysics/2024/yin2024wiser/WISER.html) [[pdf]](../files/publications/10.1190/geo2024-0483.1.pdf) [[software]](https://github.com/slimgroup/WISER.jl)   
 
+[**Superstep wavefield propagation**](https://doi.org/10.48550/arXiv.2406.05154)       
+Tamas Nemeth, Kurt Nihei, Alex Loddoch, Anusha Sekar, Ken Bube, John Washbourne, Luke Decker, Sam Kaplan, Chunling Wu, Andrey Shabelansky, Milad Bader, Ovidiu Cristea, and **Ziyi Yin**            
+Accepted for publication in: *Wave Motion*     
+![][journal-img] ![](https://img.shields.io/badge/Jan%202025-black) [![](https://img.shields.io/badge/DOI-10.48550/arXiv.2406.05154-blue)](https://doi.org/10.48550/arXiv.2406.05154)   
+
 ## 2024     
 
 [**An uncertainty-aware Digital Shadow for underground multimodal CO2 storage monitoring**](https://doi.org/10.48550/arXiv.2410.01218)       
@@ -35,12 +40,6 @@ In: *The Leading Edge*
 ![][journal-img] ![](https://img.shields.io/badge/Aug%202024-black) [![](https://img.shields.io/badge/DOI-10.1190/tle43080544.1-blue)](https://doi.org/10.1190/tle43080544.1)   
 [[html]](https://slim.gatech.edu/Publications/Public/Journals/TheLeadingEdge/2024/yin2024tfp/paper.html) [[pdf]](../files/publications/10.1190/tle43080544.1.pdf) [[software]](https://github.com/slimgroup/TL-FWPI.jl)        
 
-[**Finite-difference wavefield propagation using superstepping**](https://doi.org/10.1190/image2024-4091674.1)       
-Tamas Nemeth, Kurt Nihei, Alex Loddoch, Anusha Sekar, Ken Bube, John Washbourne, Luke Decker, Sam Kaplan, Chunling Wu, Andrey Shabelansky, Ovidiu Cristea, and **Ziyi Yin**        
-In: *Fourth International Meeting for Applied Geoscience & Energy Expanded Abstracts*       
-![][conference-img] ![](https://img.shields.io/badge/Aug%202024-black) [![](https://img.shields.io/badge/DOI-10.1190/image2024--4091674.1-blue)](https://doi.org/10.1190/image2024-4091674.1)            
-[[pdf]](../files/publications/10.1190/image2024-4091674.1.pdf)     
-
 [**Solving geophysical inverse problems with scientific machine learning**](https://hdl.handle.net/1853/75649)       
 **Ziyi Yin**       
 PhD Dissertation at Georgia Institute of Technology            
@@ -53,9 +52,11 @@ In: *Geophysics* [<span style="color:red">(Featured in Geophysics Bright Spot in
 ![][journal-img] ![](https://img.shields.io/badge/Jul%202024-black) [![](https://img.shields.io/badge/DOI-10.1190/geo2023--0744.1-blue)](https://doi.org/10.1190/geo2023-0744.1)     
 [[html]](https://slim.gatech.edu/Publications/Public/Journals/Geophysics/2024/yin2023wise/paper.html) [[pdf]](../files/publications/10.1190/geo2023-0744.1.pdf) [[slides]](https://slim.gatech.edu/Publications/Public/Lectures/GTseminar/2024/yin2024GTwise) [[media]](https://library.seg.org/doi/10.1190/tle43090632.1) [[software]](https://github.com/slimgroup/WISE.jl)           
 
-[**Superstep wavefield propagation**](https://doi.org/10.48550/arXiv.2406.05154)       
-Tamas Nemeth, Kurt Nihei, Alex Loddoch, Anusha Sekar, Ken Bube, John Washbourne, Luke Decker, Sam Kaplan, Chunling Wu, Andrey Shabelansky, Milad Bader, Ovidiu Cristea, and **Ziyi Yin**            
-![][preprint-img] ![](https://img.shields.io/badge/Jun%202024-black) [![](https://img.shields.io/badge/DOI-10.48550/arXiv.2406.05154-blue)](https://doi.org/10.48550/arXiv.2406.05154)   
+[**Finite-difference wavefield propagation using superstepping**](https://doi.org/10.1190/image2024-4091674.1)       
+Tamas Nemeth, Kurt Nihei, Alex Loddoch, Anusha Sekar, Ken Bube, John Washbourne, Luke Decker, Sam Kaplan, Chunling Wu, Andrey Shabelansky, Ovidiu Cristea, and **Ziyi Yin**        
+In: *Fourth International Meeting for Applied Geoscience & Energy Expanded Abstracts*       
+![][conference-img] ![](https://img.shields.io/badge/Jul%202024-black) [![](https://img.shields.io/badge/DOI-10.1190/image2024--4091674.1-blue)](https://doi.org/10.1190/image2024-4091674.1)            
+[[pdf]](../files/publications/10.1190/image2024-4091674.1.pdf)     
 
 ## 2023
 
