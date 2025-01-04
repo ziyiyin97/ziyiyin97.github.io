@@ -22,10 +22,11 @@ In: *Geophysics*
 ![][journal-img] ![](https://img.shields.io/badge/Mar%202025-black) [![](https://img.shields.io/badge/DOI-10.1190/geo2024--0483.1-blue)](https://doi.org/10.1190/geo2024-0483.1)        
 [[html]](https://slim.gatech.edu/Publications/Public/Journals/Geophysics/2024/yin2024wiser/WISER.html) [[pdf]](../files/publications/10.1190/geo2024-0483.1.pdf) [[software]](https://github.com/slimgroup/WISER.jl)   
 
-[**Superstep wavefield propagation**](https://doi.org/10.48550/arXiv.2406.05154)       
+[**Superstep wavefield propagation**](https://doi.org/10.1016/j.wavemoti.2024.103489)       
 Tamas Nemeth, Kurt Nihei, Alex Loddoch, Anusha Sekar, Ken Bube, John Washbourne, Luke Decker, Sam Kaplan, Chunling Wu, Andrey Shabelansky, Milad Bader, Ovidiu Cristea, and **Ziyi Yin**            
-Accepted for publication in: *Wave Motion*     
-![][journal-img] ![](https://img.shields.io/badge/Jan%202025-black) [![](https://img.shields.io/badge/DOI-10.48550/arXiv.2406.05154-blue)](https://doi.org/10.48550/arXiv.2406.05154)   
+In: *Wave Motion*     
+![][journal-img] ![](https://img.shields.io/badge/Jan%202025-black) [![](https://img.shields.io/badge/DOI-10.1016/j.wavemoti.2024.103489-blue)](https://doi.org/10.1016/j.wavemoti.2024.103489)       
+[[pdf]](https://arxiv.org/pdf/2406.05154)       
 
 ## 2024     
 

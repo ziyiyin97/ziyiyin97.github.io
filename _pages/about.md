@@ -29,6 +29,8 @@ A super high-level summary of my research is ***high-dimensional Bayesian infere
 
 ### Recent News
 
+* Jan, 2025: [Superstep wavefield propagation](https://doi.org/10.1016/j.wavemoti.2024.103489) was published in Wave Motion!
+
 * Dec, 2024: [WISER](https://doi.org/10.48550/arXiv.2405.10327) was published in Geophysics!
 
 * Oct, 2024: Check out [digital shadow for geological carbon storage monitoring](https://doi.org/10.48550/arXiv.2410.01218), available as a preprint on arXiv.
@@ -77,18 +79,14 @@ A super high-level summary of my research is ***high-dimensional Bayesian infere
 
 * Apr, 2022: [Model-Parallel Fourier Neural Operators as Learned Surrogates for Large-Scale Parametric PDEs](https://arxiv.org/pdf/2204.01205.pdf) was mentioned in [Nvidia's technical blog post](https://developer.nvidia.com/blog/accelerating-climate-change-mitigation-with-machine-learning-the-case-of-carbon-storage/?ncid=so-twit-573482&=&linkId=100000119404270#cid=dl13_so-twit_en-us).
 
-* Aug, 2021: I started to work as a TA for EAS 4803/8803 Seismic monitoring CO2 storage taught by Prof. Felix J. Herrmann in Spring 2022 semester.
-
 * Oct, 2021: I passed my PhD qualify exam!
 
 * Sep, 2021: I presented our work on [*Compressive time-lapse seismic monitoring of carbon storage and sequestration with the joint recovery model*](https://slim.gatech.edu/Publications/Public/Conferences/SEG/2021/yin2021SEGcts/yin2021SEGcts.html) in Oral Session TL 1: "Advances and Case Studies", [International Meeting for Applied Geoscience & Energy](https://imageevent.org/2021).
 
-* Sep, 2021: I gave a talk at Georgia Tech Geophysics Seminar on "low-cost and robust seismic monitoring of carbon storage and sequestration with the joint recovery model".
-
-* Aug, 2021: I started to work as the head TA for CSE/ISYE 6740 Computational Data Analysis taught by Prof. B. Aditya Prakash in Fall 2021 semester.
+* Sep, 2021: I gave a talk at Georgia Tech Geophysics Seminar on [low-cost and robust seismic monitoring of carbon storage and sequestration with the joint recovery model](https://slim.gatech.edu/Publications/Public/Conferences/SEG/2021/yin2021SEGcts/yin2021SEGcts.html).
 
 * Aug, 2021: I received [SEG Technical Program Registration grant](https://seg.org/travelgrants) to register the IMAGE 2021 conference. Thanks SEG!
 
 * Oct, 2020: I was promoted to be the President of [Society of Exploration Geophysicists](https://seg.org/Education/Student/Student-Chapters/Student-Chapter-Listing/Student-Chapter-Listing-Detail/scID/000000200393) (SEG) Student Chapter at Georgia Tech. Check our facebook page [here](https://www.facebook.com/SEGatGT).
 
-* Jun, 2020: I received [*SEG/Chevron Student Leadership Symposium (SLS) travel grant*](https://seg.org/Education/Student/Student-Programs/Student-Leadership-Symposium) to attend the 2020 SEG Annual Meeting. Thanks SEG and Chevron!
+* Jun, 2020: I received [SEG/Chevron Student Leadership Symposium (SLS) travel grant](https://seg.org/Education/Student/Student-Programs/Student-Leadership-Symposium) to attend the 2020 SEG Annual Meeting. Thanks SEG and Chevron!
