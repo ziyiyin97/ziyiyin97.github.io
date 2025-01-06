@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ziyi \"Francis\" Yin, Ph.D."
+  name             : "Ziyi Francis Yin, Ph.D."
   avatar           : "icon.jpg"
-  bio              : "Research Geophysicist"
+  bio              : "Scientific ML Researcher"
   location         : 
   employer         : "Occidental Petroleum Corp"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=ji9kwj8AAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=ji9kwj8AAAAJ"
   email            : "ziyiyin97@outlook.com"
   researchgate     : "https://www.researchgate.net/profile/Ziyi_Yin4"
   uri              :

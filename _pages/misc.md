@@ -42,6 +42,7 @@ International Meeting for Applied Geoscience and Energy 2023, 2024
 - Acta Geophysica
 - Applied Sciences
 - Computers and Geosciences
+- Current Research in Geoscience
 - Earth Sciences
 - Earth Science Informatics
 - Electronics

@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ziyi \"Francis\" Yin - 尹梓屹"
+title: "Ziyi Francis Yin - 尹梓屹"
 author_profile: true
 redirect_from: 
   - /about/
