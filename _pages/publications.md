@@ -26,7 +26,7 @@ In: *Geophysics*
 Tamas Nemeth, Kurt Nihei, Alex Loddoch, Anusha Sekar, Ken Bube, John Washbourne, Luke Decker, Sam Kaplan, Chunling Wu, Andrey Shabelansky, Milad Bader, Ovidiu Cristea, and **Ziyi Yin**            
 In: *Wave Motion*     
 ![][journal-img] ![](https://img.shields.io/badge/Jan%202025-black) [![](https://img.shields.io/badge/DOI-10.1016/j.wavemoti.2024.103489-blue)](https://doi.org/10.1016/j.wavemoti.2024.103489)       
-[[pdf]](https://arxiv.org/pdf/2406.05154)       
+[[pdf]](https://www.sciencedirect.com/science/article/pii/S0165212524002191/pdf)       
 
 ## 2024     
 
