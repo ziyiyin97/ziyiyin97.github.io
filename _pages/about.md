@@ -14,7 +14,7 @@ I am a research geophysicist at [Occidental Petroleum Corporation](https://www.o
 
 I earned my PhD degree in [Computational Science and Engineering](https://cse.gatech.edu) at [Georgia Institute of Technology](https://www.gatech.edu) in 2024, advised by [Prof. Felix J. Herrmann](https://cse.gatech.edu/people/felix-herrmann). I earned my BSc degree in [Mathematics and Computer Science](https://www.math.emory.edu) at [Emory University](http://www.emory.edu/home/index.html) in 2019, advised by [Prof. James G. Nagy](http://www.math.emory.edu/~nagy/).
 
-A super high-level summary of my research is ***high-dimensional Bayesian inference for computationally expensive parameter-to-observable maps***. Generally, my research interests include:
+A super high-level summary of my research scope is ***high-dimensional Bayesian inference for computationally expensive parameter-to-observable maps***. Generally, my research interests include:
 
 * scientific machine learning
 * large-scale inverse problems
@@ -23,7 +23,6 @@ A super high-level summary of my research is ***high-dimensional Bayesian infere
 * numerical modeling and simulation
 * uncertainty quantification
 * simulation-based inference
-* and their application in geophysical inversion
 
 ***Open Special Issue Call in Geosciences (MDPI Open-Access) on Geophysical Inversion***: [link](https://www.mdpi.com/si/211103)
 

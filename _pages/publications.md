@@ -16,17 +16,17 @@ Below are dissertations, journal articles, and peer-reviewed conference proceedi
 
 ## 2025
 
+[**Superstep wavefield propagation**](https://doi.org/10.1016/j.wavemoti.2024.103489)       
+Tamas Nemeth, Kurt Nihei, Alex Loddoch, Anusha Sekar, Ken Bube, John Washbourne, Luke Decker, Sam Kaplan, Chunling Wu, Andrey Shabelansky, Milad Bader, Ovidiu Cristea, and **Ziyi Yin**            
+In: *Wave Motion*     
+![][journal-img] ![](https://img.shields.io/badge/Apr%202025-black) [![](https://img.shields.io/badge/DOI-10.1016/j.wavemoti.2024.103489-blue)](https://doi.org/10.1016/j.wavemoti.2024.103489)       
+[[pdf]](https://www.sciencedirect.com/science/article/pii/S0165212524002191/pdf)       
+
 [**WISER: Multimodal variational inference for full-waveform inversion without dimensionality reduction**](https://doi.org/10.1190/geo2024-0483.1)       
 **Ziyi Yin**, Rafael Orozco, and Felix J. Herrmann       
 In: *Geophysics*     
 ![][journal-img] ![](https://img.shields.io/badge/Mar%202025-black) [![](https://img.shields.io/badge/DOI-10.1190/geo2024--0483.1-blue)](https://doi.org/10.1190/geo2024-0483.1)        
 [[html]](https://slim.gatech.edu/Publications/Public/Journals/Geophysics/2024/yin2024wiser/WISER.html) [[pdf]](../files/publications/10.1190/geo2024-0483.1.pdf) [[software]](https://github.com/slimgroup/WISER.jl)   
-
-[**Superstep wavefield propagation**](https://doi.org/10.1016/j.wavemoti.2024.103489)       
-Tamas Nemeth, Kurt Nihei, Alex Loddoch, Anusha Sekar, Ken Bube, John Washbourne, Luke Decker, Sam Kaplan, Chunling Wu, Andrey Shabelansky, Milad Bader, Ovidiu Cristea, and **Ziyi Yin**            
-In: *Wave Motion*     
-![][journal-img] ![](https://img.shields.io/badge/Jan%202025-black) [![](https://img.shields.io/badge/DOI-10.1016/j.wavemoti.2024.103489-blue)](https://doi.org/10.1016/j.wavemoti.2024.103489)       
-[[pdf]](https://www.sciencedirect.com/science/article/pii/S0165212524002191/pdf)       
 
 ## 2024     
 
