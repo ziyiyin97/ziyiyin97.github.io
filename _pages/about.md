@@ -30,7 +30,7 @@ A super high-level summary of my research scope is ***high-dimensional Bayesian 
 
 * Jan, 2025: [Superstep wavefield propagation](https://doi.org/10.1016/j.wavemoti.2024.103489) was published in Wave Motion!
 
-* Dec, 2024: [WISER](https://doi.org/10.48550/arXiv.2405.10327) was published in Geophysics!
+* Dec, 2024: [WISER](https://doi.org/10.1190/geo2024-0483.1) was published in Geophysics!
 
 * Oct, 2024: Check out [digital shadow for geological carbon storage monitoring](https://doi.org/10.48550/arXiv.2410.01218), available as a preprint on arXiv.
 
