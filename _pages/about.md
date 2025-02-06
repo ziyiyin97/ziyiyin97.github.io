@@ -10,9 +10,7 @@ redirect_from:
 
 ## About me
 
-I am a research geophysicist at [Occidental Petroleum Corporation](https://www.oxy.com/)'s subsurface innovation lab, mainly working on generative AI solutions for seismic imaging and inversion.
-
-I earned my PhD degree in [Computational Science and Engineering](https://cse.gatech.edu) at [Georgia Institute of Technology](https://www.gatech.edu) in 2024, advised by [Prof. Felix J. Herrmann](https://cse.gatech.edu/people/felix-herrmann). I earned my BSc degree in [Mathematics and Computer Science](https://www.math.emory.edu) at [Emory University](http://www.emory.edu/home/index.html) in 2019, advised by [Prof. James G. Nagy](http://www.math.emory.edu/~nagy/).
+I am currently a Founding Member of Technical Staff at [KronosAI](https://kronosai.co/), focusing on building foundation models for physics simulations.
 
 A super high-level summary of my research scope is ***high-dimensional Bayesian inference for computationally expensive parameter-to-observable maps***. Generally, my research interests include:
 
@@ -24,7 +22,7 @@ A super high-level summary of my research scope is ***high-dimensional Bayesian 
 * uncertainty quantification
 * simulation-based inference
 
-***Open Special Issue Call in Geosciences (MDPI Open-Access) on Geophysical Inversion***: [link](https://www.mdpi.com/si/211103)
+Please feel free to visit my [Curriculum Vitae](https://ziyiyin97.github.io/files/Ziyi_Yin_CV.pdf) to know more about my industrial experiences and academic backgrounds.
 
 ### Recent News
 

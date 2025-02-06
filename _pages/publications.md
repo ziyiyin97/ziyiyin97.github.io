@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Below are dissertations, journal articles, and peer-reviewed conference proceedings with assigned DOIs. More "informal" presentations can be found under [Presentations](https://ziyiyin97.github.io/presentations/). You can also find my publications on [my Google Scholar profile](https://scholar.google.com/citations?user=ji9kwj8AAAAJ&hl=en).
+Below are dissertations, journal articles, and peer-reviewed conference proceedings with assigned DOIs. More "informal" presentations can be found under [Presentations](https://ziyiyin97.github.io/presentations/). You can also find my publications on my [Google Scholar profile](https://scholar.google.com/citations?user=ji9kwj8AAAAJ).
 
 \* denotes equal contribution.
 
