@@ -9,6 +9,13 @@ Below are conference or seminar presentations without proceedings / DOIs. Papers
 
 \* denotes equal contribution.
 
+## 2025
+
+**Robust Digital Twin for Geological Carbon Storage**       
+Felix J. Herrmann, Abhinav Prakash Gahlot, Rafael Orozco, <ins>Ziyi Yin</ins>, and Grant Bruer       
+In: *SIAM Conference on Computational Science and Engineering 2025*, Mar 2025       
+[[slides]](https://slim.gatech.edu/Publications/Public/Conferences/SIAMCSE/2025/herrmann2025SIAMrdt)       
+
 ## 2024
 
 **Bayesian inference of airborne electromagnetic data based on normalizing flows**          
