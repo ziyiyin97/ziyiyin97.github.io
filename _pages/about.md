@@ -26,6 +26,10 @@ Please feel free to visit my [Curriculum Vitae](https://ziyiyin97.github.io/file
 
 ### Recent News
 
+* Mar, 2025: Check out our [interactive live demo](https://kronosai.co/live-demo) on photonic simulation!
+
+* Feb, 2025: I started to work at KronosAI as a founding member of technical staff!
+
 * Jan, 2025: [Superstep wavefield propagation](https://doi.org/10.1016/j.wavemoti.2024.103489) was published in Wave Motion!
 
 * Dec, 2024: [WISER](https://doi.org/10.1190/geo2024-0483.1) was published in Geophysics!
