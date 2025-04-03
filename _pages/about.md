@@ -26,6 +26,8 @@ Please feel free to visit my [Curriculum Vitae](https://ziyiyin97.github.io/file
 
 ### Recent News
 
+* Apr, 2024: [WISER](https://doi.org/10.1190/geo2024-0483.1) was featured in [Geophysics Bright Spot](https://library.seg.org/doi/10.1190/tle44040313.1) in The Leading Edge.
+
 * Mar, 2025: Check out our [interactive live demo](https://kronosai.co/live-demo) on photonic simulation!
 
 * Feb, 2025: I started to work at KronosAI as a founding member of technical staff!

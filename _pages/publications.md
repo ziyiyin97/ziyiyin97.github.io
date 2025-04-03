@@ -24,7 +24,7 @@ In: *Wave Motion*
 
 [**WISER: Multimodal variational inference for full-waveform inversion without dimensionality reduction**](https://doi.org/10.1190/geo2024-0483.1)       
 **Ziyi Yin**, Rafael Orozco, and Felix J. Herrmann       
-In: *Geophysics* <span style="color:red">(Featured in Geophysics Bright Spot in The Leading Edge)</span>     
+In: *Geophysics* [<span style="color:red">(Featured in Geophysics Bright Spot in The Leading Edge)</span>](https://library.seg.org/doi/10.1190/tle44040313.1)           
 ![][journal-img] ![](https://img.shields.io/badge/Mar%202025-black) [![](https://img.shields.io/badge/DOI-10.1190/geo2024--0483.1-blue)](https://doi.org/10.1190/geo2024-0483.1)        
 [[html]](https://slim.gatech.edu/Publications/Public/Journals/Geophysics/2024/yin2024wiser/WISER.html) [[pdf]](../files/publications/10.1190/geo2024-0483.1.pdf) [[software]](https://github.com/slimgroup/WISER.jl)   
 
