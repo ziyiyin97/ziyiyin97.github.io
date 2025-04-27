@@ -40,6 +40,7 @@ International Meeting for Applied Geoscience and Energy 2023, 2024
 ### Journal Reviewer
 
 - Acta Geophysica
+- Algorithms
 - Applied Sciences
 - Computers and Geosciences
 - Current Research in Geoscience
