@@ -42,6 +42,7 @@ International Meeting for Applied Geoscience and Energy 2023, 2024
 - Acta Geophysica
 - Algorithms
 - Applied Sciences
+- Axioms
 - Computers and Geosciences
 - Current Research in Geoscience
 - Earth Sciences
@@ -62,6 +63,7 @@ International Meeting for Applied Geoscience and Energy 2023, 2024
 - Journal of Open Source Software
 - Mathematics
 - Pure and Applied Geophysics
+- Processes
 - Remote Sensing
 - Scientific Reports
 - Sensors

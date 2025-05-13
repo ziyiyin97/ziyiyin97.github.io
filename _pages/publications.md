@@ -24,9 +24,9 @@ In: *Wave Motion*
 
 [**WISER: Multimodal variational inference for full-waveform inversion without dimensionality reduction**](https://doi.org/10.1190/geo2024-0483.1)       
 **Ziyi Yin**, Rafael Orozco, and Felix J. Herrmann       
-In: *Geophysics* [<span style="color:red">(Featured in Geophysics Bright Spot in The Leading Edge)</span>](https://library.seg.org/doi/10.1190/tle44040313.1)           
+In: *Geophysics*        
 ![][journal-img] ![](https://img.shields.io/badge/Mar%202025-black) [![](https://img.shields.io/badge/DOI-10.1190/geo2024--0483.1-blue)](https://doi.org/10.1190/geo2024-0483.1)        
-[[html]](https://slim.gatech.edu/Publications/Public/Journals/Geophysics/2024/yin2024wiser/WISER.html) [[pdf]](../files/publications/10.1190/geo2024-0483.1.pdf) [[software]](https://github.com/slimgroup/WISER.jl)   
+[[html]](https://slim.gatech.edu/Publications/Public/Journals/Geophysics/2024/yin2024wiser/WISER.html) [[pdf]](../files/publications/10.1190/geo2024-0483.1.pdf) [[software]](https://github.com/slimgroup/WISER.jl) [<span style="color:red">[Featured in Geophysics Bright Spot in The Leading Edge]</span>](https://library.seg.org/doi/10.1190/tle44040313.1)             
 
 ## 2024     
 
@@ -49,9 +49,9 @@ PhD Dissertation at Georgia Institute of Technology
 
 [**WISE: Full-waveform variational inference via subsurface extensions**](https://doi.org/10.1190/geo2023-0744.1)       
 **Ziyi Yin**\*, Rafael Orozco\*, Mathias Louboutin, and Felix J. Herrmann       
-In: *Geophysics* [<span style="color:red">(Featured in Geophysics Bright Spot in The Leading Edge)</span>](https://library.seg.org/doi/10.1190/tle43090632.1)    
+In: *Geophysics*    
 ![][journal-img] ![](https://img.shields.io/badge/Jul%202024-black) [![](https://img.shields.io/badge/DOI-10.1190/geo2023--0744.1-blue)](https://doi.org/10.1190/geo2023-0744.1)     
-[[html]](https://slim.gatech.edu/Publications/Public/Journals/Geophysics/2024/yin2023wise/paper.html) [[pdf]](../files/publications/10.1190/geo2023-0744.1.pdf) [[slides]](https://slim.gatech.edu/Publications/Public/Lectures/GTseminar/2024/yin2024GTwise) [[media]](https://library.seg.org/doi/10.1190/tle43090632.1) [[software]](https://github.com/slimgroup/WISE.jl)           
+[[html]](https://slim.gatech.edu/Publications/Public/Journals/Geophysics/2024/yin2023wise/paper.html) [[pdf]](../files/publications/10.1190/geo2023-0744.1.pdf) [[slides]](https://slim.gatech.edu/Publications/Public/Lectures/GTseminar/2024/yin2024GTwise) [[software]](https://github.com/slimgroup/WISE.jl) [<span style="color:red">[Honorable Mention for Best Paper in Geophysics in 2024]</span>](../files/awards/2025/WISE-honorable-mention.pdf) [<span style="color:red">[Featured in Geophysics Bright Spot in The Leading Edge]</span>](https://library.seg.org/doi/10.1190/tle43090632.1)               
 
 [**Finite-difference wavefield propagation using superstepping**](https://doi.org/10.1190/image2024-4091674.1)       
 Tamas Nemeth, Kurt Nihei, Alex Loddoch, Anusha Sekar, Ken Bube, John Washbourne, Luke Decker, Sam Kaplan, Chunling Wu, Andrey Shabelansky, Ovidiu Cristea, and **Ziyi Yin**        
@@ -87,9 +87,9 @@ In: *Computers & Geosciences*
 
 [**Learned multiphysics inversion with differentiable programming and machine learning**](https://doi.org/10.1190/tle42070474.1)      
 Mathias Louboutin\*, **Ziyi Yin**\*, Rafael Orozco, Thomas J. Grady II, Ali Siahkoohi, Gabrio Rizzuti, Philipp A. Witte, Olav Møyner, Gerard J. Gorman, and Felix J. Herrmann    
-In: *The Leading Edge* <span style="color:red">(Journal's most downloaded paper in 2023)</span>             
+In: *The Leading Edge*           
 ![][journal-img] ![](https://img.shields.io/badge/Jul%202023-black) [![](https://img.shields.io/badge/DOI-10.1190/tle42070474.1-blue)](https://doi.org/10.1190/tle42070474.1)             
-[[html]](https://library.seg.org/doi/epub/10.1190/tle42070474.1) [[pdf]](https://library.seg.org/doi/epub/10.1190/tle42070474.1) [[media1]](https://doi.org/10.1190/seismic-soundoff-episode194) [[media2]](https://open.spotify.com/episode/0lzxirrfnaX6cywTYopmzc?si=lh5Mgl7mSSiGYeVfn7ZBgA&nd=1&dlsi=b0d9fe8f06ab471d) [[media3]](https://www.instagram.com/reel/CvpuCMGLVnW/?igsh=NzBmMjdhZWRiYQ==)       
+[[html]](https://library.seg.org/doi/epub/10.1190/tle42070474.1) [[pdf]](https://library.seg.org/doi/epub/10.1190/tle42070474.1) [[media1]](https://doi.org/10.1190/seismic-soundoff-episode194) [[media2]](https://open.spotify.com/episode/0lzxirrfnaX6cywTYopmzc?si=lh5Mgl7mSSiGYeVfn7ZBgA&nd=1&dlsi=b0d9fe8f06ab471d) [[media3]](https://www.instagram.com/reel/CvpuCMGLVnW/?igsh=NzBmMjdhZWRiYQ==) <span style="color:red">[Journal's most downloaded paper in 2023]</span>               
 
 [**Optimized time-lapse acquisition design via spectral gap ratio minimization**](https://doi.org/10.1190/geo2023-0024.1)    
 Yijun Zhang, **Ziyi Yin**, Oscar López, Ali Siahkoohi, Mathias Louboutin, Rajiv Kumar, and Felix J. Herrmann    
@@ -113,9 +113,9 @@ In: *AAAI 2022 Fall Symposium - The Role of AI in Responding to Climate Challeng
 
 [**Learned coupled inversion for carbon sequestration monitoring and forecasting with Fourier neural operators**](https://doi.org/10.1190/image2022-3722848.1)          
 **Ziyi Yin**, Ali Siahkoohi, Mathias Louboutin, and Felix J. Herrmann       
-In: *Second International Meeting for Applied Geoscience & Energy Expanded Abstracts* [<span style="color:red">(Student Oral Paper Honorable Mention)</span>](https://ziyiyin97.github.io/files/awards/2023/2022_IMAGE_Letter.pdf)    
+In: *Second International Meeting for Applied Geoscience & Energy Expanded Abstracts*       
 ![][conference-img] ![](https://img.shields.io/badge/Aug%202022-black) [![](https://img.shields.io/badge/DOI-10.1190/image2022--3722848.1-blue)](https://doi.org/10.1190/image2022-3722848.1)            
-[[html]](https://slim.gatech.edu/Publications/Public/Conferences/SEG/2022/yin2022SEGlci/paper.html) [[pdf]](../files/publications/10.1190/image2022-3722848.1.pdf) [[slides]](https://slim.gatech.edu/Publications/Public/Conferences/SEG/2022/yin2022SEGlci) [[software]](https://github.com/slimgroup/FNO4CO2) [[media1]](https://www.cc.gatech.edu/news/group-brings-seismic-imaging-climate-change-conversations-and-beyond) [[media2]](https://www.youtube.com/watch?v=2NiB8qTyKa4)   
+[[html]](https://slim.gatech.edu/Publications/Public/Conferences/SEG/2022/yin2022SEGlci/paper.html) [[pdf]](../files/publications/10.1190/image2022-3722848.1.pdf) [[slides]](https://slim.gatech.edu/Publications/Public/Conferences/SEG/2022/yin2022SEGlci) [[software]](https://github.com/slimgroup/FNO4CO2) [[media1]](https://www.cc.gatech.edu/news/group-brings-seismic-imaging-climate-change-conversations-and-beyond) [[media2]](https://www.youtube.com/watch?v=2NiB8qTyKa4) [<span style="color:red">[Student Oral Paper Honorable Mention]</span>](https://ziyiyin97.github.io/files/awards/2023/2022_IMAGE_Letter.pdf)       
 
 [**Accelerating innovation with software abstractions for scalable computational geophysics**](https://doi.org/10.1190/image2022-3750561.1)        
 Mathias Louboutin, Philipp A. Witte, Ali Siahkoohi, Gabrio Rizzuti, **Ziyi Yin**, Rafael Orozco, and Felix J. Herrmann       
