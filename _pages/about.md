@@ -26,6 +26,8 @@ Please feel free to visit my [Curriculum Vitae](https://ziyiyin97.github.io/file
 
 ### Recent News
 
+* May, 2024: [An uncertainty-aware Digital Shadow for underground multimodal CO2 storage monitoring](https://doi.org/10.1093/gji/ggaf176) was published in Geophysical Journal International!
+
 * May, 2024: [WISE](https://doi.org/10.1190/geo2023-0744.1) was selected as an [honorable mention for the best paper in Geophysics in 2024](../files/awards/2025/WISE-honorable-mention.pdf)!
 
 * Apr, 2024: [WISER](https://doi.org/10.1190/geo2024-0483.1) was featured in [Geophysics Bright Spot](https://library.seg.org/doi/10.1190/tle44040313.1) in The Leading Edge.

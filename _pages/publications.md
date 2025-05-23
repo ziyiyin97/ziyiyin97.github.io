@@ -16,6 +16,12 @@ Below are dissertations, journal articles, and peer-reviewed conference proceedi
 
 ## 2025
 
+[**An uncertainty-aware Digital Shadow for underground multimodal CO2 storage monitoring**](https://doi.org/10.1093/gji/ggaf176)       
+Abhinav Prakash Gahlot, Rafael Orozco, **Ziyi Yin**, Grant Bruer, and Felix J. Herrmann       
+In: *Geophysical Journal International*     
+![][journal-img] ![](https://img.shields.io/badge/May%202025-black) [![](https://img.shields.io/badge/DOI-10.1093/gji/ggaf176-blue)](https://doi.org/10.1093/gji/ggaf176)        
+[[html]](https://doi.org/10.1093/gji/ggaf176) [[pdf]](https://academic.oup.com/gji/advance-article-pdf/doi/10.1093/gji/ggaf176/63310597/ggaf176.pdf) [[media]](https://research.gatech.edu/digital-twins-make-co2-storage-safer)           
+
 [**Superstep wavefield propagation**](https://doi.org/10.1016/j.wavemoti.2024.103489)       
 Tamas Nemeth, Kurt Nihei, Alex Loddoch, Anusha Sekar, Ken Bube, John Washbourne, Luke Decker, Sam Kaplan, Chunling Wu, Andrey Shabelansky, Milad Bader, Ovidiu Cristea, and **Ziyi Yin**            
 In: *Wave Motion*     
@@ -29,11 +35,6 @@ In: *Geophysics*
 [[html]](https://slim.gatech.edu/Publications/Public/Journals/Geophysics/2024/yin2024wiser/WISER.html) [[pdf]](../files/publications/10.1190/geo2024-0483.1.pdf) [[software]](https://github.com/slimgroup/WISER.jl) [<span style="color:red">[Featured in Geophysics Bright Spot in The Leading Edge]</span>](https://library.seg.org/doi/10.1190/tle44040313.1)             
 
 ## 2024     
-
-[**An uncertainty-aware Digital Shadow for underground multimodal CO2 storage monitoring**](https://doi.org/10.48550/arXiv.2410.01218)       
-Abhinav Prakash Gahlot, Rafael Orozco, **Ziyi Yin**, and Felix J. Herrmann       
-![][preprint-img] ![](https://img.shields.io/badge/Oct%202024-black) [![](https://img.shields.io/badge/DOI-10.48550/arXiv.2410.01218-blue)](https://doi.org/10.48550/arXiv.2410.01218)        
-[[html]](https://slim.gatech.edu/Publications/Public/Submitted/2024/gahlot2024uads/paper.html) [[pdf]](https://arxiv.org/pdf/2410.01218) [[media]](https://research.gatech.edu/digital-twins-make-co2-storage-safer)           
 
 [**Time-lapse full-waveform permeability inversion: A feasibility study**](https://doi.org/10.1190/tle43080544.1)          
 **Ziyi Yin**, Mathias Louboutin, Olav Møyner, and Felix J. Herrmann      
