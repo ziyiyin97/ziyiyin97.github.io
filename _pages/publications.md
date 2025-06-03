@@ -84,7 +84,7 @@ In: *Advanced Modeling and Simulation in Engineering Sciences*
 Thomas J. Grady II, Rishi Khan, Mathias Louboutin, **Ziyi Yin**, Philipp A. Witte, Ranveer Chandra, Russell J. Hewett, and Felix J. Herrmann         
 In: *Computers & Geosciences*    
 ![][journal-img] ![](https://img.shields.io/badge/Sep%202023-black) [![](https://img.shields.io/badge/DOI-10.1016/j.cageo.2023.105402-blue)](https://doi.org/10.1016/j.cageo.2023.105402)        
-[[pdf]](https://arxiv.org/pdf/2204.01205.pdf) [[software]](https://github.com/slimgroup/dfno) [[media]](https://developer.nvidia.com/blog/accelerating-climate-change-mitigation-with-machine-learning-the-case-of-carbon-storage)            
+[[pdf]](https://www.sciencedirect.com/science/article/am/pii/S0098300423001061) [[software]](https://github.com/slimgroup/dfno) [[media]](https://developer.nvidia.com/blog/accelerating-climate-change-mitigation-with-machine-learning-the-case-of-carbon-storage)            
 
 [**Learned multiphysics inversion with differentiable programming and machine learning**](https://doi.org/10.1190/tle42070474.1)      
 Mathias Louboutin\*, **Ziyi Yin**\*, Rafael Orozco, Thomas J. Grady II, Ali Siahkoohi, Gabrio Rizzuti, Philipp A. Witte, Olav Møyner, Gerard J. Gorman, and Felix J. Herrmann    

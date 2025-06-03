@@ -32,7 +32,7 @@ Please feel free to visit my [Curriculum Vitae](https://ziyiyin97.github.io/file
 
 * Apr, 2025: [WISER](https://doi.org/10.1190/geo2024-0483.1) was featured in [Geophysics Bright Spot](https://library.seg.org/doi/10.1190/tle44040313.1) in The Leading Edge.
 
-* Mar, 2025: Check out our [interactive live demo](https://kronosai.co/live-demo) on photonic simulation!
+* Mar, 2025: Check out our [interactive live demo](https://kronosai.co/live-demo) on 3D electromagnetic simulation for silicon photonics design exploration!
 
 * Feb, 2025: I started to work at KronosAI as a founding member of technical staff!
 
@@ -40,11 +40,7 @@ Please feel free to visit my [Curriculum Vitae](https://ziyiyin97.github.io/file
 
 * Dec, 2024: [WISER](https://doi.org/10.1190/geo2024-0483.1) was published in Geophysics!
 
-* Oct, 2024: Check out [digital shadow for geological carbon storage monitoring](https://doi.org/10.48550/arXiv.2410.01218), available as a preprint on arXiv.
-
 * Sep, 2024: [WISE](https://doi.org/10.1190/geo2023-0744.1) was featured in [Geophysics Bright Spot](https://library.seg.org/doi/10.1190/tle43090632.1) in The Leading Edge.
-
-* Aug, 2024: I joined Oxy as a research geophysicist!
 
 * Aug, 2024: [Time-lapse full-waveform permeability inversion: a feasibility study](https://doi.org/10.1190/tle43080544.1) was published in The Leading Edge!
 
@@ -62,11 +58,9 @@ Please feel free to visit my [Curriculum Vitae](https://ziyiyin97.github.io/file
 
 * Jun, 2023: [*Model-Parallel Fourier Neural Operators as Learned Surrogates for Large-Scale Parametric PDEs*](https://doi.org/10.1016/j.cageo.2023.105402) was accepted in *Computers & Geosciences*. [*Learned multiphysics inversion with differentiable programming and machine learning*](https://doi.org/10.1190/tle42070474.1) was accepted in *The Leading Edge*. [*Coupled physics inversion for geological carbon storage monitoring*](https://slimgroup.github.io/IMAGE2023/yin2023IMAGEend2end/abstract.html), [3D seismic survey design by maximizing the spectral gap](https://slimgroup.github.io/IMAGE2023/zhang2023IMAGEsg/abstract.html) and [*Monitoring subsurface CO2 plumes with sequential Bayesian inference*](https://slimgroup.github.io/IMAGE2023/SequentialBayes/abstract.html) were accepted to be presented in *2023 International Meeting for Applied Geoscience and Energy*.
 
-* May, 2023: I started my internship at Chevron in Houston, TX and will be staying here until early September. Feel free to email me for coffee catch-up!
-
 * Apr, 2023: My IMAGE expanded abstract, [*Learned coupled inversion for carbon sequestration monitoring and forecasting with Fourier neural operators*](https://doi.org/10.1190/image2022-3722848.1), was selected as [2022 IMAGE's Student Oral Paper Honorable Mention](https://ziyiyin97.github.io/files/awards/2023/2022_IMAGE_Letter.pdf)!
 
-* Apr, 2023: [*Optimized time-lapse acquisition design via spectral gap ratio minimization*](https://slim.gatech.edu/Publications/Public/Submitted/2023/zhang2023otl/Spectral_Gap_Paper.html) was accepted for publication at Geophysics.
+* Apr, 2023: [*Optimized time-lapse acquisition design via spectral gap ratio minimization*](https://library.seg.org/doi/10.1190/geo2023-0024.1) was published in Geophysics.
 
 * Mar, 2023: Check our recent progress on CO2 monitoring, [*Coupled physics inversion for geological carbon storage monitoring*](https://slimgroup.github.io/IMAGE2023/yin2023IMAGEend2end/abstract.html).
 
