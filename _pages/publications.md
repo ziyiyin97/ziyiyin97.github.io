@@ -19,7 +19,7 @@ Below are dissertations, journal articles, and peer-reviewed conference proceedi
 [**An uncertainty-aware Digital Shadow for underground multimodal CO2 storage monitoring**](https://doi.org/10.1093/gji/ggaf176)       
 Abhinav Prakash Gahlot, Rafael Orozco, **Ziyi Yin**, Grant Bruer, and Felix J. Herrmann       
 In: *Geophysical Journal International*     
-![][journal-img] ![](https://img.shields.io/badge/May%202025-black) [![](https://img.shields.io/badge/DOI-10.1093/gji/ggaf176-blue)](https://doi.org/10.1093/gji/ggaf176)        
+![][journal-img] ![](https://img.shields.io/badge/Jul%202025-black) [![](https://img.shields.io/badge/DOI-10.1093/gji/ggaf176-blue)](https://doi.org/10.1093/gji/ggaf176)        
 [[html]](https://doi.org/10.1093/gji/ggaf176) [[pdf]](https://academic.oup.com/gji/advance-article-pdf/doi/10.1093/gji/ggaf176/63310597/ggaf176.pdf) [[media]](https://research.gatech.edu/digital-twins-make-co2-storage-safer)           
 
 [**Superstep wavefield propagation**](https://doi.org/10.1016/j.wavemoti.2024.103489)       
