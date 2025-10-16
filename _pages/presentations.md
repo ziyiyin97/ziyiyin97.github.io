@@ -11,6 +11,16 @@ Below are conference or seminar presentations without proceedings / DOIs. Papers
 
 ## 2025
 
+**Context-Aware Digital Twin for Underground Storage Operations and Decision Making**       
+Abhinav Prakash Gahlot, Haoyun Li, Ipsita Bhar, Huseyin Tuna Erdinc, Rafael Orozco, <ins>Ziyi Yin</ins>, and Felix J. Herrmann             
+In: *Data Assimilation and Inverse Problems for Digital Twins Workshop 2025*, Oct 2025       
+[[slides]](https://slim.gatech.edu/Publications/Public/Conferences/IMSI/2025/herrmann2025IMSIcad/)       
+
+**Context-aware Digital Twin for Underground Storage**       
+Abhinav Prakash Gahlot, Haoyun Li, Ipsita Bhar, Huseyin Tuna Erdinc, Rafael Orozco, <ins>Ziyi Yin</ins>, and Felix J. Herrmann             
+In: *Artificial Intelligence and Digital Twins for Earth Systems 2025*, Sep 2025       
+[[slides]](https://slim.gatech.edu/Publications/Public/Conferences/AIDT4ES/2025/herrmann2025AIDT4EScad/)       
+
 **Robust Digital Twin for Geological Carbon Storage**       
 Felix J. Herrmann, Abhinav Prakash Gahlot, Rafael Orozco, <ins>Ziyi Yin</ins>, and Grant Bruer       
 In: *SIAM Conference on Computational Science and Engineering 2025*, Mar 2025       
