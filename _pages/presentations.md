@@ -11,6 +11,11 @@ Below are conference or seminar presentations without proceedings / DOIs. Papers
 
 ## 2025
 
+**Amortized Full-Waveform Inference with Learned Summary Statistics**       
+Rafael Orozco, <ins>Ziyi Yin</ins>, Shiqin Zeng, and Felix J. Herrmann             
+In: *Reduced Order and Surrogate Modeling for Digital Twins, IMSI, Chicago*, Nov 2025       
+[[slides]](https://slim.gatech.edu/Publications/Public/Conferences/IMSI/2025/herrmann2025IMSIafi/)     
+
 **Context-Aware Digital Twin for Underground Storage Operations and Decision Making**       
 Abhinav Prakash Gahlot, Haoyun Li, Ipsita Bhar, Huseyin Tuna Erdinc, Rafael Orozco, <ins>Ziyi Yin</ins>, and Felix J. Herrmann             
 In: *Data Assimilation and Inverse Problems for Digital Twins Workshop 2025*, Oct 2025       
