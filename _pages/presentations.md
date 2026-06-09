@@ -7,7 +7,22 @@ author_profile: true
 
 Below are conference or seminar presentations without proceedings / DOIs. Papers with assigned DOIs can be found under [Publications](https://ziyiyin97.github.io/publications/).
 
-\* denotes equal contribution.
+## 2026
+
+**Foundation models for Full-Waveform Inference with Uncertainty Quatification**       
+Huseyin Tuna Erdinc, Ipsita Bhar, Shiqin Zeng, Rafael Orozco, <ins>Ziyi Yin</ins>, and Felix J. Herrmann             
+In: *1st AIHPG - Artificial Intelligence & High-Performance Geophysics Workshop, Natal, Brazil*, May 2026       
+[[slides]](https://slim.gatech.edu/Publications/Public/Conferences/AIHPG/2026/herrmann2026AIHPGfmf/)     
+
+**Context- and uncertainty-aware Digital Twin for the Optimization of Underground Storage Operations**       
+Abhinav Prakash Gahlot, Haoyun Li, Rafael Orozco, <ins>Ziyi Yin</ins>, and Felix J. Herrmann             
+In: *SIAM Geosciences Webinar Series*, May 2026       
+[[slides]](https://slim.gatech.edu/Publications/Public/Conferences/SIAMGS/2026/herrmann2026SIAMGScud/)     
+
+**Amortized Full-Waveform Inference with Learned Summary Statistics**       
+Rafael Orozco, <ins>Ziyi Yin</ins>, Mathias Louboutin, Shiqin Zeng, and Felix J. Herrmann             
+In: *FWI Beyond Structure Interpretation — Benefits and Challenges, SEG workshop*, Feb 2026       
+[[slides]](https://slim.gatech.edu/Publications/Public/Conferences/SEG/2026/herrmann2026SEGWSfwi/)     
 
 ## 2025
 
@@ -59,12 +74,12 @@ In: *ICON Seminar in IoT*, Oct 2024
 [[slides]](https://slim.gatech.edu/Publications/Public/Conferences/PURDUEicon/2024/herrmann2024PURDUEicon) [[recording]](https://www.youtube.com/watch?v=GQT9CLA-DlU)        
 
 **WISER: full-Waveform variational Inference via Subsurface Extensions with Refinements**          
-<ins>Ziyi Yin</ins>\*, Rafael Orozco\*, Mathias Louboutin, and Felix J. Herrmann       
+<ins>Ziyi Yin</ins>, Rafael Orozco, Mathias Louboutin, and Felix J. Herrmann       
 In: *International Meeting for Applied Geoscience & Energy*, Aug 2024        
 [[html]](https://slimgroup.github.io/IMAGE2024/yin2024SEG/paper.html) [[poster]](https://doi.org/10.13140/RG.2.2.35484.71040)            
 
 **A Digital Twin for Geological Carbon Storage with Controlled Injectivity**          
-<ins>Abhinav Prakash Gahlot</ins>\*, Haoyun Li\*, Ziyi Yin, Rafael Orozco, and Felix J. Herrmann       
+<ins>Abhinav Prakash Gahlot</ins>, Haoyun Li, Ziyi Yin, Rafael Orozco, and Felix J. Herrmann       
 In: *International Meeting for Applied Geoscience & Energy*, Aug 2024        
 doi: [10.48550/arXiv.2403.19819](https://doi.org/10.48550/arXiv.2403.19819)     
 [[html]](https://slimgroup.github.io/IMAGE2024/GahlotLi2024SEG/paper.html) [[pdf]](https://arxiv.org/pdf/2403.19819.pdf)        
@@ -115,14 +130,14 @@ In: *Halliburotn HCMF Seminar*, Feb 2024
 [[slides]](https://slim.gatech.edu/Publications/Public/Conferences/Halliburton/2024/herrmann2024dt4gcs/) [[pdf]](https://slim.gatech.edu/Publications/Public/Conferences/Halliburton/2024/herrmann2024dt4gcs.pdf)       
 
 **Generative AI for full-waveform variational inference**       
-<ins>Ziyi Yin</ins>\*, Rafael Orozco\*, Mathias Louboutin, and Felix J. Herrmann       
+<ins>Ziyi Yin</ins>, Rafael Orozco, Mathias Louboutin, and Felix J. Herrmann       
 In: *Georgia Tech Spring 2024 Solid Earth Seminar*, Jan 2024    
 [[slides]](https://slim.gatech.edu/Publications/Public/Lectures/GTseminar/2024/yin2024GTwise)  
 
 ## 2023
 
 **WISE: Full-waveform Inference with Subsurface Extensions**       
-<ins>Ziyi Yin</ins>\*, Rafael Orozco\*, Mathias Louboutin, and Felix J. Herrmann       
+<ins>Ziyi Yin</ins>, Rafael Orozco, Mathias Louboutin, and Felix J. Herrmann       
 In: *ML4Seismic Partners Meeting 2023*, Nov 2023    
 [[slides]](https://slim.gatech.edu/Publications/Public/Conferences/ML4SEISMIC/2023/yin2023ML4SEISMICwise)  
 
