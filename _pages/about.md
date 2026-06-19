@@ -10,8 +10,6 @@ redirect_from:
 
 ## About me
 
-I am currently a Founding Member of Technical Staff at [KronosAI](https://kronosai.co/), focusing on building foundation models for physics simulations.
-
 A super high-level summary of my research scope is ***high-dimensional Bayesian inference for computationally expensive parameter-to-observable maps***. Generally, my research interests include:
 
 * scientific machine learning
@@ -25,6 +23,8 @@ A super high-level summary of my research scope is ***high-dimensional Bayesian 
 Please feel free to visit my [Curriculum Vitae](https://ziyiyin97.github.io/files/Ziyi_Yin_CV.pdf) to know more about my industrial experiences and academic backgrounds.
 
 ### Recent News
+
+* Jun, 2026: I have left KronosAI.
 
 * May, 2025: [An uncertainty-aware Digital Shadow for underground multimodal CO2 storage monitoring](https://doi.org/10.1093/gji/ggaf176) was published in Geophysical Journal International!
 
